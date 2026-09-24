@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Awesome Opus 5.5 Demo — curated gallery of public Claude Opus 5.5 demos: games, 3D, films, and agents">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Awesome Opus 5.5 Use Cases — curated gallery of public Claude Opus 5.5 use cases: games, 3D, films, and agents">
 </p>
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg" alt="License: CC0-1.0"></a>
-  <a href="https://github.com/coolbat/awesome-opus-5.5-demo/stargazers"><img src="https://img.shields.io/github/stars/coolbat/awesome-opus-5.5-demo?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/coolbat/awesome-opus-5.5-usecase/stargazers"><img src="https://img.shields.io/github/stars/coolbat/awesome-opus-5.5-usecase?style=social" alt="GitHub stars"></a>
 </p>
 
-A curated gallery of **public Claude Opus 5.5 demos** — playable games, interactive 3D, films, and agents — collected from GitHub, X, and Hacker News.
+A curated gallery of **public Claude Opus 5.5 use cases** — playable games, interactive 3D, films, and agents — collected from GitHub, X, and Hacker News.
 
-*Claude Opus 5.5 公开演示精选：游戏、3D、影像与 Agent 作品合集。*
+*Claude Opus 5.5 公开用例精选：游戏、3D、影像与 Agent 作品合集。*
 
-**Claude Opus 5.5** launched on **2026-09-22** as the first model in Anthropic’s Claude 5.5 family. Within days, builders shipped playable Three.js games, cinematic browser films, multi-agent harnesses, and same-prompt A/B benches. This list tracks the most interesting public demos.
+**Claude Opus 5.5** launched on **2026-09-22** as the first model in Anthropic’s Claude 5.5 family. Within days, builders shipped playable Three.js games, cinematic browser films, multi-agent harnesses, and same-prompt A/B benches. This list tracks the most interesting public use cases.
 
 ---
 
 ## Featured
 
-Start here — strongest public demos with live links where available.
+Start here — strongest public use cases with live links where available.
 
 - **[Pelican on a Bike](https://github.com/riba2534/claude-opus-5-5-demo)** — Viral Three.js pelican-on-a-bike game (~764★). **[▶ Live demo](https://claude-opus-5-5.riba2534.cn/)** · [HN](https://news.ycombinator.com/item?id=49812241)
 - **[Rain on Glass](https://rain-on-glass-production.up.railway.app)** — Interactive foggy-window rain scene. **[▶ Live](https://rain-on-glass-production.up.railway.app)** · [X post](https://x.com/HixonStudio/status/2102511610518774178)
@@ -133,13 +133,13 @@ Posts and threads that shipped a memorable demo (or sparked a wave of copies).
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). Please add entries with a title, link, one-line description, source (`github` / `x` / `hn` / …), and an optional live demo URL — and keep `data/demos.json` in sync with the README.
+See [CONTRIBUTING.md](CONTRIBUTING.md). Please add entries with a title, link, one-line description, source (`github` / `x` / `hn` / …), and an optional live demo URL — and keep `data/usecases.json` in sync with the README.
 
-Structured seed data for automation lives in [`data/demos.json`](data/demos.json).
+Structured seed data for automation lives in [`data/usecases.json`](data/usecases.json).
 
-### Non-demo footnote
+### Non-use-case footnote
 
-Pure system-prompt / prompt-leak repositories (for example `asgeirtj/system_prompts_leaks` and `cbrunner/opus-5.5-system-prompt-components`) are intentionally **not** listed in the demo sections above.
+Pure system-prompt / prompt-leak repositories (for example `asgeirtj/system_prompts_leaks` and `cbrunner/opus-5.5-system-prompt-components`) are intentionally **not** listed in the use-case sections above.
 
 ---
 

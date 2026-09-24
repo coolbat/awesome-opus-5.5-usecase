@@ -1,10 +1,10 @@
 # Contributing
 
-Thanks for helping grow this curated list of Claude Opus 5.5 demos.
+Thanks for helping grow this curated list of Claude Opus 5.5 use cases.
 
 ## What belongs here
 
-We welcome **demos** — playable games, interactive 3D scenes, films/animations, agent/engineering showcases, and related curated collections — that were built with or prominently feature **Claude Opus 5.5**.
+We welcome **use cases** — playable games, interactive 3D scenes, films/animations, agent/engineering showcases, and related curated collections — that were built with or prominently feature **Claude Opus 5.5**.
 
 We generally **do not** list pure prompt-leak / system-prompt dumps in the main sections. Benchmarks and analysis posts are welcome under their own section.
 
@@ -13,13 +13,13 @@ We generally **do not** list pure prompt-leak / system-prompt dumps in the main 
 Open a pull request that updates both:
 
 1. `README.md` — add a bullet under the right section
-2. `data/demos.json` — append a matching object (keeps the list machine-readable)
+2. `data/usecases.json` — append a matching object (keeps the list machine-readable)
 
 ### Required fields
 
 | Field | Description |
 | --- | --- |
-| **title** | Short, descriptive name of the demo |
+| **title** | Short, descriptive name of the use case |
 | **url** | Primary link (GitHub repo, article, or landing page) |
 | **description** | One sentence: what it is and why it is interesting |
 | **source** | One of: `github`, `x`, `hn`, `web`, `official` |
@@ -33,7 +33,7 @@ Open a pull request that updates both:
 | **notes** | Extra context (HN thread, X handle, A/B pairing, etc.) |
 | **category** | One of: `official`, `games-3d`, `creative`, `agent`, `collections`, `benchmarks`, `showcase` |
 
-### `data/demos.json` shape
+### `data/usecases.json` shape
 
 ```json
 {
@@ -63,7 +63,7 @@ Keep descriptions in complete English sentences. A short Chinese subtitle on the
 
 - [ ] Link resolves and clearly relates to Opus 5.5
 - [ ] Entry is not a duplicate of an existing item
-- [ ] `README.md` and `data/demos.json` stay in sync
+- [ ] `README.md` and `data/usecases.json` stay in sync
 - [ ] Live demo URL included when publicly available
 - [ ] Source (`github` / `x` / `hn` / …) is accurate
 
