@@ -64,6 +64,11 @@ Playable scenes and games built with Opus 5.5 — live links included when publi
 - [Sprout Quest](https://github.com/aibengineering/sprout-quest) — Cute mobile adventure with arena battles, crafting, village building, and Blender-rendered 3D art
 - [Tatertots Flight Sim](https://github.com/JaredTate/tatertotsflightsim) — Early Opus 5.5 flight-simulator test build
 - [Qingming Bianjing A/B](https://github.com/SilentFleetKK/qingming-bianjing) — Realtime 3D *Qingming Shanghe Tu* city: same prompt, Opus 5.5 vs GPT-6 Sol
+- [Clearwater](https://github.com/Aureliengmz/clearwater) — Single-file WebGL2 photoreal shallow water with FFT waves, interactive ripples, and caustics, co-authored with Opus 5.5 (~375★). **[Live demo](https://aureliengmz.github.io/clearwater/)**
+- [Sakura river-valley boat (Meng To)](https://x.com/MengTo/status/2102760783344189761) — Playable Three.js riverboat ride through a feudal Japanese mountain valley with painterly water and weather. **[Live demo](https://valley.mengto.here.now)**
+- [Foldline](https://x.com/chetanankola/status/2103001194696458512) — Watercolor-and-ink Three.js road that folds up walls and into sheet music you steer through to play each street's melody (`@chetanankola`)
+- [Slide Rush](https://github.com/KJLKurt/waterslide-game-opus-5.5) — Mobile-first Three.js waterslide racer against 12 AI rivals, built at extra-high effort. **[Live demo](https://kjlkurt.github.io/waterslide-game-opus-5.5/)**
+- [Fishslop](https://github.com/vasu-devs/FishSlop_Opus5.5) — Underwater reef-keeping Three.js game with a bathyscaphe, procedural fish, sonar, and an upgrade economy. **[Live demo](https://vasu-devs.github.io/FishSlop_Opus5.5/)**
 
 ---
 
@@ -79,6 +84,10 @@ Music videos, JS-directed films, canvas loops, and generative art demos.
 - [Rain on Glass](https://rain-on-glass-production.up.railway.app) — Interactive foggy-window rain scene. **[Live](https://rain-on-glass-production.up.railway.app)** · [X post](https://x.com/HixonStudio/status/2102511610518774178)
 - [echohive Ozymandias](https://www.echohive.ai/ozymandias) — Cinematic browser animation of Shelley’s *Ozymandias*
 - [echohive TSP portrait art](https://www.echohive.ai/tsp-art) — Generative TSP portrait art demo in the browser
+- [LaunchVideo](https://github.com/diggerhq/shipvideo) — Paste a URL or prompt and Opus 5.5 writes an HTML film that is rendered frame-by-frame into an MP4 (~96★). **[Live](https://launchvideo.io)** · [HN](https://news.ycombinator.com/item?id=49836374)
+- [Opus 5.5 vs Astra motion showreel](https://x.com/shneural/status/2103151003272962130) — Same one-shot prompt; Opus built a Python/Skia + Blender pipeline for a 15-second code-drawn motion piece (`@shneural`)
+- [3blue1brown-style paper explainer](https://x.com/deedydas/status/2103141339651350646) — Eight-minute code-rendered video summary of a research paper generated with Opus 5.5 (`@deedydas`)
+- [The Golden Ford](https://www.echohive.ai/experiments/the-golden-ford) — Interactive 2.5D multiplane parallax battle scene across six painted acts. **[Live](https://www.echohive.ai/experiments/the-golden-ford)** · [HN](https://news.ycombinator.com/item?id=49835099)
 
 ---
 
@@ -91,6 +100,7 @@ Harnesses, one-shot codebases, orchestrators, and large HTML/web batches.
 - [chemrs](https://github.com/bddap-bot/chemrs) — Idiomatic Rust cheminformatics toolkit written one-shot by Opus 5.5
 - [opus-55-10k-websites](https://github.com/Barty-Bart/opus-55-10k-websites) — Cinematic drone fly-through brand sites powered by Opus 5.5 + Higgsfield MCP prompts
 - [100 HTML Files](https://github.com/MiaAI-Lab/Claude-Opus-5.5-100-HTML-Files) — One hundred self-contained HTML pages with gallery screenshots and the exact prompts used
+- [Bosphore 1819](https://github.com/CahidArda/bosphore-1819) — Opus 5.5 subagents transcribe, map, and translate all 387 labels on an 1819 French map of the Bosphorus. **[Live](https://bosphore-1819.vercel.app)** · [HN](https://news.ycombinator.com/item?id=49836367)
 
 ---
 
@@ -103,6 +113,9 @@ Related awesome lists and prompt packs (some cover adjacent models — noted inl
 - [frontier-games](https://github.com/theolundqvist/frontier-games) — Best games and films from Opus 5.5 and GPT-6 Astra, sorted by how fast you can try them
 - [awesome-opus5-use-cases](https://github.com/Evolink-AI/awesome-opus5-use-cases) — Source-backed use cases for **Claude Opus 5** (older release; related, not 5.5-specific)
 - [opus55-demolar](https://github.com/fornhere/opus55-demolar) — Fourteen visual demos with prompts (Turkish)
+- [opus-100-projects](https://github.com/swan4er/opus-100-projects) — Gallery of 121 interactive 3D, game, and cartoon projects assembled by Opus 5.5 in one autonomous run. **[Live gallery](https://swan4er.github.io/opus-100-projects/)**
+- [awesome-opus-5-5-videos](https://github.com/athemeroy/awesome-opus-5-5-videos) — Source-linked catalog of 1,000+ X videos made with Opus 5.5, labeled by domain, style, and production method
+- [awesome-opus5.5-frontend-showcases](https://github.com/OpenVGLab/awesome-opus5.5-frontend-showcases) — SVG games, Lottie, voxel builds, and Three.js scenes, plus original SVG titles like Kitchen Rush and Sunny Kart. **[Live gallery](https://openvglab.github.io/awesome-opus5.5-frontend-showcases/)**
 
 ---
 
@@ -116,6 +129,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 - [Partforge CAD harness](https://www.partforge.ai/blog/2026-09-23-new-model-day) — New-model-day CAD harness comparing Sol and Opus
 - [opus-5.5-benchmarks](https://github.com/avenoxai/opus-5.5-benchmarks) — Launch-day test suite with several head-to-heads against GPT-6
 - [war-atlas-a-b](https://github.com/yanqingcheng/war-atlas-a-b) — Same-prompt Mongol war atlas A/B: Opus 5.5 vs GPT-6 Sol
+- [Endor Labs — Agent Security League](https://www.endorlabs.com/learn/opus-5-5-6x-cheaper-and-2x-faster-than-fable-5-1-but-memorization-keeps-it-off-the-top-spot) — Claude Code + Opus 5.5 scored 68.7% functional / 33.5% secure code at a $116 full-run cost versus Fable 5.1 and Opus 5
 
 ---
 
@@ -128,6 +142,9 @@ Posts and threads that shipped a memorable demo (or sparked a wave of copies).
 - [Hand-drawn chess + analysis](https://x.com/higgsfield_ai/status/2102534514228822197) — Higgsfield hand-drawn chess analysis showcase
 - [Rain on Glass (X)](https://x.com/HixonStudio/status/2102511610518774178) — Source post for the interactive foggy-window demo
 - [Claude Opus 5.5 (HN, official)](https://news.ycombinator.com/item?id=49803863) — Main launch-day Hacker News thread for Anthropic’s announcement
+- [LaunchVideo (HN)](https://news.ycombinator.com/item?id=49836374) — Popular HN thread for the URL-to-launch-film agent
+- [Sakura river-valley boat (X)](https://x.com/MengTo/status/2102760783344189761) — Viral Meng To post for the playable river-valley scene (`@MengTo`)
+- [Motion showreel A/B (X)](https://x.com/shneural/status/2103151003272962130) — Opus 5.5 vs GPT-6 Astra one-shot showreel comparison (`@shneural`)
 
 ---
 
