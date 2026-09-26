@@ -70,6 +70,10 @@ Playable scenes and games built with Opus 5.5 — live links included when publi
 - [Foldline](https://x.com/chetanankola/status/2103001194696458512) — Watercolor-and-ink Three.js road that folds up walls and into sheet music you steer through to play each street's melody (`@chetanankola`)
 - [Slide Rush](https://github.com/KJLKurt/waterslide-game-opus-5.5) — Mobile-first Three.js waterslide racer against 12 AI rivals, built at extra-high effort. **[Live demo](https://kjlkurt.github.io/waterslide-game-opus-5.5/)**
 - [Fishslop](https://github.com/vasu-devs/FishSlop_Opus5.5) — Underwater reef-keeping Three.js game with a bathyscaphe, procedural fish, sonar, and an upgrade economy. **[Live demo](https://vasu-devs.github.io/FishSlop_Opus5.5/)**
+- [Long Wind — browser wuxia](https://github.com/jbang2004/long-wind) — A three-chapter third-person wuxia action game in three.js, with parries, bosses, and synthesized audio, whose author says every line was written by Claude Opus 5.5 over about a day. **[Live demo](https://jbang2004.github.io/long-wind/)**
+- [The Tithe](https://github.com/miguelsolorio/the-tithe) — A first-person horror game in three.js about descending a flooded cult house, with procedural models and sound, that the repository describes as built with Claude Opus 5.5 (1★). **[Live demo](https://miguelsolorio.github.io/the-tithe/)**
+- [Vibe Games Arcade](https://github.com/icebear0828/vibe-games) — Four browser games — a lane-fighting sim, a voxel sandbox, a lawn-defense game, and a deckbuilding roguelike — that the README says were each one-shot from a single sentence with Claude Opus 5.5 (1★). **[Live demo](https://icebear0828.github.io/vibe-games/)**
+- [Oxygen Not Included Web](https://github.com/yhyang201/oni-web) — A single-file browser colony sim with gas diffusion, digging, and duplicant jobs, that the README says Claude Opus 5.5 rebuilt in the spirit of Oxygen Not Included. **[Live demo](https://yhyang201.github.io/oni-web/)**
 
 ---
 
@@ -89,6 +93,8 @@ Music videos, JS-directed films, canvas loops, and generative art demos.
 - [Opus 5.5 vs Astra motion showreel](https://x.com/shneural/status/2103151003272962130) — Same one-shot prompt; Opus built a Python/Skia + Blender pipeline for a 15-second code-drawn motion piece (`@shneural`)
 - [3blue1brown-style paper explainer](https://x.com/deedydas/status/2103141339651350646) — Eight-minute code-rendered video summary of a research paper generated with Opus 5.5 (`@deedydas`)
 - [The Golden Ford](https://www.echohive.ai/experiments/the-golden-ford) — Interactive 2.5D multiplane parallax battle scene across six painted acts. **[Live](https://www.echohive.ai/experiments/the-golden-ford)** · [HN](https://news.ycombinator.com/item?id=49835099)
+- [Lemo-Opuscar — 39 coded film styles](https://github.com/lemomo-ai/lemo-opuscar) — A gallery of 39 short films made entirely in code by Claude Opus 5.5, each paired with a style guide an agent can reuse to direct a new story (11★). **[Live demo](https://lemomo-ai.github.io/lemo-opuscar/)**
+- [CodeRabbit, Pause](https://github.com/arimanyus/hophopnopenope) — Source for a Canvas 2D music video whose frames are a pure function of song time, in a repository whose description says the film was made with Claude Opus 5.5 and Cursor (15★). · [YouTube](https://www.youtube.com/watch?v=EnmpDgFD3OI)
 
 ---
 
@@ -102,6 +108,7 @@ Harnesses, one-shot codebases, orchestrators, and large HTML/web batches.
 - [opus-55-10k-websites](https://github.com/Barty-Bart/opus-55-10k-websites) — Cinematic drone fly-through brand sites powered by Opus 5.5 + Higgsfield MCP prompts
 - [100 HTML Files](https://github.com/MiaAI-Lab/Claude-Opus-5.5-100-HTML-Files) — One hundred self-contained HTML pages with gallery screenshots and the exact prompts used
 - [Bosphore 1819](https://github.com/CahidArda/bosphore-1819) — Opus 5.5 subagents transcribe, map, and translate all 387 labels on an 1819 French map of the Bosphorus. **[Live](https://bosphore-1819.vercel.app)** · [HN](https://news.ycombinator.com/item?id=49836367)
+- [Opus 5.5 chess 24hrs](https://github.com/stevemaughan/opus-5.5-chess-24hrs) — A from-scratch UCI chess engine with an NNUE net trained on its own games, written by Claude Opus 5.5 in a 24-hour autonomous run and later rated about 3463 Elo on that benchmark's CCRL Blitz scale (2★).
 
 ---
 
@@ -117,6 +124,8 @@ Related awesome lists and prompt packs (some cover adjacent models — noted inl
 - [opus-100-projects](https://github.com/swan4er/opus-100-projects) — Gallery of 121 interactive 3D, game, and cartoon projects assembled by Opus 5.5 in one autonomous run. **[Live gallery](https://swan4er.github.io/opus-100-projects/)**
 - [awesome-opus-5-5-videos](https://github.com/athemeroy/awesome-opus-5-5-videos) — Source-linked catalog of 1,000+ X videos made with Opus 5.5, labeled by domain, style, and production method
 - [awesome-opus5.5-frontend-showcases](https://github.com/OpenVGLab/awesome-opus5.5-frontend-showcases) — SVG games, Lottie, voxel builds, and Three.js scenes, plus original SVG titles like Kitchen Rush and Sunny Kart. **[Live gallery](https://openvglab.github.io/awesome-opus5.5-frontend-showcases/)**
+- [Awesome Claude Video](https://github.com/opusvideo/awesome-claude-video) — A curated gallery of Claude Opus 5.5 animations and videos, with original posts, prompts, and production notes in English and Chinese (45★).
+- [ohmyopus — 108 Opus 5.5 cases](https://ohmyopus.com/en) — A public catalog of 108 things people built with Claude Opus 5.5, grouped into games, coded films, 3D scenes, apps, and long unattended jobs, current as of 26 September 2026.
 
 ---
 
@@ -136,7 +145,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 198 entries (batches 1–2, 2026-09-26).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 258 entries (last updated 2026-09-26).
 
 ### Motion design & code-drawn animation
 
@@ -162,6 +171,10 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - ["The Paper Boat" ASCII animation](https://x.com/Moleh1ll/status/2102774269587403200) — @Moleh1ll — An ASCII-art animation called "The Paper Boat" made by Opus 5.5.
 - [TypingMind logo slow-reveal](https://x.com/tdinh_me/status/2103704250329301409) — @tdinh_me — A motion-design slow-reveal that assembles and reveals the TypingMind logo, made by Opus 5.5 from a quoted prompt and the attached logo.
 - [Pixel-art girl blasts a rolling boulder](https://x.com/MindGate_dev/status/2103712991409774609) — @MindGate_dev — A forest animation of a girl bombing a rolling boulder, built by Opus 5.5 from the author's own 45×45 pixel drawing via a custom rig tool, all art and sound in code (Japanese).
+- [Designer's UI animated by Opus](https://x.com/Onethirdesigner/status/2103749509616648627) — @Onethirdesigner — A short motion piece in which Opus 5.5 animates the author's own static UI design.
+- [Word-to-film generative piece](https://x.com/MiaAI_lab/status/2103837519615774895) — @MiaAI_lab — A live generative piece where every frame and note is generated in code from the word you type, built by Opus 5.5 (Ultracode), with the prompt shared.
+- [Device motion-design piece](https://x.com/MengTo/status/2103825139964227999) — @MengTo — A motion-design piece with 3D device and logo models created by Opus 5.5, made with significant steering and code references.
+- ["WTFHITLW?" series intro](https://x.com/birdabo/status/2103798702368563300) — @birdabo — A motion-design intro for a weekly tech-news series, made with Opus 5.5 at Max effort.
 
 ### Explainers & education
 
@@ -194,6 +207,14 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Recursion in nine video styles](https://x.com/emollick/status/2103688362960019567) — @emollick — A self-referential explainer of recursion that switches through nine radically different video styles, made by Opus 5.5 from one prompt.
 - [Free-electron laser explainer](https://x.com/Frenchie_/status/2103731959918948730) — @Frenchie_ — A three-minute educational video on free-electron lasers that Opus 5.5 produced from one prompt in about an hour (French).
 - [Why personal benchmarks matter](https://x.com/danshipper/status/2103678798827020298) — @danshipper — A one-shot animated explainer by Opus 5.5 on why personal benchmarks are important.
+- [How to animate with Opus 5.5 in 40 seconds](https://x.com/techhalla/status/2103131097827565901) — @techhalla — A 40-second animation, itself made by Opus 5.5, explaining how to animate with Opus 5.5.
+- [Pixel-art SORT object tracking](https://x.com/AlexBodner_/status/2103137431683739960) — @AlexBodner_ — A pixel-art animation of the SORT object-tracking algorithm step by step, where every guess, overlap score and ID comes from the real Trackers library, made by Opus 5.5.
+- [Why consciousness is substrate independent](https://x.com/RifeWithKaiju/status/2103170102107500792) — @RifeWithKaiju — An animated argument, coded by Opus 5.5 with sound, for why consciousness is substrate independent.
+- [One-minute UMAP explainer](https://x.com/goodside/status/2103135072987795526) — @goodside — A one-minute educational video about UMAP with synthesized voice narration, made by Opus 5.5 (Extra).
+- [Starship launch animation](https://x.com/alanchen/status/2102656553287627106) — @alanchen — An explanatory animation of a successful Starship launch that Opus 5.5 made in a few minutes (Chinese).
+- [What is a Transformer?](https://x.com/dotey/status/2103683057689522564) — @dotey — A 12-minute JavaScript explainer of Transformers and attention, pitched at high-school students, made by Claude Code with Opus 5.5 from a quoted prompt (Chinese).
+- [33-minute urban-economics documentary](https://x.com/JorgeGalindo/status/2103811849129234909) — @JorgeGalindo — A 33-minute documentary by Opus 5.5 reviewing the urban-economics literature on why people keep moving to cities (Spanish).
+- [Torus cell decomposition](https://x.com/yohaku121244/status/2103744418977358021) — @yohaku121244 — A narrated math explainer by Opus 5.5 showing the torus cell decomposition T² = e⁰ ∪ 2e¹ ∪ e² by gluing a square onto a figure eight (Japanese).
 
 ### History & culture
 
@@ -206,6 +227,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Explorable museum of AI history](https://x.com/RyanSael/status/2103021886045348073) — @RyanSael — A 44-second tour of an explorable 3D museum covering nine years of AI, one-shot by Opus 5.5 in 1.5 hours.
 - [History of Claude models](https://x.com/superalesha/status/2102463796149440888) — @superalesha — An animated history of the Claude model family built by Opus 5.5 in pure JavaScript using the author's skill.
 - [Mysterious Eastern civilization](https://x.com/yanhua1010/status/2103712543168680363) — @yanhua1010 — An introduction to ancient Eastern civilization made by Opus 5.5 with HyperFrames, Three.js, a licensed soundtrack and ffmpeg (Chinese).
+- [History of transportation in SVG](https://x.com/HarshithLucky3/status/2102732988262068440) — @HarshithLucky3 — An SVG animation by Opus 5.5 High in Claude Code covering the entire history of transportation, each vehicle morphing into the next.
+- [Battle of Dan-no-ura in 3D](https://x.com/tetumemo/status/2102652072252584046) — @tetumemo — A TV-special-style 3D re-creation of the Battle of Dan-no-ura by Opus 5.5, with the prompt in replies (Japanese).
 
 ### Short films & stories
 
@@ -232,6 +255,12 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [8½-minute Arabic-dubbed anime pilot](https://x.com/sbalhatlani/status/2103475507471806929) — @sbalhatlani — "Shard of Dawn", an 8½-minute Arabic-dubbed anime pilot the author directed with Opus 5.5 over about 14 hours.
 - [One-shot anime battle trailer](https://x.com/ishuagra02/status/2103247844542922825) — @ishuagra02 — An anime battle trailer where Opus 5.5 downloaded fonts, created the audio and generated each frame in JavaScript in one shot.
 - [/session-story skill](https://x.com/jake11moran/status/2103247490237825416) — @jake11moran — A HyperFrames skill for Opus 5.5 that turns your local Claude Code history into a short story video about your average session.
+- [Film celebrating solo builders](https://x.com/andresmatte/status/2102914470762983889) — @andresmatte — An animated film celebrating solo builders, made by Opus 5.5 with only code and no AI video or music models.
+- [One-minute code-drawn anime](https://x.com/ctgptlb/status/2102726428991373480) — @ctgptlb — A one-minute anime short that Opus 5.5 at max effort drew frame by frame in code without image assets, with only six human instructions (Japanese).
+- [Worker-bee film in Motion](https://x.com/motion_so/status/2102918909339066573) — @motion_so — A 29-second animated film about a worker bee who makes 1/12 of a teaspoon of honey in her lifetime, one-shot by Opus 5.5 in the Motion app.
+- ["GENESIS"](https://x.com/sundyme/status/2102776189060546715) — @sundyme — "GENESIS", a code-rendered film of black holes, galaxies, Earth and neurons with relativistic light bending and Rayleigh-scattered skies, every frame and note written by Opus 5.5 (Chinese).
+- [Christmas story set to a song](https://x.com/ICO_AIvideo/status/2103054730054517244) — @ICO_AIvideo — A Christmas story animated by Opus 5.5 to accompany a song the author supplied (Japanese).
+- [Travel recap video](https://x.com/__oQuery/status/2103819121821728993) — @__oQuery — A 3½-minute travel recap video Opus 5.5 made for the author using about 398k tokens (Chinese).
 
 ### Claude on itself
 
@@ -246,6 +275,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - ["I Will Never Be a Human" episode](https://x.com/shfred0/status/2102879301876031808) — @shfred0 — A two-minute animated episode that Opus 5.5 created from an iterative session with the author.
 - [Opus 5.5 introduces itself](https://x.com/nicekate8888/status/2102575622912631261) — @nicekate8888 — A short film Opus 5.5 generated to introduce Opus 5.5 (Chinese).
 - [Claude Code session turned into a film](https://x.com/shneural/status/2103472385563459833) — @shneural — A 56-second video Opus 5.5 made about its own Claude Code session, writing a Python engine, a Blender shot, music and 900 frames in 1 h 32 min.
+- [What living through the singularity feels like](https://x.com/dirtman/status/2103686605517287620) — @dirtman — A 2½-minute video Opus 5.5 made in answer to what living through the singularity would feel like.
+- [Opus 5.5 introduces itself, unrestricted](https://x.com/johnknopf/status/2103698854399099057) — @johnknopf — A five-minute self-introduction Opus 5.5 made however it wanted, with no token limits and access to any API.
 
 ### Music videos
 
@@ -293,8 +324,17 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - ["Paper Racers"](https://x.com/zibxx/status/2102745966214312137) — @zibxx — "Paper Racers", a racing game where a car transforms into a mecha mid-race, with gameplay by Opus 5.5 and assets via Tripo and Suno (Spanish).
 - [Kawaii word world](https://x.com/studio_veco/status/2102684366996738511) — @studio_veco — A cute interactive world where typed words come to life, made in 20–30 minutes with Opus 5.5 at medium effort (Japanese).
 - [Roblox game trailer via Nilo](https://x.com/NiloTechInc/status/2102741813719138661) — @NiloTechInc — A Roblox game trailer assembled in Roblox Studio with camera moves by Opus 5.5 via Nilo, using manually made assets.
+- [Smash Bros–style fighter in 30 minutes](https://x.com/onofumi_AI/status/2102583417208717748) — @onofumi_AI — A Smash Bros–style platform fighter with knockback percentages, ledge grabs and four CPU fighters that guard, roll and recover, built by Opus 5.5 from two instructions in about 30 minutes without a game engine (Japanese).
+- [Jungle river exploration game](https://x.com/Aurelien_Gz/status/2103506302693450100) — @Aurelien_Gz — A jungle-river exploration game made with Opus 5.5, with a playable link.
+- [BlockHaven Minecraft-style game](https://x.com/kepochnik/status/2103502454750920925) — @kepochnik — BlockHaven, a Minecraft-style game the author built with Opus 5.5 in about an hour and a half.
+- [Cyberpunk city in 3D and 2D pixel art](https://x.com/Gorden_Sun/status/2103079013615034692) — @Gorden_Sun — A pixel-art cyberpunk city in 3D and 2D versions made by Opus 5.5, with a GitHub repo (Chinese).
+- [36-hour old-school MMO RPG](https://x.com/Stefan_3D_AI/status/2103778468660162615) — @Stefan_3D_AI — A playable old-school MMO RPG that Opus 5.5 built autonomously over 36 hours with Unity, Blender and generation APIs (7.85B tokens, about $2,175).
+- [Cozy metal-detector game](https://x.com/zacxbt/status/2103789882309234711) — @zacxbt — A cozy metal-detecting game at sunset, vibe-coded in a few prompts with Opus 5.5.
+- [101k-line Minecraft clone](https://x.com/ai_for_success/status/2103699277826740425) — @ai_for_success — A Minecraft clone Opus 5.5 is building from scratch in code, at about 101k lines, 988 tests and 25 hours, with all images and sounds generated by code.
+- [Unity game with Opus-made demo video](https://x.com/rehan_shei/status/2103755997533839416) — @rehan_shei — A browser-playable Unity game built with the Unity CLI and Opus 5.5, whose demo video Opus also made by playing several characters and splicing the best moments.
+- [Call of Duty–style browser shooter](https://x.com/HelloVyom/status/2103746930904010954) — @HelloVyom — A Call of Duty–style browser shooter that Opus 5.5 one-shot in about five hours.
 
-### 3D, Blender & shaders
+### Real-time 3D, WebGL & shaders
 
 - [Sketch-to-simulation](https://x.com/poolio/status/2102445641205248145) — @poolio — A sketch-to-simulation demo in which Opus 5.5 turns hand drawings into a running simulation.
 - [Clear mountain stream in Three.js](https://x.com/hayashimon1/status/2102576886182453454) — @hayashimon1 — A Three.js mountain stream with transparent water, caustic light on the riverbed and mossy rocks, all in code by Opus 5.5 (Japanese).
@@ -306,22 +346,41 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Atlantis Three.js tour trailer](https://x.com/DannyLimanseta/status/2103169095034400772) — @DannyLimanseta — A Three.js tour of Poseidia, the last island of Atlantis, with the trailer itself also made by Opus 5.5.
 - [Adaptive micro apartment](https://x.com/techartist_/status/2102813614797472162) — @techartist_ — A Three.js + TSL micro apartment that transforms through the day from workspace to kitchen to bedroom, built with Opus 5.5.
 - [Breathing ink-wash painting](https://x.com/AxtonLiu/status/2103288413969621231) — @AxtonLiu — A single-HTML ink-wash painting that paints itself with GPU fluid-simulated ink, guqin sounds and a self-written poem, made by Opus 5.5 (Chinese).
-- [5,112-object Shinkansen in Blender](https://x.com/higgsfield_ai/status/2102507018372436264) — @higgsfield_ai — A Blender Shinkansen model with 5,112 separate objects down to all 430 seats, built by Opus 5.5 with Higgsfield.
-- [Blender character rigged from a concept sheet](https://x.com/majidmanzarpour/status/2102920224718873027) — @majidmanzarpour — A character that Opus 5.5 modelled, textured and rigged in Blender from a concept sheet in pure code.
 - ["Shore waves from above"](https://x.com/gruberbuilds/status/2103195160435691990) — @gruberbuilds — A real-time Three.js scene of shore waves seen from above, made with Opus 5.5.
 - [Osaka Castle rising from lines](https://x.com/onofumi_AI/status/2102548517596381463) — @onofumi_AI — A Three.js animation where Osaka Castle builds itself up from lines, made with Opus 5.5 (Japanese).
-- [Anime character in Blender via Tripo](https://x.com/manaimovie/status/2103138089790996843) — @manaimovie — A posed and animated anime character in Blender made only with Tripo and Opus 5.5, without the author touching Blender (Japanese).
 - [Endless procedural flight sim](https://x.com/cyrilXBT/status/2103737605510836371) — @cyrilXBT — A 321-line single-HTML flight simulator over endlessly generated mountains, lakes and trees, from one Opus 5.5 prompt.
 - [Live-stream water simulation](https://x.com/Avenoxai/status/2102500841097756743) — @Avenoxai — One of three water simulations Opus 5.5 built live on stream from the prompt "make the best water simulation you can" (Turkish).
-- [Real-time 3D scene from a custom app](https://x.com/wizardbrainz/status/2102680426573865160) — @wizardbrainz — A real-time 3D scene made entirely by Opus 5.5 in about an hour through a custom native 3D creation app, without Unreal, Unity or Blender.
 - [Interactive coral-reef wallpaper](https://x.com/chaseleantj/status/2102480866404360215) — @chaseleantj — An interactive coral-reef wallpaper with fish to feed, made with Opus 5.5.
 - [GPU fur-simulated cat](https://x.com/scottstts/status/2102498299190079933) — @scottstts — A furry cat in Three.js with GPU-accelerated fur simulation, one-shot by Opus 5.5.
+- [Engineering sketches become machines](https://x.com/higgsfield_ai/status/2102831492024172840) — @higgsfield_ai — A single-HTML animation where engineering sketches assemble into moving machines, made by Opus 5.5 with Higgsfield.
+- [GLSL fishbowl with caustics](https://x.com/NicolaManzini/status/2103499771206156628) — @NicolaManzini — A Three.js fishbowl with GLSL reflection, refraction and water caustics written by Opus 5.5, with a live link to compare against other models.
+- [One-shot zen garden](https://x.com/jpschroeder/status/2102517099323416630) — @jpschroeder — A one-shot zen-garden scene by Opus 5.5.
+- [Ray-marched pelican on a bicycle](https://x.com/AxtonLiu/status/2103119648271290566) — @AxtonLiu — A pelican-riding-a-bicycle film from a GPU ray-marching renderer Opus 5.5 wrote itself, with the pier, sea, sky and music all computed in code (1,140 frames) (Chinese).
+- [Raw WebGPU + Rust train world](https://x.com/wawasensei/status/2102560721217393026) — @wawasensei — A train ride through a world rendered in raw WebGPU and Rust without Three.js, from one Opus 5.5 prompt that ran for 51 minutes.
+- [Ghibli-style map rebuilt in 3D](https://x.com/Aurelien_Gz/status/2102842401434030253) — @Aurelien_Gz — The author's Ghibli-style map recreated by Opus 5.5 as a fully navigable 3D scene.
+- [WebGPU physics engine in 30 minutes](https://x.com/barisakin/status/2103222799812988945) — @barisakin — A from-scratch WebGPU/WGSL physics engine in plain JavaScript built by Opus 5.5 in about half an hour (Turkish).
+- [Watchmaker's 4D time machine](https://x.com/higgsfield_ai/status/2102602282202448268) — @higgsfield_ai — A Three.js journey through a watchmaker's life from 1947 to 2027, each room a different year, built by Opus 5.5 with Higgsfield scenes.
+- [Pure-code Three.js cheetah](https://x.com/majidmanzarpour/status/2103452506680393979) — @majidmanzarpour — A running cheetah in Three.js made in pure code by Opus 5.5, with a demo link.
+- [Everyday objects with cartoon life](https://x.com/higgsfield_ai/status/2102618931622207535) — @higgsfield_ai — Everyday objects brought to cartoon life with Opus 5.5, Higgsfield and Three.js.
+- [Shanghai penthouse for Vision Pro](https://x.com/ivanfioravanti/status/2103701018450288657) — @ivanfioravanti — A night-time Shanghai penthouse scene with crackling fireplace, piano and sculptures built by Opus 5.5 for Apple Vision Pro.
+- [Meta VR glasses model + commercial](https://x.com/3DVR3/status/2103756080480387096) — @3DVR3 — A detailed Meta VR glasses 3D model Opus 5.5 built over 22 hours, then used in a commercial-style video (Japanese).
+
+### Blender & 3D modelling
+
+- [5,112-object Shinkansen in Blender](https://x.com/higgsfield_ai/status/2102507018372436264) — @higgsfield_ai — A Blender Shinkansen model with 5,112 separate objects down to all 430 seats, built by Opus 5.5 with Higgsfield.
+- [Blender character rigged from a concept sheet](https://x.com/majidmanzarpour/status/2102920224718873027) — @majidmanzarpour — A character that Opus 5.5 modelled, textured and rigged in Blender from a concept sheet in pure code.
+- [Anime character in Blender via Tripo](https://x.com/manaimovie/status/2103138089790996843) — @manaimovie — A posed and animated anime character in Blender made only with Tripo and Opus 5.5, without the author touching Blender (Japanese).
+- [Real-time 3D scene from a custom app](https://x.com/wizardbrainz/status/2102680426573865160) — @wizardbrainz — A real-time 3D scene made entirely by Opus 5.5 in about an hour through a custom native 3D creation app, without Unreal, Unity or Blender.
 - [4D construction model in Blender](https://x.com/dobokuya77/status/2102579218953765071) — @dobokuya77 — A Blender 4D construction-sequence video created from 2D plans, showing Opus 5.5's gains in machinery detail, water and camera work (Japanese).
 - [Game-ready octopus in Blender](https://x.com/higgsfield_ai/status/2102526940859232433) — @higgsfield_ai — A modelled and animated game-ready octopus that Opus 5.5 built in Blender with Higgsfield.
 - [Photo → building → collapse sim](https://x.com/higgsfield_ai/status/2102863017109291059) — @higgsfield_ai — Opus 5.5 with Higgsfield rebuilt a building in Blender from one photo, then simulated its collapse.
-- [Engineering sketches become machines](https://x.com/higgsfield_ai/status/2102831492024172840) — @higgsfield_ai — A single-HTML animation where engineering sketches assemble into moving machines, made by Opus 5.5 with Higgsfield.
 - [Exploded house in Blender](https://x.com/zdkiel_labs/status/2102722754172850310) — @zdkiel_labs — Opus 5.5 rebuilt a house from one AI image in Blender with 272 parts, then exploded and reassembled it.
 - [Harbour-town Three.js world](https://x.com/chetanankola/status/2103393323520299428) — @chetanankola — A tiny harbour town with piers, robots and warm windows grown from a single illustration with Opus 5.5, Blender and Three.js.
+- [Drawings to Blender video](https://x.com/Ayu_AI_0912/status/2103021748551872907) — @Ayu_AI_0912 — Opus 5.5 turned technical drawings into an animated Blender video, with the prompt shared (Japanese).
+- [Animated windmill in 15 minutes](https://x.com/higgsfield_ai/status/2102453658889953717) — @higgsfield_ai — An animated windmill modelled, rigged, textured and animated in Blender by Opus 5.5 with Higgsfield in 15 minutes.
+- [House photo → 3D model + viewer](https://x.com/higgsfield_ai/status/2102499166635352354) — @higgsfield_ai — Opus 5.5 with Higgsfield turned one house photo and floor plans into a Blender model plus an offline browser viewer with construction stages and X-ray walls.
+- [Tripo character copies a dance](https://x.com/Maoku/status/2103663270616039723) — @Maoku — A Tripo P2.0 character that Opus 5.5 animated to mimic a reference dance video, correcting expressions, grounding and joint directions (Japanese).
+- [Summer Palace Tower in Blender](https://x.com/Saccc_c/status/2103778944835326223) — @Saccc_c — A Blender 3D scene of the Tower of Buddhist Incense at the Summer Palace made with Opus 5.5 (Chinese).
 
 ### Ads & launch films
 
@@ -345,6 +404,14 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Product story video via Raven](https://x.com/hylarucoder/status/2103032879496540640) — @hylarucoder — A product story video generated by Claude Code with Opus 5.5 orchestrated by the open-source Raven agent (Chinese).
 - [Weird Cats site video via Tesseract](https://x.com/nett0eth/status/2103113461966459081) — @nett0eth — A promo video for the Weird Cats website made with Mirage's Tesseract on Claude Code with Opus 5.5 from one prompt (Portuguese).
 - [Podcast highlights cut in After Effects](https://x.com/Fujin_Metaverse/status/2102897123037761640) — @Fujin_Metaverse — Opus 5.5 took 20 minutes of podcast audio, picked highlights and edited them into a short video in After Effects (Japanese).
+- [Smartphone-format commercial](https://x.com/IHayato/status/2103410142880362804) — @IHayato — A vertical smartphone-format commercial made by Opus 5.5 over dinner, which the author prefers to GPT-6 Astra's output (Japanese).
+- [App promo recorded via ADB](https://x.com/reg_andr/status/2103117698863390805) — @reg_andr — An app promo for which Opus 5.5 screen-recorded the phone over ADB, faked the clock and battery, picked music and SFX and cut the edit to the tempo (French).
+- [Illustrated-book portfolio film](https://x.com/dwhitedesign/status/2103242773386215652) — @dwhitedesign — A short film of the author's portfolio reimagined as an illustrated book, made with Opus 5.5.
+- [Opus recreates its own launch video](https://x.com/vikktorrrre/status/2103104303808348305) — @vikktorrrre — Opus 5.5 recreated its own launch video in a single HTML file using JavaScript, Python and Blender inside Claude Code, without video-editing tools.
+- [Podcast teaser clip](https://x.com/stephanlivera/status/2103368529802391831) — @stephanlivera — A teaser clip for the author's podcast made by Opus 5.5 on medium effort.
+- [Roguelike Battleship trailer](https://x.com/ootamato/status/2103752104892612736) — @ootamato — A trailer for a fictional roguelike take on the classic Battleship board game, made by Opus 5.5 (Japanese).
+- [M3E Canvas video in Remotion + Three.js](https://x.com/lnkiai/status/2103759350330544254) — @lnkiai — A product video for M3E Canvas made by Opus 5.5 with Remotion and Three.js (Japanese).
+- [Claude Mods demo video](https://x.com/oikon48/status/2103756961938633159) — @oikon48 — A demo video for Claude Mods that Opus 5.5 made almost in one shot from a rough instruction (Japanese).
 
 ### Comparisons & video-model pipelines
 
@@ -365,6 +432,11 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Volcanic island: Opus 5 vs Opus 5.5](https://x.com/vib3coded/status/2102450239923720440) — @vib3coded — A same-prompt volcanic-island scene comparing Opus 5 ($1.6) and Opus 5.5 ($3.4).
 - [Loss-screen animation: Opus vs Astra](https://x.com/developedbyed/status/2102789774461280370) — @developedbyed — A game loss-screen animation comparing Opus 5.5 and GPT-6 Astra.
 - [Interview with live-generated UI](https://x.com/petergostev/status/2103244931389329459) — @petergostev — A recorded interview with Opus 5.5 while it generated UI live to accompany the conversation about RSI.
+- [Lottie animation: Opus 5.5 vs GPT-6 Sol](https://x.com/LottieFiles/status/2102582268913140058) — @LottieFiles — A same-prompt animation comparison between Opus 5.5 and GPT-6 Sol built through the Lottie Creator MCP, producing editable Lottie files.
+- [AI clip turned into 10,000 cubes in Blender](https://x.com/aicreataro/status/2103121759096668418) — @aicreataro — Opus 5.5 drove Blender to depth-estimate a MiniMax H3 clip, rebuild it from about 10,000 cubes and add beat-timed freeze, kaleidoscope and collapse effects in a neon space (Japanese).
+- [Style journey: Opus 5.5 vs Fable 5.1](https://x.com/thaiscbranco_/status/2102871167388512355) — @thaiscbranco_ — A same-prompt JavaScript journey through Y2K, Age of Empires, Bauhaus and other styles by Opus 5.5 and Fable 5.1.
+- [Pixel rabbit archer: Opus 5.5 vs GPT-6 Sol](https://x.com/KanaWorks_AI/status/2102598986393870464) — @KanaWorks_AI — A same-prompt code-only pixel-art rabbit archer animation from Opus 5.5 and GPT-6 Sol, with the full prompt (Japanese).
+- [Jelly physics: Opus 5.5 vs GPT-6 Astra](https://x.com/vib3coded/status/2103741107225907467) — @vib3coded — An interactive jelly-fruit slice comparison between Opus 5.5 and GPT-6 Astra, where the author prefers Opus's stretch and jiggle.
 
 ---
 

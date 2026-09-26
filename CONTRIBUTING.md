@@ -33,7 +33,7 @@ Open a pull request that updates both:
 | **notes** | Extra context (HN thread, X handle, A/B pairing, etc.) |
 | **category** | One of: `official`, `games-3d`, `creative`, `agent`, `collections`, `benchmarks`, `showcase`, `videos` |
 | **author** | Creator handle (e.g. `@handle`). Required for `videos` entries sourced from X |
-| **video_type** | For `videos` entries: `motion-design`, `explainer`, `history-culture`, `short-film`, `claude-on-itself`, `music-video`, `game`, `3d-shader`, `ad-launch`, or `comparison-pipeline` |
+| **video_type** | For `videos` entries: `motion-design`, `explainer`, `history-culture`, `short-film`, `claude-on-itself`, `music-video`, `game`, `3d-shader`, `blender-3d`, `ad-launch`, or `comparison-pipeline` |
 
 ### `data/usecases.json` shape
 
