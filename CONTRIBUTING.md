@@ -31,7 +31,9 @@ Open a pull request that updates both:
 | **demo_url** | Live / playable URL when one exists |
 | **stars** | GitHub star count at time of addition (integer, or omit) |
 | **notes** | Extra context (HN thread, X handle, A/B pairing, etc.) |
-| **category** | One of: `official`, `games-3d`, `creative`, `agent`, `collections`, `benchmarks`, `showcase` |
+| **category** | One of: `official`, `games-3d`, `creative`, `agent`, `collections`, `benchmarks`, `showcase`, `videos` |
+| **author** | Creator handle (e.g. `@handle`). Required for `videos` entries sourced from X |
+| **video_type** | For `videos` entries: `motion-design`, `explainer`, `short-film-music`, `game`, `3d-shader`, `ad-launch`, or `comparison-pipeline` |
 
 ### `data/usecases.json` shape
 
@@ -50,6 +52,14 @@ Open a pull request that updates both:
 ```
 
 Use `null` for `demo_url` or `stars` when unknown.
+
+### Video entries from X
+
+The **Videos (from X)** section lists video works made with Opus 5.5. Each entry must link the creator's original post (`https://x.com/<handle>/status/<id>`), whose text makes clear Opus 5.5 was used and which carries a video (or links directly to the video work). Add `"category": "videos"`, `"author": "@handle"` and a `video_type`, credit the author in the README bullet, and list the same video only once (keep the original creator's post, not reposts or quotes).
+
+```md
+- [Title](https://x.com/handle/status/123) — @handle — One-sentence description.
+```
 
 ### README bullet style
 
