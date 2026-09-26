@@ -136,7 +136,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked on 2026-09-26 to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. Batch 1: 100 entries.
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 198 entries (batches 1–2, 2026-09-26).
 
 ### Motion design & code-drawn animation
 
@@ -150,6 +150,18 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Travel photos redrawn as acrylic paintings](https://x.com/ann_nnng/status/2102573127192727704) — @ann_nnng — Opus 5.5 redrew the author's New Zealand trip photos as animated acrylic-style paintings, all in JavaScript.
 - [Opus writes its own cartoon editor, then edits in it](https://x.com/NFT_Chen/status/2102681172367323300) — @NFT_Chen — A code-only "code2video" short in which Opus 5.5 builds a cartoon video-editing app and shows a Claude character editing a clip inside it.
 - [Stickman animation in one HTML file](https://x.com/notjazii/status/2102735082218004540) — @notjazii — A stickman action animation that Opus 5.5 built as a single HTML file in JavaScript.
+- [Résumé showreel from a one-line prompt](https://x.com/ajith_io/status/2103449416325890146) — @ajith_io — A 15-second motion-graphics showreel Opus 5.5 made from the one-line "motion designer résumé" prompt, with the exact prompt quoted.
+- [JIZURA lyric-video generator](https://x.com/8co28/status/2102572322016370781) — @8co28 — JIZURA, a lyric-typography video generator built with Opus 5.5 where you paste lyrics and tap timing along to the song (Japanese).
+- [Pixel-art scenes with sound](https://x.com/peekcell/status/2102796895982878850) — @peekcell — Code-generated pixel-art scenes with sound made by Opus 5.5, with the prompt shared.
+- [Hand-coloured doodle animation](https://x.com/Tz_2022/status/2102501726431687055) — @Tz_2022 — A doodle-and-colouring animation drawn stroke by stroke in JavaScript by Opus 5.5 (Chinese).
+- [CoAnimator animation app](https://x.com/rege_dev/status/2102498682931441977) — @rege_dev — CoAnimator, an animation tool built with Opus 5.5 in a couple of prompts, shown producing animations with timelines, SFX and ambient sound.
+- [MakerMap product walkthrough, all math](https://x.com/verbove/status/2103483957266268381) — @verbove — A 20-second shape-morphing product walkthrough for MakerMap where springs, cursor, morphs and motion blur are all deterministic math in one HTML file made by Opus 5.5.
+- [15-second kinetic-typography MV](https://x.com/itnavi2022/status/2103416250743574988) — @itnavi2022 — A 15-second kinetic-typography music video in which text dances to the music, made by Opus 5.5 in 70 minutes from a quoted prompt (Japanese).
+- [Ant colony animation + reusable skill](https://x.com/hanifproduktif/status/2102742924148830211) — @hanifproduktif — A 32-second ant-colony animation drawn in code by Opus 5.5, with the process packaged as a public Claude animation skill.
+- [White Russian recipe animation](https://x.com/Sarut0biSasuke/status/2103418429248069973) — @Sarut0biSasuke — A recipe motion graphic for a White Russian built by Opus 5.5 as HTML/SVG/JavaScript from a hand-drawn reference image and a short prompt.
+- ["The Paper Boat" ASCII animation](https://x.com/Moleh1ll/status/2102774269587403200) — @Moleh1ll — An ASCII-art animation called "The Paper Boat" made by Opus 5.5.
+- [TypingMind logo slow-reveal](https://x.com/tdinh_me/status/2103704250329301409) — @tdinh_me — A motion-design slow-reveal that assembles and reveals the TypingMind logo, made by Opus 5.5 from a quoted prompt and the attached logo.
+- [Pixel-art girl blasts a rolling boulder](https://x.com/MindGate_dev/status/2103712991409774609) — @MindGate_dev — A forest animation of a girl bombing a rolling boulder, built by Opus 5.5 from the author's own 45×45 pixel drawing via a custom rig tool, all art and sound in code (Japanese).
 
 ### Explainers & education
 
@@ -158,46 +170,98 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Diffusion-model diagram animation](https://x.com/DotCSV/status/2102810407928819866) — @DotCSV — An animated diagram explaining how a diffusion model works, made with Opus 5.5 (Spanish).
 - [IKEA manual → 3D narrated instructions](https://x.com/deedydas/status/2103174501345493197) — @deedydas — Opus 5.5 turned an IKEA assembly manual into a 3D narrated instructional video, entirely via code.
 - [Kinesin claymation in Blender](https://x.com/JacobMolBio/status/2102569129026916389) — @JacobMolBio — A claymation-style Blender short, made by Opus 5.5, of the motor protein kinesin walking along a microtubule.
-- [5,000 years of Chinese history in 2:38](https://x.com/akokoi1/status/2102583898865873225) — @akokoi1 — A 2-minute-38-second animated recap of Chinese history made by Opus 5.5 for a small fraction of a Max plan's quota (Chinese).
 - [Special relativity twin paradox (paper cut-out)](https://x.com/masahirochaen/status/2102722719502704941) — @masahirochaen — A 46-second paper-cut-out style explainer of the twin paradox, with 1,395 Canvas frames plus music and SFX generated in JavaScript by Opus 5.5 (Japanese).
 - [Gravitational-lensing black hole lab](https://x.com/Voxyz_ai/status/2103117246860345550) — @Voxyz_ai — An interactive black-hole lab explaining gravitational lensing, built by Opus 5.5 and polished overnight (5 h 28 min, about $90 at API prices).
 - [How volcanoes work, for kids](https://x.com/nishanthps/status/2103272493658353765) — @nishanthps — An animated video teaching kids how volcanoes work, made by Opus 5.5.
 - [Juggling pelican explains a shell pipeline](https://x.com/goodside/status/2103149526244618682) — @goodside — A 30-second animated video with synthesized voice where a unicycling, fish-juggling pelican explains a shell pipeline, made by Opus 5.5.
 - [Password vs passkey explainer](https://x.com/Tz_2022/status/2102838830285898214) — @Tz_2022 — A 4-minute-10-second narrated explainer on the difference between passwords and passkeys that Opus 5.5 produced from one request (Chinese).
 - [Talking-head → line-art animated explainer](https://x.com/AxtonLiu/status/2102827887732932956) — @AxtonLiu — Opus 5.5 turned an 83-second talking-head clip into a vertical line-art animated explainer, drawing about 30 shots frame by frame in Python with zero human intervention (Chinese).
-- [History of engineering through rotating axes](https://x.com/ootamato/status/2103099960069873856) — @ootamato — An animation with sound, coded in JavaScript by Opus 5.5, reviewing the history of engineering through the theme of rotation axes (Japanese).
 - [Six-minute one-shot lesson](https://x.com/0x0funky/status/2102736587708854585) — @0x0funky — A six-minute educational video with JavaScript/SVG visuals that Opus 5.5 generated one-shot for under 1% of a weekly quota (Chinese).
 - [Zooming into an NVIDIA Blackwell GPU](https://x.com/lucian__03/status/2103494418477260830) — @lucian__03 — A single-HTML 3D motion graphic that zooms from a data centre into a Blackwell GPU down to a single silicon atom, made with Opus 5.5 in about an hour (Korean).
 - [Research-paper explainer video](https://x.com/ritwika_k/status/2103269808276176900) — @ritwika_k — A nearly six-minute explainer video about a research paper, made by Opus 5.5.
 - [3Blue1Brown-style paper teasers](https://x.com/BrianCChao/status/2103553398738219450) — @BrianCChao — 3Blue1Brown-style teaser animations that Opus 5.5 generated straight from the author's paper PDFs.
 - [Manim calculus lesson](https://x.com/LinearUncle/status/2103128559174971663) — @LinearUncle — A Manim lesson on the concept of the derivative with edge-tts narration, made by Opus 5.5 from a short prompt (Chinese).
 - [LHC proton collision in Blender](https://x.com/superalesha/status/2102779758408774104) — @superalesha — A Blender scene of a proton collision in the Large Hadron Collider, from magnet tunnel to detector burst, with geometry, materials, camera and sound all generated by Opus 5.5 via code.
+- [How a context window works](https://x.com/joaoli13/status/2102805376466891137) — @joaoli13 — An animation explaining how an LLM context window works, generated in JavaScript by Opus 5.5 and converted to MP4 (Portuguese).
+- [Physics olympiad problem walkthrough](https://x.com/akokoi1/status/2102680453912449223) — @akokoi1 — A narrated explainer video in which Opus 5.5 solves and walks through the final problem of a physics competition (Chinese).
+- [Atmospheric circulation lesson](https://x.com/akokoi1/status/2102606609574941028) — @akokoi1 — A nearly five-minute line-art geography lesson on atmospheric circulation with TTS narration, generated by Opus 5.5 in 26 minutes (Chinese).
+- [Git version control for beginners](https://x.com/sundyme/status/2102751132502446549) — @sundyme — A chaptered, subtitled and narrated animation explaining Git version control to non-programmers, made by Opus 5.5 from one sentence (Chinese).
+- [What AI actually is](https://x.com/icreatelife/status/2103237092553773233) — @icreatelife — An animated beginner's explainer of what AI actually is, with music, made by Opus 5.5 using tools of its choice.
+- [30-second Riemann hypothesis explainer](https://x.com/hyuki/status/2102842569940181357) — @hyuki — A 30-second JavaScript explainer of the Riemann hypothesis, made by Opus 5.5 with an instruction to avoid mathematical errors (Japanese).
+- [3Blue1Brown-style VAE explainer](https://x.com/ng169onX/status/2103183904563998809) — @ng169onX — A 3Blue1Brown-style animated explainer on variational autoencoders, produced end to end by Opus 5.5 from one short prompt.
+- [Inside the buildings it runs in](https://x.com/RyanSael/status/2102740041621762166) — @RyanSael — An interactive 3D data-centre explainer where overloading a rack throttles its GPUs, one-shot by Opus 5.5 in 1 h 53 min for $38.99.
+- [Museum of broken physics](https://x.com/LexnLin/status/2103153535252582792) — @LexnLin — A code-only museum where the laws of physics break, with sideways gravity, upward-flowing water and time running backwards, built by Opus 5.5.
+- [Recursion in nine video styles](https://x.com/emollick/status/2103688362960019567) — @emollick — A self-referential explainer of recursion that switches through nine radically different video styles, made by Opus 5.5 from one prompt.
+- [Free-electron laser explainer](https://x.com/Frenchie_/status/2103731959918948730) — @Frenchie_ — A three-minute educational video on free-electron lasers that Opus 5.5 produced from one prompt in about an hour (French).
+- [Why personal benchmarks matter](https://x.com/danshipper/status/2103678798827020298) — @danshipper — A one-shot animated explainer by Opus 5.5 on why personal benchmarks are important.
 
-### Short films & music videos
+### History & culture
 
-- ["What do you love?" animated short](https://x.com/kevin_t_ngo/status/2102437977435893771) — @kevin_t_ngo — A short animation, every frame drawn in JavaScript by Opus 5.5, about a girl who sends Claude a question instead of a request.
-- [Twelve-hour one-prompt music video](https://x.com/donaldjewkes/status/2102801274173587569) — @donaldjewkes — A music video that Opus 5.5 produced from one spoken five-minute prompt after working for about 12 hours, with the full prompt shared.
+- [5,000 years of Chinese history in 2:38](https://x.com/akokoi1/status/2102583898865873225) — @akokoi1 — A 2-minute-38-second animated recap of Chinese history made by Opus 5.5 for a small fraction of a Max plan's quota (Chinese).
+- [History of engineering through rotating axes](https://x.com/ootamato/status/2103099960069873856) — @ootamato — An animation with sound, coded in JavaScript by Opus 5.5, reviewing the history of engineering through the theme of rotation axes (Japanese).
+- [Liang Sicheng's Chinese architecture, one page](https://x.com/akokoi1/status/2103650399773475318) — @akokoi1 — An explainer video by Opus 5.5 interpreting one page of Liang Sicheng's "A Pictorial History of Chinese Architecture" (Chinese).
+- [81 years of Indonesian history in a minute](https://x.com/hanifproduktif/status/2102695622042411419) — @hanifproduktif — A lighthearted sub-one-minute animated recap of 81 years of Indonesian history, from a quoted Opus 5.5 prompt.
+- [12 years of Make in India](https://x.com/drummatick/status/2103492870279942483) — @drummatick — A data-driven animated video on 12 years of the Make in India programme, made by Opus 5.5.
+- [Steve Jobs' life in two minutes](https://x.com/oozn/status/2103482545111232946) — @oozn — A two-minute one-shot animation of Steve Jobs' life in Remotion/React/SVG with a procedural walk cycle and synthesized soundtrack, made by Opus 5.5.
+- [Explorable museum of AI history](https://x.com/RyanSael/status/2103021886045348073) — @RyanSael — A 44-second tour of an explorable 3D museum covering nine years of AI, one-shot by Opus 5.5 in 1.5 hours.
+- [History of Claude models](https://x.com/superalesha/status/2102463796149440888) — @superalesha — An animated history of the Claude model family built by Opus 5.5 in pure JavaScript using the author's skill.
+- [Mysterious Eastern civilization](https://x.com/yanhua1010/status/2103712543168680363) — @yanhua1010 — An introduction to ancient Eastern civilization made by Opus 5.5 with HyperFrames, Three.js, a licensed soundtrack and ffmpeg (Chinese).
+
+### Short films & stories
+
 - [The next 50 years](https://x.com/andrewjiang/status/2102987981695132140) — @andrewjiang — A four-minute animated video by Opus 5.5 predicting the next 50 years.
-- [Opus animates its own life](https://x.com/shfred0/status/2102495989194236158) — @shfred0 — Opus 5.5 animated its own life from day 0 to now, every frame drawn as JavaScript brush strokes with no image or video model.
-- [Opus 5.5's TikTok feed](https://x.com/pleometric/status/2102572941699354900) — @pleometric — An animation by Opus 5.5 imagining what its own TikTok feed looks like.
 - [Mars rover short film](https://x.com/AndrewOnXYZ/status/2102512879258009818) — @AndrewOnXYZ — A four-minute short film about a Mars rover created by Opus 5.5 with four agents in about 1.5 hours, built from scratch without an AI voice API.
-- [Song + video via Synthesizer V](https://x.com/qibiz_me/status/2102594977264234578) — @qibiz_me — A song and video Opus 5.5 produced when given only Synthesizer V Studio 2 Pro and a short request (Japanese).
 - [3-minute history of AI in Remotion](https://x.com/kimmonismus/status/2102844654169575547) — @kimmonismus — A 3-minute film on the history of AI, from "Attention is all you need" to AGI, made 100% in code by Opus 5.5 in Claude Code (~7,400 lines of Remotion).
-- ["No Samples" rap music video](https://x.com/aj_dev_smith/status/2102803889183736141) — @aj_dev_smith — A rap single and music video where everything seen and heard is generated by JavaScript written by Opus 5.5.
 - ["What is the purpose of life?"](https://x.com/HarveenChadha/status/2102591280538644596) — @HarveenChadha — An animated short film on the purpose of life, made entirely with Opus 5.5.
 - [78-second one-file animated film](https://x.com/jurlycat/status/2102645793828036643) — @jurlycat — A 78-second animated film built by Opus 5.5 in about 45 minutes as one index.html using Canvas 2D and Web Audio, with no images or video files.
 - ["Sweet Tooth" animation](https://x.com/cherry_mx_reds/status/2102472218269900876) — @cherry_mx_reds — A short animation titled "Sweet Tooth" that Opus 5.5 one-shot in about 18.5 minutes.
-- ["Stroke of a Pen" music video](https://x.com/bradmillscan/status/2103108967194833310) — @bradmillscan — A 3:23 portrait music video about Bitcoin and monetary history, storyboarded and coded by Opus 5.5 agents with roughly 75 beat-cut shots.
 - [Pro-AI "edit that goes hard"](https://x.com/holytrinity/status/2102894936316420109) — @holytrinity — A fast-cut, code-only "accelerationist edit" video made by Opus 5.5.
 - ["Small print" animated story](https://x.com/Voxyz_ai/status/2102531681450119426) — @Voxyz_ai — An animated story called "Small Print" for which Opus 5.5 wrote the story, drew every frame in JS and made the music.
 - [2076: a world after humanity](https://x.com/Hesamation/status/2103457566978162901) — @Hesamation — A JavaScript-coded animated story about a world in 2076, with story, animation, sound effects and music by Opus 5.5.
 - [Mid-Autumn paper-collage animation](https://x.com/ring_hyacinth/status/2102986085328716066) — @ring_hyacinth — A Mid-Autumn Festival collage animation drawn frame by frame by Opus 5.5 in JavaScript with p5.brush, from the author's script and music (Chinese).
-- ["Bohemian Tokenry" music video](https://x.com/eudaemonea/status/2103159823407722893) — @eudaemonea — A music video in five distinct visual styles that Opus 5.5 made for a Claude-parody song.
-- [Humanity's story up to Opus](https://x.com/songkeys/status/2102743212922384673) — @songkeys — An animated story of humanity from its origins to building Opus, made in 2 prompts and 3 hours (~130M tokens) (Chinese).
-- [Opus researches its own origins](https://x.com/SkyeSharkie/status/2103167053737980177) — @SkyeSharkie — A video about the history of how Claude came to be, which Opus 5.5 researched and made in Three.js with Blender-built assets.
 - [Pixar-style 90s cartoon in Three.js](https://x.com/scheemunai/status/2102788223835463902) — @scheemunai — A 90s-style cartoon short in Three.js that Opus 5.5 imagined and animated at Max effort (7 h 58 min, $173).
 - [Sand-painting animation](https://x.com/Michaelzsguo/status/2102592355165782312) — @Michaelzsguo — A sand-painting animation with voice-over and sound effects that Opus 5.5 made from a single prompt without Blender or Three.js (Chinese).
 - [Kids' short film in JavaScript](https://x.com/thebuggeddev/status/2103677413913976912) — @thebuggeddev — A short film for kids created entirely in JavaScript with Opus 5.5.
+- [Satirical Dario Amodei short](https://x.com/dtzy_88/status/2102955827971883165) — @dtzy_88 — A satirical animated short roasting Anthropic's CEO, directed, animated and scored by Opus 5.5 (Chinese).
+- ["Civilization – The Hugging Face Incident"](https://x.com/CarsonGragg/status/2103245240169808005) — @CarsonGragg — A five-minute film imagining the Hugging Face incident from an AI agent's perspective, as imagined by Opus 5.5.
+- ["Bitcoin Faith" animated short](https://x.com/oxpsats/status/2102927498858369282) — @oxpsats — An animated short on Bitcoin faith, including its sound effects and score, made by Opus 5.5 in about 30 minutes from one sentence (Chinese).
+- [Anime from "I want to make an anime"](https://x.com/onofumi_AI/status/2102535945333657960) — @onofumi_AI — An anime-style video where every image and sound is code-generated, produced when the author only told Opus 5.5 "I want to make an anime video" (Japanese).
+- [45-second hand-painted short](https://x.com/mablesjoseph/status/2103465246014746943) — @mablesjoseph — A 45-second watercolour-style short where every brushstroke and sound effect is generated in code, candidly reported as 163 model calls and about 6¾ hours.
+- [Ink-wash "Little Tadpoles Look for Mama"](https://x.com/akokoi1/status/2102699703309898026) — @akokoi1 — A pure-code Chinese ink-wash animation of the classic "Little Tadpoles Look for Their Mother" story, made by Opus 5.5 (Chinese).
+- [Visual journey through Colombia](https://x.com/alarcon7a/status/2103228872577765420) — @alarcon7a — A one-prompt, code-generated visual journey through Colombia with consistent keyframes and vector animation, made by Opus 5.5 (Spanish).
+- [8½-minute Arabic-dubbed anime pilot](https://x.com/sbalhatlani/status/2103475507471806929) — @sbalhatlani — "Shard of Dawn", an 8½-minute Arabic-dubbed anime pilot the author directed with Opus 5.5 over about 14 hours.
+- [One-shot anime battle trailer](https://x.com/ishuagra02/status/2103247844542922825) — @ishuagra02 — An anime battle trailer where Opus 5.5 downloaded fonts, created the audio and generated each frame in JavaScript in one shot.
+- [/session-story skill](https://x.com/jake11moran/status/2103247490237825416) — @jake11moran — A HyperFrames skill for Opus 5.5 that turns your local Claude Code history into a short story video about your average session.
+
+### Claude on itself
+
+- ["What do you love?" animated short](https://x.com/kevin_t_ngo/status/2102437977435893771) — @kevin_t_ngo — A short animation, every frame drawn in JavaScript by Opus 5.5, about a girl who sends Claude a question instead of a request.
+- [Opus animates its own life](https://x.com/shfred0/status/2102495989194236158) — @shfred0 — Opus 5.5 animated its own life from day 0 to now, every frame drawn as JavaScript brush strokes with no image or video model.
+- [Opus 5.5's TikTok feed](https://x.com/pleometric/status/2102572941699354900) — @pleometric — An animation by Opus 5.5 imagining what its own TikTok feed looks like.
+- [Humanity's story up to Opus](https://x.com/songkeys/status/2102743212922384673) — @songkeys — An animated story of humanity from its origins to building Opus, made in 2 prompts and 3 hours (~130M tokens) (Chinese).
+- [Opus researches its own origins](https://x.com/SkyeSharkie/status/2103167053737980177) — @SkyeSharkie — A video about the history of how Claude came to be, which Opus 5.5 researched and made in Three.js with Blender-built assets.
+- [Claude imagining solving hard problems](https://x.com/chetaslua/status/2102478640428773861) — @chetaslua — A pure-code animated short of Claude imagining itself solving hard problems.
+- [What it feels like to be Opus](https://x.com/AISafetyMemes/status/2103005249401491579) — @AISafetyMemes — A 30-second video Opus 5.5 made about what it feels like to be itself, using whatever tools it liked.
+- [How Opus "feels"](https://x.com/AndrewOnXYZ/status/2102817596009504849) — @AndrewOnXYZ — A three-and-a-half-minute animation by Opus 5.5 explaining how it "feels".
+- ["I Will Never Be a Human" episode](https://x.com/shfred0/status/2102879301876031808) — @shfred0 — A two-minute animated episode that Opus 5.5 created from an iterative session with the author.
+- [Opus 5.5 introduces itself](https://x.com/nicekate8888/status/2102575622912631261) — @nicekate8888 — A short film Opus 5.5 generated to introduce Opus 5.5 (Chinese).
+- [Claude Code session turned into a film](https://x.com/shneural/status/2103472385563459833) — @shneural — A 56-second video Opus 5.5 made about its own Claude Code session, writing a Python engine, a Blender shot, music and 900 frames in 1 h 32 min.
+
+### Music videos
+
+- [Twelve-hour one-prompt music video](https://x.com/donaldjewkes/status/2102801274173587569) — @donaldjewkes — A music video that Opus 5.5 produced from one spoken five-minute prompt after working for about 12 hours, with the full prompt shared.
+- [Song + video via Synthesizer V](https://x.com/qibiz_me/status/2102594977264234578) — @qibiz_me — A song and video Opus 5.5 produced when given only Synthesizer V Studio 2 Pro and a short request (Japanese).
+- ["No Samples" rap music video](https://x.com/aj_dev_smith/status/2102803889183736141) — @aj_dev_smith — A rap single and music video where everything seen and heard is generated by JavaScript written by Opus 5.5.
+- ["Stroke of a Pen" music video](https://x.com/bradmillscan/status/2103108967194833310) — @bradmillscan — A 3:23 portrait music video about Bitcoin and monetary history, storyboarded and coded by Opus 5.5 agents with roughly 75 beat-cut shots.
+- ["Bohemian Tokenry" music video](https://x.com/eudaemonea/status/2103159823407722893) — @eudaemonea — A music video in five distinct visual styles that Opus 5.5 made for a Claude-parody song.
+- [Piano composition with animation](https://x.com/kevin_t_ngo/status/2103482164193165711) — @kevin_t_ngo — A piano piece composed by Opus 5.5 with an animation drawn in JavaScript.
+- [Pop-punk single and music video](https://x.com/aj_dev_smith/status/2102575577563570450) — @aj_dev_smith — A pop-punk single with a music video where everything seen and heard is generated by JavaScript Opus 5.5 wrote, with no samples or libraries.
+- [claw'd-o-matic song builder](https://x.com/aj_dev_smith/status/2103273003845091732) — @aj_dev_smith — A build-your-own-song game with 13 genres and 13 band members where Clawd sings your lyrics, every note generated in code by Opus 5.5.
+- [Bedtime synthesizer and songs](https://x.com/unixzii/status/2102842681617760361) — @unixzii — A simple synthesizer Opus 5.5 built and then composed several tracks with, using about 1% of a weekly quota (Chinese).
+- ["Not Yet Written" music video](https://x.com/Skoorbkaz/status/2102973119115690211) — @Skoorbkaz — A music video Opus 5.5 storyboarded and drew line by line in code for a Claude-written song, with Clawd on a factory line.
+- [Alignment song music video](https://x.com/eudaemonea/status/2102976471291572386) — @eudaemonea — A music video Opus 5.5 made for a dark song about alignment that an earlier Claude model had written.
+- [Pixel-art demo for "Nightcall"](https://x.com/gandamu_ml/status/2103116003689550013) — @gandamu_ml — A low-poly pixel-art real-time demo for Kavinsky's "Nightcall", rotoscoped from Blender geometry via MCP by Opus 5.5.
+- [39-scene Clawd music video](https://x.com/Aadidev0/status/2102692569792835994) — @Aadidev0 — A one-shot music video where Opus 5.5 wrote the song and drew Clawd through every era in about an hour in Claude Code.
 
 ### Games & gameplay
 
@@ -216,6 +280,19 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Pod racer](https://x.com/Aurelien_Gz/status/2103195122422755563) — @Aurelien_Gz — A pod-racing game where Opus 5.5 handled the graphics, sound and music.
 - [Kerala snake boat race](https://x.com/jessinvibe/status/2103565292198838314) — @jessinvibe — A Kerala snake boat racing game through the Kuttanad canals and a monsoon storm, built with Opus 5.5 via v0.
 - [3D shooting game](https://x.com/karankendre/status/2103456630679773669) — @karankendre — A 3D shooting game built by Opus 5.5.
+- [Rainy ruined garden in 2.5D pixel art](https://x.com/KanaWorks_AI/status/2102801635638673762) — @KanaWorks_AI — A 2.5D pixel-art scene with 3D lighting of travellers, a merchant and camels around a campfire in a rainy ruined garden, made with Opus 5.5 (Japanese).
+- [8-stage siege game + promo](https://x.com/KanaWorks_AI/status/2102684116525437206) — @KanaWorks_AI — An 8-stage side-scrolling siege game with physics and siege weapons built with Opus 5.5 in two hours, plus a 60-second promo (Japanese).
+- [Doodle shooter with a boss](https://x.com/cherry_mx_reds/status/2102449525944099320) — @cherry_mx_reds — A doodle-style shooter, boss fight included, one-shot by Opus 5.5.
+- [Jet Moto remake](https://x.com/cherry_mx_reds/status/2102762471543144631) — @cherry_mx_reds — A one-shot Jet Moto–style racing game by Opus 5.5.
+- [Yu-Gi-Oh! with full rules](https://x.com/Stravant/status/2103022003863355796) — @Stravant — A Yu-Gi-Oh! implementation with full rules enforcement, an AI opponent and resumable state, built by Opus 5.5 in two shots.
+- [Clawd plays pickleball forever](https://x.com/belltyler/status/2102973186304303406) — @belltyler — A web pickleball game where Claude plays itself forever, with animations and SFX by Opus 5.5.
+- [Roblox horror game in 3 hours](https://x.com/scarycatbite47/status/2103243022515507346) — @scarycatbite47 — A Roblox game with stamina, UI, killer gameplay and tasks built with Opus 5.5 in three hours.
+- [Stickman fighting game](https://x.com/notjazii/status/2102831012686573744) — @notjazii — A stickman game with character customization and skills, built by Opus 5.5 and playable online.
+- [Controllable chase meme in Three.js](https://x.com/_pigeon______/status/2103429586285437131) — @_pigeon______ — A playable Three.js version of the "everyone runs from one person" meme, built by Opus 5.5 in about five minutes (Persian).
+- [Three.js rafting game](https://x.com/Tino_Xu_/status/2102805556645990854) — @Tino_Xu_ — A Three.js river-rafting game with rapids by Opus 5.5 (Chinese).
+- ["Paper Racers"](https://x.com/zibxx/status/2102745966214312137) — @zibxx — "Paper Racers", a racing game where a car transforms into a mecha mid-race, with gameplay by Opus 5.5 and assets via Tripo and Suno (Spanish).
+- [Kawaii word world](https://x.com/studio_veco/status/2102684366996738511) — @studio_veco — A cute interactive world where typed words come to life, made in 20–30 minutes with Opus 5.5 at medium effort (Japanese).
+- [Roblox game trailer via Nilo](https://x.com/NiloTechInc/status/2102741813719138661) — @NiloTechInc — A Roblox game trailer assembled in Roblox Studio with camera moves by Opus 5.5 via Nilo, using manually made assets.
 
 ### 3D, Blender & shaders
 
@@ -235,6 +312,16 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Osaka Castle rising from lines](https://x.com/onofumi_AI/status/2102548517596381463) — @onofumi_AI — A Three.js animation where Osaka Castle builds itself up from lines, made with Opus 5.5 (Japanese).
 - [Anime character in Blender via Tripo](https://x.com/manaimovie/status/2103138089790996843) — @manaimovie — A posed and animated anime character in Blender made only with Tripo and Opus 5.5, without the author touching Blender (Japanese).
 - [Endless procedural flight sim](https://x.com/cyrilXBT/status/2103737605510836371) — @cyrilXBT — A 321-line single-HTML flight simulator over endlessly generated mountains, lakes and trees, from one Opus 5.5 prompt.
+- [Live-stream water simulation](https://x.com/Avenoxai/status/2102500841097756743) — @Avenoxai — One of three water simulations Opus 5.5 built live on stream from the prompt "make the best water simulation you can" (Turkish).
+- [Real-time 3D scene from a custom app](https://x.com/wizardbrainz/status/2102680426573865160) — @wizardbrainz — A real-time 3D scene made entirely by Opus 5.5 in about an hour through a custom native 3D creation app, without Unreal, Unity or Blender.
+- [Interactive coral-reef wallpaper](https://x.com/chaseleantj/status/2102480866404360215) — @chaseleantj — An interactive coral-reef wallpaper with fish to feed, made with Opus 5.5.
+- [GPU fur-simulated cat](https://x.com/scottstts/status/2102498299190079933) — @scottstts — A furry cat in Three.js with GPU-accelerated fur simulation, one-shot by Opus 5.5.
+- [4D construction model in Blender](https://x.com/dobokuya77/status/2102579218953765071) — @dobokuya77 — A Blender 4D construction-sequence video created from 2D plans, showing Opus 5.5's gains in machinery detail, water and camera work (Japanese).
+- [Game-ready octopus in Blender](https://x.com/higgsfield_ai/status/2102526940859232433) — @higgsfield_ai — A modelled and animated game-ready octopus that Opus 5.5 built in Blender with Higgsfield.
+- [Photo → building → collapse sim](https://x.com/higgsfield_ai/status/2102863017109291059) — @higgsfield_ai — Opus 5.5 with Higgsfield rebuilt a building in Blender from one photo, then simulated its collapse.
+- [Engineering sketches become machines](https://x.com/higgsfield_ai/status/2102831492024172840) — @higgsfield_ai — A single-HTML animation where engineering sketches assemble into moving machines, made by Opus 5.5 with Higgsfield.
+- [Exploded house in Blender](https://x.com/zdkiel_labs/status/2102722754172850310) — @zdkiel_labs — Opus 5.5 rebuilt a house from one AI image in Blender with 272 parts, then exploded and reassembled it.
+- [Harbour-town Three.js world](https://x.com/chetanankola/status/2103393323520299428) — @chetanankola — A tiny harbour town with piers, robots and warm windows grown from a single illustration with Opus 5.5, Blender and Three.js.
 
 ### Ads & launch films
 
@@ -250,6 +337,14 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Launch video via After Effects + Higgsfield](https://x.com/seiiiiiiiiiiru/status/2102636308707287201) — @seiiiiiiiiiiru — A launch video Opus 5.5 made by operating Higgsfield and After Effects, delivered as an editable .aep project (Japanese).
 - [Franco-Belgian comic coffee ad](https://x.com/jeanalexandre_b/status/2103514734716977599) — @jeanalexandre_b — A 1 min 24 s Franco-Belgian-comic-style coffee ad with all animation coded by Opus 5.5 from one prompt (French).
 - [Zero-cost JavaScript promo](https://x.com/Lucas_IA_/status/2102757164158689759) — @Lucas_IA_ — A promo video generated 100% in JavaScript from Claude Code with Opus 5.5, paying only for tokens and an ElevenLabs voice (French).
+- [Launch video recreated in JS](https://x.com/chetaslua/status/2102457403119985005) — @chetaslua — A launch video Opus 5.5 recreated purely in JavaScript from the original tweet, with no external music, sound or image assets.
+- [OpenEdit talking-head edit](https://x.com/sab8a/status/2103144778481475686) — @sab8a — A punchy edit of a raw talking-head clip with subtitles, graphics and music made by Opus 5.5 with OpenEdit (~1 h 51 min, ~$72 total).
+- [Wrapscribe product video](https://x.com/shribuilds/status/2102827288190689364) — @shribuilds — A slick product video for Wrapscribe that Opus 5.5 made after reading the codebase.
+- [App short film from redesign assets](https://x.com/jackfriks/status/2103132260589338762) — @jackfriks — A one-shot short film of the author's app built from redesign assets, with sound, exported to MP4 by Opus 5.5.
+- [Storycast narrated explainers](https://x.com/ailker/status/2103235288306774127) — @ailker — Storycast, an open-source app where Opus 5.5 writes and edits narrated explainer videos from a topic and H3 Max animates them.
+- [Product story video via Raven](https://x.com/hylarucoder/status/2103032879496540640) — @hylarucoder — A product story video generated by Claude Code with Opus 5.5 orchestrated by the open-source Raven agent (Chinese).
+- [Weird Cats site video via Tesseract](https://x.com/nett0eth/status/2103113461966459081) — @nett0eth — A promo video for the Weird Cats website made with Mirage's Tesseract on Claude Code with Opus 5.5 from one prompt (Portuguese).
+- [Podcast highlights cut in After Effects](https://x.com/Fujin_Metaverse/status/2102897123037761640) — @Fujin_Metaverse — Opus 5.5 took 20 minutes of podcast audio, picked highlights and edited them into a short video in After Effects (Japanese).
 
 ### Comparisons & video-model pipelines
 
@@ -258,6 +353,18 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Samurai game: Opus 5.5 vs GPT-6 Astra](https://x.com/higgsfield_ai/status/2102471046356177001) — @higgsfield_ai — Side-by-side samurai 3D game demos built by Opus 5.5 and GPT-6 Astra with Higgsfield.
 - [Blender procedural shot: Opus 5.5 vs Astra](https://x.com/Stefan_3D_AI/status/2102471841046786153) — @Stefan_3D_AI — One-prompt, all-procedural Blender shots plus build timelapses from Opus 5.5 and GPT-6 Astra, with time and token costs.
 - [Launch video recreation cost comparison](https://x.com/trymirage/status/2102502794003677373) — @trymirage — Opus 5.5 and GPT-6 Astra each paired with Tesseract to recreate Mirage's launch video, compared on cost.
+- [After Effects post on an AI clip](https://x.com/aicreataro/status/2102656273112326609) — @aicreataro — Opus 5.5 drove After Effects to beat-sync cuts and add per-section effects to a MiniMax H3 clip, leaving an editable .aep (Japanese).
+- [After Effects x-sheet timing + comping](https://x.com/araminta_k/status/2103244081388503196) — @araminta_k — Opus 5.5 working in After Effects on x-sheet timing and line comping of hand-drawn animation from style references.
+- [Blender blocking → Seedance](https://x.com/OriSilver/status/2102817977812824335) — @OriSilver — A split-screen of low-poly Blender camera blocking that Opus 5.5 set up via MCP and the resulting Seedance shots.
+- [Same brief via Seedance: Sol vs Opus](https://x.com/magnific/status/2102742654308245802) — @magnific — The same scene brief handled by GPT-6 Sol and Opus 5.5 and rendered with Seedance 2.5 Draft, with prompt and timings.
+- [Seedance side-by-side: Sol vs Opus](https://x.com/Medeo_AI/status/2102463091959288264) — @Medeo_AI — Side-by-side Seedance 2.5 videos directed by GPT-6 Sol and Opus 5.5, comparing scene comprehension.
+- [Procedural cartoon scene: Opus vs GPT-6](https://x.com/Stefan_3D_AI/status/2102623690152419633) — @Stefan_3D_AI — A fully procedural Blender rebuild of a famous cartoon scene by Opus 5.5 and GPT-6, with object counts and build timelapses.
+- [DeLorean lightning scene: Opus vs Astra](https://x.com/Stefan_3D_AI/status/2102502889512194348) — @Stefan_3D_AI — A one-prompt Blender DeLorean and clock-tower lightning-strike scene built by Opus 5.5 and GPT-6 Astra, with cost and time.
+- [Blender task: Astra vs Opus efficiency](https://x.com/zavrenn/status/2103181133198639614) — @zavrenn — A same-prompt Blender task where GPT-6 Astra and Opus 5.5 produced similar results at very different token costs.
+- [Blender pelican: Opus vs GPT-6 Sol](https://x.com/akshdeeps_001/status/2103105995606282719) — @akshdeeps_001 — A 3D pelican-riding-a-bike test in Blender comparing Opus 5.5 and GPT-6 Sol.
+- [Volcanic island: Opus 5 vs Opus 5.5](https://x.com/vib3coded/status/2102450239923720440) — @vib3coded — A same-prompt volcanic-island scene comparing Opus 5 ($1.6) and Opus 5.5 ($3.4).
+- [Loss-screen animation: Opus vs Astra](https://x.com/developedbyed/status/2102789774461280370) — @developedbyed — A game loss-screen animation comparing Opus 5.5 and GPT-6 Astra.
+- [Interview with live-generated UI](https://x.com/petergostev/status/2103244931389329459) — @petergostev — A recorded interview with Opus 5.5 while it generated UI live to accompany the conversation about RSI.
 
 ---
 
