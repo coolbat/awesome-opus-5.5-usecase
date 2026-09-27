@@ -150,7 +150,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 268 entries (last updated 2026-09-27).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 269 entries (last updated 2026-09-27).
 
 ### Motion design & code-drawn animation
 
@@ -180,6 +180,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Word-to-film generative piece](https://x.com/MiaAI_lab/status/2103837519615774895) — @MiaAI_lab — A live generative piece where every frame and note is generated in code from the word you type, built by Opus 5.5 (Ultracode), with the prompt shared.
 - [Device motion-design piece](https://x.com/MengTo/status/2103825139964227999) — @MengTo — A motion-design piece with 3D device and logo models created by Opus 5.5, made with significant steering and code references.
 - ["WTFHITLW?" series intro](https://x.com/birdabo/status/2103798702368563300) — @birdabo — A motion-design intro for a weekly tech-news series, made with Opus 5.5 at Max effort.
+- [Game result & gacha-pull animations](https://x.com/op7418/status/2104085484347818226) — @op7418 — Game UI motion effects made with Opus 5.5: a result-screen animation plus a new gacha card-pull animation, prompts shared (Chinese).
 
 ### Explainers & education
 
