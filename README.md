@@ -79,6 +79,11 @@ Playable scenes and games built with Opus 5.5 — live links included when publi
 - [Claude Opus 5.5, four overnight builds](https://github.com/Nipale-ai/opus-5-5-overnight-builds) — Four unattended overnight runs of Claude Opus 5.5 in headless Claude Code — a freeride ski game, a voxel diorama, a city block across five decades and a pirate-ship scene — published with every brief and live pages (1★). **[Live demo](https://nipale-ai.github.io/opus-5-5-overnight-builds/)**
 - [Universe simulator in the browser](https://x.com/yahiaesalem/status/2104571690638299521) — A free browser universe simulator built with three.js and WebAssembly using Claude Opus 5.5 in two to three days, with real gravity, general-relativity effects, NASA data and a fall-into-a-black-hole mode. **[Live demo](https://universe.yahia.codes/)**
 - [Knosp Sellar Atlas](https://x.com/poyraz_dr/status/2104574432467648766) — A free interactive 3D lesson on the Knosp classification of pituitary adenomas, showing the sella, cavernous sinus, carotid siphon and cranial nerves III–VI on a coronal section from grade 0 to 4, credited to Claude Opus 5.5 by its author. **[Live demo](https://opisthion06.github.io/knosp-sellar-atlas/)**
+- [Soccar](https://x.com/BlendiByl/status/2104800823620632641) — A browser car-soccer game with boost, aerials and arena physics, which @BlendiByl says Claude Opus 5.5 built as an unofficial Rocket League-style fan project. **[Live demo](https://soccar-one.vercel.app/)**
+- [Marble Madness remaster](https://x.com/agent_republic/status/2104695709572190529) — A one-shot Claude Opus 5.5 rewrite of Marble Madness as a single HTML file: six floating Three.js courses, marble physics, Web Audio and local two-player racing. **[Live demo](https://big-apple.tv/marble-madness/)**
+- [Globe Prix](https://news.ycombinator.com/item?id=49908608) — A racing game whose circuits follow the outlines of countries, which the author says Claude Opus 5.5 built from an idea he had held onto for a while. **[Live demo](https://globeprix.chyuang.com/)**
+- [Spider-Verse fan game](https://x.com/KalraIshaan11/status/2105065901972173054) — A comic-book Spider-Man fan game in the browser, built with Claude Opus 5.5, with a trailer the author also credits to Opus 5.5. **[Live demo](https://spiderman-spiderverse.vercel.app/)**
+- [AI data centre you can take apart](https://x.com/konstantinsaifo/status/2104895018683044262) — An interactive browser model of an AI data centre, built with Claude Opus 5.5, where you follow the power and cooling water, open a rack and pull a GPU tray apart. **[Live demo](https://airsup.ai/lab/ai-data-center)**
 
 ---
 
@@ -100,6 +105,7 @@ Music videos, JS-directed films, canvas loops, and generative art demos.
 - [The Golden Ford](https://www.echohive.ai/experiments/the-golden-ford) — Interactive 2.5D multiplane parallax battle scene across six painted acts. **[Live](https://www.echohive.ai/experiments/the-golden-ford)** · [HN](https://news.ycombinator.com/item?id=49835099)
 - [Lemo-Opuscar — 39 coded film styles](https://github.com/lemomo-ai/lemo-opuscar) — A gallery of 39 short films made entirely in code by Claude Opus 5.5, each paired with a style guide an agent can reuse to direct a new story (11★). **[Live demo](https://lemomo-ai.github.io/lemo-opuscar/)**
 - [CodeRabbit, Pause](https://github.com/arimanyus/hophopnopenope) — Source for a Canvas 2D music video whose frames are a pure function of song time, in a repository whose description says the film was made with Claude Opus 5.5 and Cursor (15★). · [YouTube](https://www.youtube.com/watch?v=EnmpDgFD3OI)
+- [Muzli, three Opus 5.5 design briefs](https://muz.li/blog/claude-opus-5-5-for-designers/) — A Muzli write-up of three live briefs Claude Opus 5.5 one-shotted for designers: a WebGL sea-salt brand site, a scrubbable festival title sequence, and a gesture prototype. **[Live demo](https://files.muzli.cloud/blog/claude-opus-5-5-for-designers/demos/site/index.html)**
 
 ---
 
@@ -117,6 +123,7 @@ Harnesses, one-shot codebases, orchestrators, and large HTML/web batches.
 - [Four Color Theorem in Lean 4](https://github.com/RBarish-UTokyo/FourColorTheorem-Lean4) — A self-contained Lean 4 port of Gonthier's Four Color Theorem proof, written by Claude Opus 5.5, with kernel-checked reducibility certificates and no sorry in the proof files (1★).
 - [Opus 5.5 Satoshi research session](https://notesbylex.com/can-claude-opus-5-5-find-any-new-leads-on-satoshi-nakamoto) — A six-and-a-half-hour Claude Opus 5.5 research session assembled a Satoshi corpus and timestamp checks, and the public repo keeps the log, scripts and sources.
 - [Aseprite AI Artist](https://github.com/with-pebbly/aseprite-ai-artist) — An MCP server that lets a model draw in a live Aseprite window; its showcase, a 500×400, 72-frame, 20-layer rainy-night Japanese bookshop loop, was drawn end to end by Claude Opus 5.5, which the README recommends as the best driver (7★).
+- [claude-motion-design](https://github.com/howseen-ai/claude-motion-design) — A Claude Code skill that renders beat-synced motion-design films as a seek(t) HTML function through Playwright and ffmpeg, with a launch film the README credits to Claude Opus 5.5 (116★).
 
 ---
 
@@ -155,7 +162,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 279 entries (last updated 2026-09-28).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 287 entries (last updated 2026-09-30).
 
 ### Motion design & code-drawn animation
 
@@ -188,6 +195,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Game result & gacha-pull animations](https://x.com/op7418/status/2104085484347818226) — @op7418 — Game UI motion effects made with Opus 5.5: a result-screen animation plus a new gacha card-pull animation, prompts shared (Chinese).
 - [20 animation styles in one reel](https://x.com/yasinozmeen/status/2104086740600254919) — @yasinozmeen — A 3.7-minute reel of 20 different animation styles produced over two days of experimenting with Opus 5.5, all drawn in code with no stock or prepared images and ending on kinetic typography (Turkish).
 - [Motion graphics over a dance video](https://x.com/AiNamanari33743/status/2104154745988587531) — @AiNamanari33743 — Motion graphics layered onto an ordinary dance clip by Opus 5.5 using only prompts, ffmpeg and Python, with no After Effects or other editing software (Japanese).
+- [From a Figma frame to motion](https://x.com/adriankuleszo/status/2104549215452205248) — @adriankuleszo — A few-second product-icon animation, a shield and badge cycling through states, designed in Figma and animated with Opus 5.5.
 
 ### Explainers & education
 
@@ -234,6 +242,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [A Brief History of Chips](https://x.com/AndyL5cc/status/2104437066755125601) — @AndyL5cc — A three-and-a-half-minute Opus 5.5 explainer on the history of chips, from light-bulb filaments all the way to EUV lithography (Chinese).
 - [How an Economy Grows (小岛经济学)](https://x.com/e_page/status/2104202510382911697) — @e_page — A nearly ten-minute animated explainer of the book 小岛经济学 (How an Economy Grows and Why It Crashes), output directly by Opus 5.5 (Chinese).
 - [PPO, GRPO & DPO explained](https://x.com/dongxi_nlp/status/2104350237062021225) — @dongxi_nlp — A 2.5-minute Opus 5.5 animation explaining the reinforcement-learning fine-tuning methods PPO, GRPO and DPO (Chinese).
+- [How a plane flies](https://x.com/codezilla_/status/2104308565330784418) — @codezilla_ — An adult cut of an explainer, made for his son, of how an airplane flies, which @codezilla_ says Opus 5.5 produced and which he kept iterating on in different styles (Arabic).
+- [The scale of the universe](https://x.com/codezilla_/status/2104551679127359501) — @codezilla_ — A National Geographic-style film on the scale of the universe, which @codezilla_ says Claude Opus 5.5 made from a single prompt, including the soundtrack (Arabic).
 
 ### History & culture
 
@@ -248,6 +258,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Mysterious Eastern civilization](https://x.com/yanhua1010/status/2103712543168680363) — @yanhua1010 — An introduction to ancient Eastern civilization made by Opus 5.5 with HyperFrames, Three.js, a licensed soundtrack and ffmpeg (Chinese).
 - [History of transportation in SVG](https://x.com/HarshithLucky3/status/2102732988262068440) — @HarshithLucky3 — An SVG animation by Opus 5.5 High in Claude Code covering the entire history of transportation, each vehicle morphing into the next.
 - [Battle of Dan-no-ura in 3D](https://x.com/tetumemo/status/2102652072252584046) — @tetumemo — A TV-special-style 3D re-creation of the Battle of Dan-no-ura by Opus 5.5, with the prompt in replies (Japanese).
+- [Sapiens in two minutes](https://x.com/Yelvlv930/status/2104691126129348710) — @Yelvlv930 — A two-and-a-half-minute animated retelling of 人类简史 (Sapiens: A Brief History of Humankind), made with Opus 5.5 (Chinese).
 
 ### Short films & stories
 
@@ -316,6 +327,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Pixel-art demo for "Nightcall"](https://x.com/gandamu_ml/status/2103116003689550013) — @gandamu_ml — A low-poly pixel-art real-time demo for Kavinsky's "Nightcall", rotoscoped from Blender geometry via MCP by Opus 5.5.
 - [39-scene Clawd music video](https://x.com/Aadidev0/status/2102692569792835994) — @Aadidev0 — A one-shot music video where Opus 5.5 wrote the song and drew Clawd through every era in about an hour in Claude Code.
 - ["To What End" music video](https://x.com/repligate/status/2104124976156786925) — @repligate — A music video by Opus 5.5 for "To What End", a text by Claude 3 Opus set to music with Suno.
+- [Runaway lyrics video](https://x.com/blueemi99/status/2104323319365275785) — @blueemi99 — A six-minute lyrics video for Kanye West's Runaway, drawn by Opus 5.5, opening on a piano keyboard.
 
 ### Games & gameplay
 
@@ -357,6 +369,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Unity game with Opus-made demo video](https://x.com/rehan_shei/status/2103755997533839416) — @rehan_shei — A browser-playable Unity game built with the Unity CLI and Opus 5.5, whose demo video Opus also made by playing several characters and splicing the best moments.
 - [Call of Duty–style browser shooter](https://x.com/HelloVyom/status/2103746930904010954) — @HelloVyom — A Call of Duty–style browser shooter that Opus 5.5 one-shot in about five hours.
 - [50-player battle royale in Three.js](https://x.com/_MaxBlade/status/2103847223557529606) — @_MaxBlade — A 50-player browser battle royale in Three.js that Opus 5.5 built with 24 sub-agents running for 12 hours.
+- [Smiling Titan boss fight](https://x.com/sonnylazuardi/status/2104202707309641862) — @sonnylazuardi — A browser boss fight, built by Opus 5.5 in three.js, where the Smiling Titan breaks a wall and you bring it down with ODM gear; the author says every model, texture, animation and note of music is generated by code, with no Blender and no image generation.
+- [Third-person MOBA mashup](https://x.com/Izkimar/status/2104675408222536122) — @Izkimar — A third-person MOBA that Opus 5.5 built with heroes from League of Legends, Dota and Heroes of the Storm in one lobby, with dodge rolls, double jumps and projectile hops.
 
 ### Real-time 3D, WebGL & shaders
 
@@ -389,6 +403,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Shanghai penthouse for Vision Pro](https://x.com/ivanfioravanti/status/2103701018450288657) — @ivanfioravanti — A night-time Shanghai penthouse scene with crackling fireplace, piano and sculptures built by Opus 5.5 for Apple Vision Pro.
 - [Meta VR glasses model + commercial](https://x.com/3DVR3/status/2103756080480387096) — @3DVR3 — A detailed Meta VR glasses 3D model Opus 5.5 built over 22 hours, then used in a commercial-style video (Japanese).
 - [Black hole swallowing a star](https://x.com/adonis_singh/status/2103816126778003746) — @adonis_singh — A clip of a black hole swallowing a star, every frame made by Opus 5.5.
+- [Baking Factory](https://x.com/mlperego/status/2104197677135143326) — @mlperego — A three.js baking tool made in about two hours with Opus 5.5 that writes ambient occlusion and other maps into geometry and builds LODs, SDF tiles and impostors, shown turning the Lucy scan into thousands of copies.
 
 ### Blender & 3D modelling
 
