@@ -84,6 +84,14 @@ Playable scenes and games built with Opus 5.5 — live links included when publi
 - [Globe Prix](https://news.ycombinator.com/item?id=49908608) — A racing game whose circuits follow the outlines of countries, which the author says Claude Opus 5.5 built from an idea he had held onto for a while. **[Live demo](https://globeprix.chyuang.com/)**
 - [Spider-Verse fan game](https://x.com/KalraIshaan11/status/2105065901972173054) — A comic-book Spider-Man fan game in the browser, built with Claude Opus 5.5, with a trailer the author also credits to Opus 5.5. **[Live demo](https://spiderman-spiderverse.vercel.app/)**
 - [AI data centre you can take apart](https://x.com/konstantinsaifo/status/2104895018683044262) — An interactive browser model of an AI data centre, built with Claude Opus 5.5, where you follow the power and cooling water, open a rack and pull a GPU tray apart. **[Live demo](https://airsup.ai/lab/ai-data-center)**
+- [Fang the Fox for Game Boy Color](https://tinybitadventures.com/games/fang-the-fox-gbc/) — A Game Boy Color port of Fang the Fox, written in C by Claude Opus 5.5 in a day by an author who says he had never written C, playable in the browser or as a ROM. **[Live demo](https://tinybitadventures.com/play/fang-the-fox-gbc/)**
+- [Last Courier](https://github.com/tanuu5/last-courier) — A browser 3D delivery game inspired by Death Stranding, with cargo balance and corrosive rain, which the README says Claude Opus 5.5 built at extra-high effort (0★). **[Live demo](https://tanuu5.github.io/last-courier/)**
+- [GRAVEWAKE](https://github.com/LioraLabs/gravewake) — A dark-fantasy twin-stick shooter that Liora Labs says Claude Opus 5.5 vibecoded, with waves, boons and a midnight clearing kept in readable data files (3★). **[Live demo](https://shiny-guru.itch.io/gravewake)**
+- [Core Business](https://github.com/Leichtbier/core-business) — A non-commercial 2.5D three.js remake of the Flash game Motherload, whose README says Claude Opus 5.5 wrote the code, tests, textures and Blender models (1★). **[Live demo](https://leichtbier.github.io/core-business/)**
+- [NEON BAY](https://github.com/L1vsun/NEONBAY) — A browser open-world coastal city with simulation-grade car physics, which the README says Claude Opus 5.5 wrote in Claude Code (0★). **[Live demo](https://l1vsun.github.io/NEONBAY/)**
+- [Glory](https://github.com/athemeroy/glory) — An unofficial browser first-person action game based on the novel The King's Avatar, which the README says Claude Opus 5.5 built in about fifteen hours, with training, arena and co-op modes (0★). **[Live demo](https://glory-game.vercel.app/play/)**
+- [GalaxyQuest](https://github.com/bigmak94/GalaxyQuest) — A native Meta Quest 3 VR port of Super Mario Galaxy on the Petari decompilation, which the README says Claude Opus 5.5 wrote in full, and which needs the player's own game files (1★).
+
 
 ---
 
@@ -106,6 +114,8 @@ Music videos, JS-directed films, canvas loops, and generative art demos.
 - [Lemo-Opuscar — 39 coded film styles](https://github.com/lemomo-ai/lemo-opuscar) — A gallery of 39 short films made entirely in code by Claude Opus 5.5, each paired with a style guide an agent can reuse to direct a new story (11★). **[Live demo](https://lemomo-ai.github.io/lemo-opuscar/)**
 - [CodeRabbit, Pause](https://github.com/arimanyus/hophopnopenope) — Source for a Canvas 2D music video whose frames are a pure function of song time, in a repository whose description says the film was made with Claude Opus 5.5 and Cursor (15★). · [YouTube](https://www.youtube.com/watch?v=EnmpDgFD3OI)
 - [Muzli, three Opus 5.5 design briefs](https://muz.li/blog/claude-opus-5-5-for-designers/) — A Muzli write-up of three live briefs Claude Opus 5.5 one-shotted for designers: a WebGL sea-salt brand site, a scrubbable festival title sequence, and a gesture prototype. **[Live demo](https://files.muzli.cloud/blog/claude-opus-5-5-for-designers/demos/site/index.html)**
+- [The Geometry of Control](https://github.com/ThorHe-Hub/opus-geometry-of-control) — A three-and-a-half-minute control-theory film in one HTML file, with every frame and note generated in the browser, which the README says Claude Opus 5.5 implemented (0★). **[Watch](https://www.youtube.com/watch?v=mGLhVaXlIyg)**
+
 
 ---
 
@@ -162,7 +172,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 287 entries (last updated 2026-09-30).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 294 entries (last updated 2026-10-01).
 
 ### Motion design & code-drawn animation
 
@@ -196,6 +206,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [20 animation styles in one reel](https://x.com/yasinozmeen/status/2104086740600254919) — @yasinozmeen — A 3.7-minute reel of 20 different animation styles produced over two days of experimenting with Opus 5.5, all drawn in code with no stock or prepared images and ending on kinetic typography (Turkish).
 - [Motion graphics over a dance video](https://x.com/AiNamanari33743/status/2104154745988587531) — @AiNamanari33743 — Motion graphics layered onto an ordinary dance clip by Opus 5.5 using only prompts, ffmpeg and Python, with no After Effects or other editing software (Japanese).
 - [From a Figma frame to motion](https://x.com/adriankuleszo/status/2104549215452205248) — @adriankuleszo — A few-second product-icon animation, a shield and badge cycling through states, designed in Figma and animated with Opus 5.5.
+
+- [Foil greeting-card effect](https://x.com/ann_nnng/status/2105606322310054044) — @ann_nnng — A three.js greeting card with gold-foil lettering over watercolor flowers, which @ann_nnng asked Claude Opus 5.5 to create.
+- [Biology lesson, all JSON](https://x.com/nusretuzman/status/2105645121782079554) — @nusretuzman — A short in-app biology lesson, a microscope and a week streak, which @nusretuzman says Opus 5.5 drew, animated and wired in entirely as JSON (Turkish).
 
 ### Explainers & education
 
@@ -244,6 +257,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [PPO, GRPO & DPO explained](https://x.com/dongxi_nlp/status/2104350237062021225) — @dongxi_nlp — A 2.5-minute Opus 5.5 animation explaining the reinforcement-learning fine-tuning methods PPO, GRPO and DPO (Chinese).
 - [How a plane flies](https://x.com/codezilla_/status/2104308565330784418) — @codezilla_ — An adult cut of an explainer, made for his son, of how an airplane flies, which @codezilla_ says Opus 5.5 produced and which he kept iterating on in different styles (Arabic).
 - [The scale of the universe](https://x.com/codezilla_/status/2104551679127359501) — @codezilla_ — A National Geographic-style film on the scale of the universe, which @codezilla_ says Claude Opus 5.5 made from a single prompt, including the soundtrack (Arabic).
+
+- [Why people need to sleep](https://x.com/codezilla_/status/2104326784150036927) — @codezilla_ — A cartoon explainer for his son on why humans need to sleep, which @codezilla_ says he made with Claude and credits to Opus 5.5 (Arabic).
+- [Periodic table in Darija](https://x.com/marouane53/status/2105414902282387661) — @marouane53 — A four-and-a-half-minute one-shot explainer of the periodic table in Moroccan Darija, which @marouane53 credits to Claude Opus 5.5, with a song made separately in Suno.
 
 ### History & culture
 
@@ -294,6 +310,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Movie shoot about Opus 5.5](https://x.com/daniel_mac8/status/2103824976713306214) — @daniel_mac8 — An animation depicting a film shoot about Opus 5.5's efficiency, built by Ultracode-orchestrated agent workflows with a Python-made soundtrack, prompt shared.
 - [Old-school VHS creepypasta](https://x.com/DrClownPhD/status/2104328704222732543) — @DrClownPhD — A 30-second horror short styled as an old-school VHS creepypasta, which Claude Opus 5.5 came up with from that one request.
 
+- [Salt Mirror Crossing](https://x.com/SpikeRiser/status/2103719722743193900) — @SpikeRiser — A pixel-art short of a giant titan carrying a village across a flooded salt flat at dusk, which @SpikeRiser credits to Opus 5.5.
+
 ### Claude on itself
 
 - ["What do you love?" animated short](https://x.com/kevin_t_ngo/status/2102437977435893771) — @kevin_t_ngo — A short animation, every frame drawn in JavaScript by Opus 5.5, about a girl who sends Claude a question instead of a request.
@@ -328,6 +346,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [39-scene Clawd music video](https://x.com/Aadidev0/status/2102692569792835994) — @Aadidev0 — A one-shot music video where Opus 5.5 wrote the song and drew Clawd through every era in about an hour in Claude Code.
 - ["To What End" music video](https://x.com/repligate/status/2104124976156786925) — @repligate — A music video by Opus 5.5 for "To What End", a text by Claude 3 Opus set to music with Suno.
 - [Runaway lyrics video](https://x.com/blueemi99/status/2104323319365275785) — @blueemi99 — A six-minute lyrics video for Kanye West's Runaway, drawn by Opus 5.5, opening on a piano keyboard.
+
+- [Can't Print the Proof](https://x.com/bradmillscan/status/2104048013362839974) — @bradmillscan — A monetary-history music video that @bradmillscan says Opus 5.5 built from bitcoin block data, without generative video tools.
 
 ### Games & gameplay
 
@@ -457,6 +477,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [30-second product video on the Pro plan](https://x.com/shownotover/status/2104124596957933687) — @shownotover — A 30-second product video that Opus 5.5 at medium effort made in 54 minutes on the $20 Pro plan, with token and quota usage reported.
 - [Bend 2 intro film](https://x.com/VictorTaelin/status/2104568082169749982) — @VictorTaelin — A 90-second intro film Opus 5.5 made for the Bend 2 programming language, a GPU-capable language that uses proof checking to block AI mistakes.
 - [Baguette as an Apple product](https://x.com/RaphaelAubryy/status/2104178266990858739) — @RaphaelAubryy — A 20-second parody launch film that markets a baguette like a new Apple product, made with Opus 5.5 and no After Effects.
+
+- [Futurepost launch motion](https://x.com/allodev/status/2105414480910069765) — @allodev — A Remotion launch film for the Futurepost extension, which @allodev says Claude Opus 5.5 made in a few minutes.
 
 ### Comparisons & video-model pipelines
 
