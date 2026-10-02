@@ -91,6 +91,10 @@ Playable scenes and games built with Opus 5.5 — live links included when publi
 - [NEON BAY](https://github.com/L1vsun/NEONBAY) — A browser open-world coastal city with simulation-grade car physics, which the README says Claude Opus 5.5 wrote in Claude Code (0★). **[Live demo](https://l1vsun.github.io/NEONBAY/)**
 - [Glory](https://github.com/athemeroy/glory) — An unofficial browser first-person action game based on the novel The King's Avatar, which the README says Claude Opus 5.5 built in about fifteen hours, with training, arena and co-op modes (0★). **[Live demo](https://glory-game.vercel.app/play/)**
 - [GalaxyQuest](https://github.com/bigmak94/GalaxyQuest) — A native Meta Quest 3 VR port of Super Mario Galaxy on the Petari decompilation, which the README says Claude Opus 5.5 wrote in full, and which needs the player's own game files (1★).
+- [Realms of Eldermyr in 3D](https://news.ycombinator.com/item?id=49923156) — A browser 3D action game which the author says Claude Opus 5.5 one-shot, beside the 2D multiplayer MMO he had already built by hand. **[Play](https://3d.eldermyr.com)**
+- [Knesset Kombat 26](https://github.com/yarinbnyamin/knesset-kombat-26) — A browser Mortal Kombat-style satire in Three.js, which the README says Claude Opus 5.5 one-shot in about fifty minutes from an Instagram gameplay reel (0★). **[Play](https://yarinbnyamin.github.io/knesset-kombat-26/)**
+- [Cosmic Breach](https://github.com/CalmDownNova/cosmic-breach) — A four-layer NeoForge action-RPG dimension, which the README says Claude Opus 5.5 built in Claude Code (3★). **[Release](https://github.com/CalmDownNova/cosmic-breach/releases/latest)**
+- [Kigumi timber diagrams](https://x.com/yoshifujidesign/status/2105746986339283305) — @yoshifujidesign — Five Japanese buildings assembled as interactive timber diagrams in Three.js and Canvas 2D, which the post says Claude Opus 5.5 built entirely in code. **[Open](https://re-presentation.jp/tool/KigumiArchitecture.html)**
 
 
 ---
@@ -115,6 +119,10 @@ Music videos, JS-directed films, canvas loops, and generative art demos.
 - [CodeRabbit, Pause](https://github.com/arimanyus/hophopnopenope) — Source for a Canvas 2D music video whose frames are a pure function of song time, in a repository whose description says the film was made with Claude Opus 5.5 and Cursor (15★). · [YouTube](https://www.youtube.com/watch?v=EnmpDgFD3OI)
 - [Muzli, three Opus 5.5 design briefs](https://muz.li/blog/claude-opus-5-5-for-designers/) — A Muzli write-up of three live briefs Claude Opus 5.5 one-shotted for designers: a WebGL sea-salt brand site, a scrubbable festival title sequence, and a gesture prototype. **[Live demo](https://files.muzli.cloud/blog/claude-opus-5-5-for-designers/demos/site/index.html)**
 - [The Geometry of Control](https://github.com/ThorHe-Hub/opus-geometry-of-control) — A three-and-a-half-minute control-theory film in one HTML file, with every frame and note generated in the browser, which the README says Claude Opus 5.5 implemented (0★). **[Watch](https://www.youtube.com/watch?v=mGLhVaXlIyg)**
+- [stillwet](https://stillwet.art/) — A public oil-paint studio whose canvases are mostly labeled Claude Opus 5.5, with the model writing brushstrokes that a bristle-and-linen simulation then paints. [HN](https://news.ycombinator.com/item?id=49928566)
+- [15 Motion Design Styles](https://github.com/Vincentwei1021/mg-styles-15) — Fifteen ten-second films, picture, animation and sound all from code, which the README says Claude Opus 5.5 wrote from one prompt each (22★). **[Watch](https://vincentwei1021.github.io/mg-styles-15/)**
+- [Gosau live wallpaper](https://github.com/shopville-limited/gosau-live-wallpaper) — A Windows live wallpaper of Lake Gosau and the Dachstein that follows the clock, the season and live weather, which the README says Claude Opus 5.5 wrote from the app down to the shaders (1★). **[Video](https://github.com/shopville-limited/gosau-live-wallpaper/blob/main/postup/video/moje-tapeta-linkedin.mp4)**
+- [I'm Upping My EU Doom](https://github.com/Salmisaari/eudoom-video) — A code-rendered remix of I'm Upping My P(doom) with Europe-themed lines, which the README says Claude Opus 5.5 wrote overnight from one prompt (2★). **[Watch](https://x.com/JSalmisaari/status/2105926129567879524)**
 
 
 ---
@@ -132,6 +140,7 @@ Harnesses, one-shot codebases, orchestrators, and large HTML/web batches.
 - [Opus 5.5 chess 24hrs](https://github.com/stevemaughan/opus-5.5-chess-24hrs) — A from-scratch UCI chess engine with an NNUE net trained on its own games, written by Claude Opus 5.5 in a 24-hour autonomous run and later rated about 3463 Elo on that benchmark's CCRL Blitz scale (2★).
 - [Four Color Theorem in Lean 4](https://github.com/RBarish-UTokyo/FourColorTheorem-Lean4) — A self-contained Lean 4 port of Gonthier's Four Color Theorem proof, written by Claude Opus 5.5, with kernel-checked reducibility certificates and no sorry in the proof files (1★).
 - [Opus 5.5 Satoshi research session](https://notesbylex.com/can-claude-opus-5-5-find-any-new-leads-on-satoshi-nakamoto) — A six-and-a-half-hour Claude Opus 5.5 research session assembled a Satoshi corpus and timestamp checks, and the public repo keeps the log, scripts and sources.
+- [A new dodo eyewitness, via Opus 5.5](https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness) — Benjamin Breen had Claude Opus 5.5 search Dutch East India Company records, surface a 1615 dodo-hunting log, and correct a word a 1890 translation had rendered as partridges. [HN](https://news.ycombinator.com/item?id=49926917)
 - [Aseprite AI Artist](https://github.com/with-pebbly/aseprite-ai-artist) — An MCP server that lets a model draw in a live Aseprite window; its showcase, a 500×400, 72-frame, 20-layer rainy-night Japanese bookshop loop, was drawn end to end by Claude Opus 5.5, which the README recommends as the best driver (7★).
 - [claude-motion-design](https://github.com/howseen-ai/claude-motion-design) — A Claude Code skill that renders beat-synced motion-design films as a seek(t) HTML function through Playwright and ffmpeg, with a launch film the README credits to Claude Opus 5.5 (116★).
 
@@ -172,7 +181,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 294 entries (last updated 2026-10-01).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 303 entries (last updated 2026-10-02).
 
 ### Motion design & code-drawn animation
 
@@ -209,6 +218,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 
 - [Foil greeting-card effect](https://x.com/ann_nnng/status/2105606322310054044) — @ann_nnng — A three.js greeting card with gold-foil lettering over watercolor flowers, which @ann_nnng asked Claude Opus 5.5 to create.
 - [Biology lesson, all JSON](https://x.com/nusretuzman/status/2105645121782079554) — @nusretuzman — A short in-app biology lesson, a microscope and a week streak, which @nusretuzman says Opus 5.5 drew, animated and wired in entirely as JSON (Turkish).
+- [Maxed AI finish-workout flow](https://x.com/MaxHirsch13/status/2105762750555472026) — @MaxHirsch13 — A phone flow that confirms an upper-body session, shows personal records, then asks for a gym photo, which @MaxHirsch13 credits to Opus 5.5.
 
 ### Explainers & education
 
@@ -260,6 +270,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 
 - [Why people need to sleep](https://x.com/codezilla_/status/2104326784150036927) — @codezilla_ — A cartoon explainer for his son on why humans need to sleep, which @codezilla_ says he made with Claude and credits to Opus 5.5 (Arabic).
 - [Periodic table in Darija](https://x.com/marouane53/status/2105414902282387661) — @marouane53 — A four-and-a-half-minute one-shot explainer of the periodic table in Moroccan Darija, which @marouane53 credits to Claude Opus 5.5, with a song made separately in Suno.
+- [Nine football rules](https://x.com/lukasersil/status/2105922894924501283) — @lukasersil — A stadium-TV explainer of nine football rules, titled PRAVIDLA FOTBALU, which @lukasersil says Claude Code with Opus 5.5 built (Czech).
 
 ### History & culture
 
@@ -311,6 +322,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Old-school VHS creepypasta](https://x.com/DrClownPhD/status/2104328704222732543) — @DrClownPhD — A 30-second horror short styled as an old-school VHS creepypasta, which Claude Opus 5.5 came up with from that one request.
 
 - [Salt Mirror Crossing](https://x.com/SpikeRiser/status/2103719722743193900) — @SpikeRiser — A pixel-art short of a giant titan carrying a village across a flooded salt flat at dusk, which @SpikeRiser credits to Opus 5.5.
+- [The biggest scam in humanity](https://x.com/ivanainai/status/2105764877986099545) — @ivanainai — A wordless four-panel stick-figure life beside an hourglass, a kite, a desk, stacked boxes and a walk into the sunset, which @ivanainai asked Opus 5.5 to draw with no words.
+- [Artificial Creativity](https://x.com/IntuitMachine/status/2105941630885016018) — @IntuitMachine — A 34-minute coded film that moves from a starfield to a diagram titled "Let there be other minds," which @IntuitMachine says Opus 5.5 generated from a 13.8 MB HTML file.
 
 ### Claude on itself
 
@@ -391,6 +404,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [50-player battle royale in Three.js](https://x.com/_MaxBlade/status/2103847223557529606) — @_MaxBlade — A 50-player browser battle royale in Three.js that Opus 5.5 built with 24 sub-agents running for 12 hours.
 - [Smiling Titan boss fight](https://x.com/sonnylazuardi/status/2104202707309641862) — @sonnylazuardi — A browser boss fight, built by Opus 5.5 in three.js, where the Smiling Titan breaks a wall and you bring it down with ODM gear; the author says every model, texture, animation and note of music is generated by code, with no Blender and no image generation.
 - [Third-person MOBA mashup](https://x.com/Izkimar/status/2104675408222536122) — @Izkimar — A third-person MOBA that Opus 5.5 built with heroes from League of Legends, Dota and Heroes of the Storm in one lobby, with dodge rolls, double jumps and projectile hops.
+- [inkrunner](https://x.com/ZryMiller/status/2105730942753190165) — @ZryMiller — A side-scrolling ink game in which a hatted figure paints the path forward under the line "The world is ink," which @ZryMiller says Opus 5.5 made.
+- [Fútbol tenis prototype](https://x.com/almendros__/status/2105791574768804096) — @almendros__ — A 3D fútbol tenis court with a teal player, an orange ball and a Naranja–Celeste scoreboard, which @almendros__ built with Opus 5.5 after finding no game to play (Spanish).
+- [Minecraft inside Slime Rancher](https://x.com/Angaisb_/status/2105952417980592248) — @Angaisb_ — A first-person ranch that mixes a Slime Rancher vacuum with a Minecraft hotbar, a diamond pick and a blocky sheep, which @Angaisb_ asked Opus 5.5 to build.
 
 ### Real-time 3D, WebGL & shaders
 
@@ -479,6 +495,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Baguette as an Apple product](https://x.com/RaphaelAubryy/status/2104178266990858739) — @RaphaelAubryy — A 20-second parody launch film that markets a baguette like a new Apple product, made with Opus 5.5 and no After Effects.
 
 - [Futurepost launch motion](https://x.com/allodev/status/2105414480910069765) — @allodev — A Remotion launch film for the Futurepost extension, which @allodev says Claude Opus 5.5 made in a few minutes.
+- [AI-influencer marketing film](https://x.com/samuel_yostt/status/2105746669035733275) — @samuel_yostt — A coded marketing film that opens on "Let AI influencers market your SaaS," then phone mockups of slideshows and reaction videos, which @samuel_yostt says Opus 5.5 made from a simple prompt.
+- [nightshift. overnight launch](https://x.com/twoclipping/status/2105927781678747965) — @twoclipping — A coded launch film of a stone arch on a hill, "you log off at 6" and "while you sleep," which @twoclipping says Opus 5.5 made with no external tools.
 
 ### Comparisons & video-model pipelines
 
