@@ -5502,5 +5502,41 @@
     "stars": null,
     "notes": "Posted 2026-10-03 07:11 UTC. Own post, not a quote, native 40.5s video, text names Claude Opus 5.5, 89 likes. Verified on both APIs on 2026-10-03.",
     "added": "2026-10-03"
+  },
+  {
+    "id": "claude-code-games",
+    "title": "Claude Code Games",
+    "url": "https://github.com/opivankristovi/Claude_Code_Games",
+    "demo_url": "https://opivankristovi.github.io/Claude_Code_Games/",
+    "description": "Three self-contained three.js browser games, a space shooter, a desert podrace and a dog-life sim, which the README says were built with Claude Code using Opus 5.5.",
+    "source": "github",
+    "category": "games-3d",
+    "stars": 0,
+    "notes": "opivankristovi. README and the Pages index both say built with Claude Code (Opus 5.5). Index, X-Fighter, PodRace and DaidoSim all HTTP 200 on 2026-10-04; the three game pages show their own title screens. Stars (0) from the GitHub repo page the same day.",
+    "added": "2026-10-04"
+  },
+  {
+    "id": "garrys-redemption",
+    "title": "Garry's Redemption",
+    "url": "https://github.com/codeByAlexff/garrys-redemption",
+    "demo_url": null,
+    "description": "A story-mode passthrough mod that plays Red Dead Redemption 2 with Garry's Mod movement, weapons and tools, which the README says Claude Opus 5.5 built and tested in the running games.",
+    "source": "github",
+    "category": "games-3d",
+    "stars": 1,
+    "notes": "codeByAlexff. README section 'Made with Claude Opus 5.5' fetched 2026-10-04. No public web demo; it needs both games installed. Stars (1) from the GitHub repo page the same day. Not an official Rockstar or Facepunch product.",
+    "added": "2026-10-04"
+  },
+  {
+    "id": "fate-pv",
+    "title": "Opus 5.5, Beethoven, and Fate",
+    "url": "https://github.com/jtydhr88/fate-pv",
+    "demo_url": null,
+    "description": "A five-minute three.js music film whose frames follow the score note for note, which the README says Claude Opus 5.5 made in Claude Code.",
+    "source": "github",
+    "category": "creative",
+    "stars": 2,
+    "notes": "jtydhr88. README: made with Claude (Opus 5.5); no image or video generation model. Stills in the repo returned HTTP 200. https://jtydhr88.github.io/fate-pv/ was 404 on 2026-10-04, so there is no demo URL. Stars (2) from the GitHub repo page the same day. The engine starts from mexicat/pdoom-video, a different repo from the listed JohnHeibel/PDoomVideo.",
+    "added": "2026-10-04"
   }
 ]
