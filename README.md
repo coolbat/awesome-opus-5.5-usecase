@@ -98,6 +98,11 @@ Playable scenes and games built with Opus 5.5 — live links included when publi
 - [OpusCraft](https://github.com/Oppenheimerism/OpusCraft) — A browser survival sandbox made to play like Minecraft Java Edition 1.21, which the README says Claude Opus 5.5 wrote in Claude Code (1★). **[Play](https://opuscraft.pages.dev)**
 - [Claude Code Games](https://github.com/opivankristovi/Claude_Code_Games) — Three self-contained three.js browser games, a space shooter, a desert podrace and a dog-life sim, which the README says were built with Claude Code using Opus 5.5 (0★). **[Play](https://opivankristovi.github.io/Claude_Code_Games/)**
 - [Garry's Redemption](https://github.com/codeByAlexff/garrys-redemption) — A story-mode passthrough mod that plays Red Dead Redemption 2 with Garry's Mod movement, weapons and tools, which the README says Claude Opus 5.5 built and tested in the running games (1★).
+- [Montanha: Zero Day](https://github.com/tiagovilasboas/montanha-zero-day) — A mobile-first Canvas PWA platformer set in a cyberpunk Neo-Sampa, which the README says was developed with Claude Opus 5.5 (Cowork) (0★). **[Live demo](https://tiagovilasboas.github.io/montanha-zero-day/)**
+- [Snakeboard](https://github.com/thebuggeddev/snakeboard) — A 3D snakes-and-ladders game where the snakes move, which the repository description and @thebuggeddev credit to Claude Opus 5.5 (0★). **[Live demo](https://snakeboard.wasmer.app/)**
+- [Slopstroid Opus](https://github.com/switchfire6/Slopstroid-Opus) — A single-file Three.js asteroid-impact simulator, which the README says Claude Opus 5.5 built at High effort (0★).
+- [Mini Warehouse](https://github.com/hlwsby/mini-warehouse) — A browser Three.js warehouse simulation with trucks, docks and forklifts, which the GitHub description credits to Claude Opus 5.5 (0★). **[Live demo](https://hlwsby.github.io/mini-warehouse/)**
+- [Snowline Rivals](https://x.com/Alex_Vainshtein/status/2107109322937303511) — A free browser 3D snowboard racer with alpine courses and rival ghosts, which @Alex_Vainshtein says was built with GPT-6 Astra and Claude Opus 5.5. **[Live demo](https://snowline.freesoul.games/)**
 
 
 ---
@@ -128,6 +133,8 @@ Music videos, JS-directed films, canvas loops, and generative art demos.
 - [I'm Upping My EU Doom](https://github.com/Salmisaari/eudoom-video) — A code-rendered remix of I'm Upping My P(doom) with Europe-themed lines, which the README says Claude Opus 5.5 wrote overnight from one prompt (2★). **[Watch](https://x.com/JSalmisaari/status/2105926129567879524)**
 - [Civilization, a coded history](https://github.com/DDChen666/civilization-film) — A 149-second film of human civilization, every frame and note written in code, which the README says Claude Opus 5.5 made in about four and a half hours (0★). **[Watch](https://ddchen666.github.io/civilization-film/player.html?lang=en)**
 - [Opus 5.5, Beethoven, and Fate](https://github.com/jtydhr88/fate-pv) — A five-minute three.js music film whose frames follow the score note for note, which the README says Claude Opus 5.5 made in Claude Code (2★).
+- [Don't Go Quiet On Me](https://github.com/neelnanda-io/dont-go-quiet-on-me) — A song and code-drawn music video on the history of mechanistic interpretability, which the README says Claude Opus 5.5 wrote and animated with Suno v6 vocals (5★). **[Live demo](https://neelnanda-io.github.io/dont-go-quiet-on-me/)**
+- [Why one-third?](https://github.com/luyenchou1/why-one-third) — An interactive lesson on why a cone is one-third of a cylinder, which the README says Claude Opus 5.5 built (0★). **[Live demo](https://luyenchou1.github.io/why-one-third/)**
 
 
 ---
@@ -149,6 +156,8 @@ Harnesses, one-shot codebases, orchestrators, and large HTML/web batches.
 - [Aseprite AI Artist](https://github.com/with-pebbly/aseprite-ai-artist) — An MCP server that lets a model draw in a live Aseprite window; its showcase, a 500×400, 72-frame, 20-layer rainy-night Japanese bookshop loop, was drawn end to end by Claude Opus 5.5, which the README recommends as the best driver (7★).
 - [claude-motion-design](https://github.com/howseen-ai/claude-motion-design) — A Claude Code skill that renders beat-synced motion-design films as a seek(t) HTML function through Playwright and ffmpeg, with a launch film the README credits to Claude Opus 5.5 (116★).
 - [LP OS](https://github.com/viviantest1004/linux-LPOS) — A from-scratch Linux desktop, with its own C library, init and apps, which the README says was built entirely with Claude Opus 5.5 (0★). **[Download](https://lpos.cholab.kr)**
+- [skill-creator-plus](https://github.com/robonuggets/skill-creator-plus) — A free Claude skill that audits and rewrites other skills against Anthropic's rules, including what changed for Opus 5.5 (9★).
+- [VEED Open Edit](https://github.com/veedstudio/open-edit) — An open-source agent that turns videos into editable browser projects; @veedstudio says it makes Opus 5.5 videos editable (1525★).
 
 ---
 
@@ -188,7 +197,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 311 entries (last updated 2026-10-03).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 314 entries (last updated 2026-10-05).
 
 ### Motion design & code-drawn animation
 
@@ -371,6 +380,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Runaway lyrics video](https://x.com/blueemi99/status/2104323319365275785) — @blueemi99 — A six-minute lyrics video for Kanye West's Runaway, drawn by Opus 5.5, opening on a piano keyboard.
 
 - [Can't Print the Proof](https://x.com/bradmillscan/status/2104048013362839974) — @bradmillscan — A monetary-history music video that @bradmillscan says Opus 5.5 built from bitcoin block data, without generative video tools.
+- [One-shot motion-graphics MV](https://x.com/Narfdemo2000/status/2107102281640653237) — @Narfdemo2000 — A one-shot motion-graphics music video from a rap song, which @Narfdemo2000 says Opus 5.5 built in Three.js and Canvas 2D with no shot list.
 
 ### Games & gameplay
 
@@ -419,6 +429,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Minecraft inside Slime Rancher](https://x.com/Angaisb_/status/2105952417980592248) — @Angaisb_ — A first-person ranch that mixes a Slime Rancher vacuum with a Minecraft hotbar, a diamond pick and a blocky sheep, which @Angaisb_ asked Opus 5.5 to build.
 - [I Just Wanted to Fish](https://x.com/ForkedPush/status/2106313584829431901) — @ForkedPush — A top-down fishing game on a tropical pier, which @ForkedPush says took a full week of Claude Opus 5.5 usage, with the models and animations made through Blender MCP.
 - [Roblox mechs in Studio](https://x.com/jakebball11/status/2106160432184803363) — @jakebball11 — A Roblox Studio view of purple mechs and yellow players, which @jakebball11 says Opus 5.5 worked on while he was working.
+- [Minecraft inside Skyrim](https://x.com/zukooxbt/status/2107108145419919621) — @zukooxbt — A clip that @zukooxbt says shows Opus 5.5 dropping all of Minecraft into Skyrim, with cobblestone placed in a mammoth fight.
+- [Supermarket 3D UI sim](https://x.com/ballerinifb/status/2107104693448999402) — @ballerinifb — A supermarket simulator used as a 3D UI for data and processes, which @ballerinifb says was built with Claude Code and Opus 5.5.
 
 ### Real-time 3D, WebGL & shaders
 
