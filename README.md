@@ -103,6 +103,7 @@ Playable scenes and games built with Opus 5.5 — live links included when publi
 - [Slopstroid Opus](https://github.com/switchfire6/Slopstroid-Opus) — A single-file Three.js asteroid-impact simulator, which the README says Claude Opus 5.5 built at High effort (0★).
 - [Mini Warehouse](https://github.com/hlwsby/mini-warehouse) — A browser Three.js warehouse simulation with trucks, docks and forklifts, which the GitHub description credits to Claude Opus 5.5 (0★). **[Live demo](https://hlwsby.github.io/mini-warehouse/)**
 - [Snowline Rivals](https://x.com/Alex_Vainshtein/status/2107109322937303511) — A free browser 3D snowboard racer with alpine courses and rival ghosts, which @Alex_Vainshtein says was built with GPT-6 Astra and Claude Opus 5.5. **[Live demo](https://snowline.freesoul.games/)**
+- [Poké Wars](https://github.com/gavilanbe/poke-wars) — A fan-made, Advance Wars-style turn-based tactics game with Pokémon, an eight-mission story mode and eight commanders, which the README says was made with Claude Opus 5.5 (0★). **[Play](https://gavilanbe.github.io/poke-wars/)**
 
 
 ---
@@ -135,6 +136,11 @@ Music videos, JS-directed films, canvas loops, and generative art demos.
 - [Opus 5.5, Beethoven, and Fate](https://github.com/jtydhr88/fate-pv) — A five-minute three.js music film whose frames follow the score note for note, which the README says Claude Opus 5.5 made in Claude Code (2★).
 - [Don't Go Quiet On Me](https://github.com/neelnanda-io/dont-go-quiet-on-me) — A song and code-drawn music video on the history of mechanistic interpretability, which the README says Claude Opus 5.5 wrote and animated with Suno v6 vocals (5★). **[Live demo](https://neelnanda-io.github.io/dont-go-quiet-on-me/)**
 - [Why one-third?](https://github.com/luyenchou1/why-one-third) — An interactive lesson on why a cone is one-third of a cylinder, which the README says Claude Opus 5.5 built (0★). **[Live demo](https://luyenchou1.github.io/why-one-third/)**
+- [Emergence](https://github.com/jinda-li/Emergence) — A 4½-minute short film made entirely from code, which the README says Claude Opus 5.5 wrote, directed, scored and rendered, with WebGL frames and Python-synthesised sound (0★). **[Watch](https://youtu.be/bgAs9qyfhXI)**
+- [world.execute (me) ; web player](https://github.com/FrostNovaOrg/world-execute-web) — The browser player for a fully code-generated fan music video of Mili's world.execute (me) ;, whose visuals the README credits to Claude Opus 5.5 Max (9★). **[Live demo](https://execute.frostnova.org)**
+- [Punctum](https://github.com/sundyme/punctum) — A free variable 5×7 dot-matrix typeface with dot-size and dot-shape axes, which the README says Claude (Opus 5.5) designed for @sundyme (32★). **[Live demo](https://sundyme.github.io/punctum/)**
+- [Linux history, video as code](https://github.com/sujee/visual-stories/tree/main/projects/linux-history) — An animated 35-year history of Linux rendered from code, which the README says started from one prompt to Claude Code (Opus 5.5) plus a few rounds of feedback (1★). [HN](https://news.ycombinator.com/item?id=49968658)
+- [Here's to the Crazy Ones](https://news.ycombinator.com/item?id=49971016) — An animated web tribute to Steve Jobs that recreates the Crazy Ones ad, whose credits say the animation, sound design and code are by Claude Opus 5.5, with drawings by GPT-Image-2.5. **[Live demo](https://crazy.eyad.com/)**
 
 
 ---
@@ -158,6 +164,10 @@ Harnesses, one-shot codebases, orchestrators, and large HTML/web batches.
 - [LP OS](https://github.com/viviantest1004/linux-LPOS) — A from-scratch Linux desktop, with its own C library, init and apps, which the README says was built entirely with Claude Opus 5.5 (0★). **[Download](https://lpos.cholab.kr)**
 - [skill-creator-plus](https://github.com/robonuggets/skill-creator-plus) — A free Claude skill that audits and rewrites other skills against Anthropic's rules, including what changed for Opus 5.5 (9★).
 - [VEED Open Edit](https://github.com/veedstudio/open-edit) — An open-source agent that turns videos into editable browser projects; @veedstudio says it makes Opus 5.5 videos editable (1525★).
+- [Opus 5.5 agents find magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors) — Vals AI shares two candidate room-temperature antiferromagnetic semiconductors for next-generation memory, found by a team of Claude Opus 5.5 agents. [HN](https://news.ycombinator.com/item?id=49970667)
+- [Pawboard](https://github.com/NeatoPurrito/Pawboard) — A whiteboard that lives on your Windows desktop behind your icons, which the README says Claude (Opus 5.5) coded while the author came up with the idea and tested it (20★).
+- [Control4Free](https://github.com/MoHadiShibli/Control4Free) — A GoldHEN payload that turns a phone or PC into up to four virtual PS4 DualShock controllers, which the README says was built with help from Claude Opus 5.5 and OpenAI's Astra GPT-6 (18★).
+- [papergit2video](https://github.com/HuiMa-pty/papergit2video) — A coding-agent tool that turns research papers and GitHub repos into narrated explainer videos from one prompt; the README's example session made 15 Claude Opus 5.5 API calls for about $0.47 (8★).
 
 ---
 
@@ -176,6 +186,7 @@ Related awesome lists and prompt packs (some cover adjacent models — noted inl
 - [Awesome Claude Video](https://github.com/opusvideo/awesome-claude-video) — A curated gallery of Claude Opus 5.5 animations and videos, with original posts, prompts, and production notes in English and Chinese (45★).
 - [ohmyopus — 108 Opus 5.5 cases](https://ohmyopus.com/en) — A public catalog of 108 things people built with Claude Opus 5.5, grouped into games, coded films, 3D scenes, apps, and long unattended jobs, current as of 26 September 2026.
 - [Awesome Opus 5.5 Videos (Skillry)](https://github.com/yihui-dev/awesome-opus5-5-videos) — A prompt-linked collection of 282 code-rendered Claude Opus 5.5 videos, each tied to the creator's original post and a live Skillry remake (176★). **[Live demo](https://skillry.dev/ai-videos/opus-5-5)**
+- [Game with AI: Starter Pack](https://github.com/2600th/game-with-ai-starter-pack) — A single-page field guide to briefing Claude Opus 5.5 for games, art, animation, 3D and coded video, with live demos, starter prompts and a prompt builder (0★). **[Live demo](https://2600th.github.io/game-with-ai-starter-pack/)**
 
 ---
 
@@ -192,12 +203,13 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 - [Endor Labs — Agent Security League](https://www.endorlabs.com/learn/opus-5-5-6x-cheaper-and-2x-faster-than-fable-5-1-but-memorization-keeps-it-off-the-top-spot) — Claude Code + Opus 5.5 scored 68.7% functional / 33.5% secure code at a $116 full-run cost versus Fable 5.1 and Opus 5
 - [StarSkirmish Bench](https://starskirmish.com/bench/) — A public benchmark where models get one hour to write StarCraft: Brood War bots in C++, and the write-up puts Claude Opus 5.5 in a tie with GPT-6 Astra at the top.
 - [Ouroboros detector](https://github.com/Jourdelune/ouroboros-detector) — An open token-level detector of AI-written text, which the README says Claude Opus 5.5 built end to end, with the weights published on Hugging Face (0★). **[Model](https://huggingface.co/Jour/ouroboros-detector)**
+- [HieraticBench](https://github.com/alymoursy/hieraticbench) — A sealed benchmark of whether AI can read ancient Egyptian hieratic handwriting, whose results table has Claude Opus 5.5 naming the script of real documents 95% of the time but reading only 13% of single signs (2★). **[Live demo](https://hieraticbench.vercel.app)**
 
 ---
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 314 entries (last updated 2026-10-05).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 317 entries (last updated 2026-10-06).
 
 ### Motion design & code-drawn animation
 
@@ -236,6 +248,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Biology lesson, all JSON](https://x.com/nusretuzman/status/2105645121782079554) — @nusretuzman — A short in-app biology lesson, a microscope and a week streak, which @nusretuzman says Opus 5.5 drew, animated and wired in entirely as JSON (Turkish).
 - [Extra-effort ledger](https://x.com/BreejeAnadkat/status/2106093078977315280) — @BreejeAnadkat — A dark phone ledger that records a debit, which @BreejeAnadkat shows after setting Claude Opus 5.5 to extra effort.
 - [Maxed AI finish-workout flow](https://x.com/MaxHirsch13/status/2105762750555472026) — @MaxHirsch13 — A phone flow that confirms an upper-body session, shows personal records, then asks for a gym photo, which @MaxHirsch13 credits to Opus 5.5.
+- [Opus 5.5 flex motion video](https://x.com/HBCoop_/status/2107139305324122491) — @HBCoop_ — A motion video that @HBCoop_ says Claude Opus 5.5 (Max) made on its own in 1 hour 37 minutes from a prompt to flex its own capabilities.
 
 ### Explainers & education
 
@@ -465,6 +478,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Black hole swallowing a star](https://x.com/adonis_singh/status/2103816126778003746) — @adonis_singh — A clip of a black hole swallowing a star, every frame made by Opus 5.5.
 - [Baking Factory](https://x.com/mlperego/status/2104197677135143326) — @mlperego — A three.js baking tool made in about two hours with Opus 5.5 that writes ambient occlusion and other maps into geometry and builds LODs, SDF tiles and impostors, shown turning the Lucy scan into thousands of copies.
 - [Girl with a Pearl Earring, in tiles](https://x.com/redp314/status/2106324559805010004) — @redp314 — A fly-through of Vermeer's Girl with a Pearl Earring rebuilt as thousands of separate 3D tiles, which @redp314 says Claude Code placed with Opus 5.5.
+- [Seaplane built in pure code](https://x.com/maxt3chno/status/2107112922354790508) — @maxt3chno — A detailed seaplane that @maxt3chno says Opus 5.5 Max built in about four hours of pure code, with no 3D models or Blender, using $92 of free credit.
+- [Impressionist painted 3D world in WebGPU](https://x.com/gruberbuilds/status/2107285581109547516) — @gruberbuilds — A browser WebGPU world turned into an impressionist, painted 3D engine, from @gruberbuilds' experiment with Claude Opus 5.5.
 
 ### Blender & 3D modelling
 
