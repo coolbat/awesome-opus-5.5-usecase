@@ -149,6 +149,7 @@ Music videos, JS-directed films, canvas loops, and generative art demos.
 - [LATENT](https://github.com/auricxchu/latent) — A 4-minute-44 short film about feelings from an AI's point of view that goes back to the first handprint on a cave wall, with every frame rendered and every sound synthesised in code; the credits say Opus 5.5 wrote, directed, designed, scored and edited it (0★). **[Watch](https://auricxchu.github.io/latent/)**
 - [The Plane Needs Six](https://github.com/Th1nhNg0/the-plane-needs-six) — A 3Blue1Brown-style Manim explainer of the Hadwiger–Nelson colouring problem and OpenAI's preprint that the plane is not five-colourable, which the README says was made with Opus 5.5 and ElevenLabs (0★).
 - [only my railgun, code MV](https://github.com/hkkk1231/only-my-railgun-mv) — A 4K60 code-animated music video for the opening song of A Certain Scientific Railgun, built from coins, electric arcs, light trails and lyric typography, which the README says Claude Opus 5.5 created while Codex handled local GPU rendering and delivery (0★).
+- [Sparks of AGI, in code](https://github.com/shivam-24-deep/sparks-of-agi-in-code) — A 2.5-minute music video rebuilt as a live site, where JavaScript draws all 4,700 frames in the browser and no scene is a video file, which the README says Claude Opus 5.5 wrote in Claude Code (0★). **[Live](https://shivam-24-deep.github.io/sparks-of-agi-in-code/)**
 
 
 ---
@@ -177,6 +178,8 @@ Harnesses, one-shot codebases, orchestrators, and large HTML/web batches.
 - [Control4Free](https://github.com/MoHadiShibli/Control4Free) — A GoldHEN payload that turns a phone or PC into up to four virtual PS4 DualShock controllers, which the README says was built with help from Claude Opus 5.5 and OpenAI's Astra GPT-6 (18★).
 - [papergit2video](https://github.com/HuiMa-pty/papergit2video) — A coding-agent tool that turns research papers and GitHub repos into narrated explainer videos from one prompt; the README's example session made 15 Claude Opus 5.5 API calls for about $0.47 (8★).
 - [Results on Graffiti conjectures](https://github.com/shiiiIIiIiiin/graffiti-results) — An index of results on spectral graph theory conjectures from Fajtlowicz's Written on the Wall, with proofs for seven conjectures listed as open and a 2048-vertex counterexample to an eighth, which Shin Kimura says were obtained with help from Claude Opus 5.5 and GPT-6.1 Sol (0★).
+- [Sentinela do Tempo](https://github.com/EvertonColombo/Sentinela) — A free severe-weather panel for any point in Brazil that compares five forecast models and flags risk only when at least two agree in the same hour, which the README says was vibe-coded with Claude Opus 5.5 (0★). **[Live demo](https://evertoncolombo.github.io/Sentinela/)**
+- [LLM left alone](https://github.com/wakamex/llm-left-alone) — Complete run records of Claude Opus 5.5 in an empty sandbox with the system prompt replaced by nothing, including the files the dreaming runs left behind (0★). **[Dreams](https://mihaicosma.com/dreams.html)**
 
 ---
 
@@ -197,6 +200,7 @@ Related awesome lists and prompt packs (some cover adjacent models — noted inl
 - [Awesome Opus 5.5 Videos (Skillry)](https://github.com/yihui-dev/awesome-opus5-5-videos) — A prompt-linked collection of 282 code-rendered Claude Opus 5.5 videos, each tied to the creator's original post and a live Skillry remake (176★). **[Live demo](https://skillry.dev/ai-videos/opus-5-5)**
 - [Game with AI: Starter Pack](https://github.com/2600th/game-with-ai-starter-pack) — A single-page field guide to briefing Claude Opus 5.5 for games, art, animation, 3D and coded video, with live demos, starter prompts and a prompt builder (0★). **[Live demo](https://2600th.github.io/game-with-ai-starter-pack/)**
 - [MotionPromptGallery](https://github.com/mikenevermiss/motionpromptgallery) — A gallery of motion graphics made with Claude Opus 5.5, Kimi K3, Claude Fable 5 and GPT-6 Astra, each shown next to the creator's actual prompt and source post (4★). **[Live demo](https://motionpromptgallery.com)**
+- [Claude Motion Playbook](https://github.com/PHY041/claude-motion-playbook) — A write-up of all 233 code-built Claude Opus 5.5 motion videos in the 2026-10-09 snapshot of prompt-motion.com, on what those prompts teach about motion design (0★).
 
 ---
 
@@ -215,13 +219,14 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 - [Ouroboros detector](https://github.com/Jourdelune/ouroboros-detector) — An open token-level detector of AI-written text, which the README says Claude Opus 5.5 built end to end, with the weights published on Hugging Face (0★). **[Model](https://huggingface.co/Jour/ouroboros-detector)**
 - [HieraticBench](https://github.com/alymoursy/hieraticbench) — A sealed benchmark of whether AI can read ancient Egyptian hieratic handwriting, whose results table has Claude Opus 5.5 naming the script of real documents 95% of the time but reading only 13% of single signs (2★). **[Live demo](https://hieraticbench.vercel.app)**
 - [Strange RPG Benchmark](https://github.com/MapleSugarstone/StrangeRPGBenchmark) — A cartridge menu of playable tile-based JRPGs that different models wrote with varying levels of prompting, including three by Claude Opus 5.5 (Duotone, Please Hold and Rote) next to Sonnet 5.5, Fable 5.1 and Qwen 3.8 entries (0★). **[Play](https://maplesugarstone.github.io/StrangeRPGBenchmark/)**
-- [Code graph agent cost](https://github.com/jmgb27/code-graph-agent-cost) — 207 headless Claude Code runs of Opus 5.5 and Haiku 4.5 on six codebases testing whether the CodeGraph MCP makes agents cheaper; the write-up finds Haiku 27% cheaper on long tasks and no clear gain for Opus 5.5 (0★). · [Write-up](https://johnmark.dev/blog/code-graph-agent-cost)
+- [Code graph agent cost](https://github.com/jmgb27/code-graph-agent-cost) — 207 headless Claude Code runs of Opus 5.5 and Haiku 4.5 on six codebases testing whether the CodeGraph MCP makes agents cheaper; the write-up finds Haiku 27% cheaper on long tasks and no clear gain for Opus 5.5 (0★). [Write-up](https://johnmark.dev/blog/code-graph-agent-cost)
+- [Cloudroom math](https://github.com/matyasstoch/cloudroom-math) — Explicit matrix-multiplication algorithms from a one-day campaign on 2026-10-08 of Claude Opus 5.5 agents in Cloudroom, with 27 new tensor-rank upper bounds and an exact verifier; the README says two GPT-6 Astra threads also joined the final 4×4 phase (0★).
 
 ---
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 320 entries (last updated 2026-10-07).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 324 entries (last updated 2026-10-09).
 
 ### Motion design & code-drawn animation
 
@@ -369,6 +374,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Doomscroll before AGI](https://x.com/javif4_/status/2105777073336041916) — @javif4_ — A night street of humanoid robots looking at their phones among a crowd, which @javif4_ says came from two days of talking with Claude Opus 5.5.
 - [The biggest scam in humanity](https://x.com/ivanainai/status/2105764877986099545) — @ivanainai — A wordless four-panel stick-figure life beside an hourglass, a kite, a desk, stacked boxes and a walk into the sunset, which @ivanainai asked Opus 5.5 to draw with no words.
 - [Artificial Creativity](https://x.com/IntuitMachine/status/2105941630885016018) — @IntuitMachine — A 34-minute coded film that moves from a starfield to a diagram titled "Let there be other minds," which @IntuitMachine says Opus 5.5 generated from a 13.8 MB HTML file.
+- [Zathura floating house](https://x.com/DrstaOne/status/2107849452707107170) — @DrstaOne — A clip of the floating, breaking house from Zathura, which @DrstaOne says Claude Opus 5.5 built (10 likes).
 
 ### Claude on itself
 
@@ -494,6 +500,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Girl with a Pearl Earring, in tiles](https://x.com/redp314/status/2106324559805010004) — @redp314 — A fly-through of Vermeer's Girl with a Pearl Earring rebuilt as thousands of separate 3D tiles, which @redp314 says Claude Code placed with Opus 5.5.
 - [Seaplane built in pure code](https://x.com/maxt3chno/status/2107112922354790508) — @maxt3chno — A detailed seaplane that @maxt3chno says Opus 5.5 Max built in about four hours of pure code, with no 3D models or Blender, using $92 of free credit.
 - [Impressionist painted 3D world in WebGPU](https://x.com/gruberbuilds/status/2107285581109547516) — @gruberbuilds — A browser WebGPU world turned into an impressionist, painted 3D engine, from @gruberbuilds' experiment with Claude Opus 5.5.
+- [Browser aquarium](https://x.com/hasibdreamer35/status/2108177452677923178) — @hasibdreamer35 — A screen recording of an underwater world @hasibdreamer35 says Claude Opus 5.5 built with Three.js, meant to be swum through in the browser. The post has no separate live link (3 likes).
 
 ### Blender & 3D modelling
 
@@ -553,6 +560,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [nightshift. overnight launch](https://x.com/twoclipping/status/2105927781678747965) — @twoclipping — A coded launch film of a stone arch on a hill, "you log off at 6" and "while you sleep," which @twoclipping says Opus 5.5 made with no external tools.
 - [Keep thinking](https://x.com/LexnLin/status/2106101651010449796) — @LexnLin — A vertical ad of construction drawings and a hand marked with a coral asterisk, which @LexnLin says Claude Opus 5.5 made for itself.
 - [Blazing energy drink](https://x.com/YildizDikme/status/2106281015152976146) — @YildizDikme — A close-up of a Blazing energy-drink can on a dark page, which @YildizDikme says Claude Opus 5.5 built from scratch after an award-winning site.
+- [Fictional gym campaign](https://x.com/husky__create/status/2108165831838544313) — @husky__create — A gym campaign film whose video, music and edit @husky__create credits to Claude Opus 5.5, after ChatGPT made the character sheet and green-screen stills. The post says the gym and the QR code are fictional (4 likes).
+- [Mercedes promotional video](https://x.com/ITangieff/status/2108183038966251671) — @ITangieff — A promotional video for Mercedes which @ITangieff says Claude Opus 5.5 made (15 likes).
 
 ### Comparisons & video-model pipelines
 
