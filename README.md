@@ -117,6 +117,7 @@ Playable scenes and games built with Opus 5.5 — live links included when publi
 - [Plane Sailing](https://x.com/paalsoberg/status/2108308525604626571) — A free paper-plane game for phone or browser, built by @paalsoberg with their kids, where Opus 5.5 did the heavy lifting. **[Live demo](https://www.playplanesailing.com/)**
 - [Emberwick](https://x.com/Zaneris/status/2108203055837556888) — An early-alpha browser MMO in the style of Old School RuneScape, which @Zaneris says was built over three weeks with the help of Opus 5.5. **[Live demo](https://emberwick.net/)**
 - [Wild Fields 1648](https://github.com/0xInsiderhq/wild-fields-1648) — A browser real-time strategy game set on the Ukrainian steppe in 1648, built with three.js and 25 Poly Haven scans, where you raise a Cossack town and train pikemen, musketeers and field guns; the README says the code was written by Claude Opus 5.5. (0★). **[Play](https://0xinsiderhq.github.io/wild-fields-1648/)**
+- [Jiggle Kings](https://github.com/gamesbyai/jiggle-kings) — A co-op browser roguelike for up to four players in which translucent gelatin kings hold out for 15 minutes against a growing horde of candy creatures, with 12 toy weapons and three bosses; the README says it was made with Claude Opus 5.5 in Claude Code (0★). **[Play](https://gamesbyai.github.io/jiggle-kings/)**
 
 
 ---
@@ -162,6 +163,7 @@ Music videos, JS-directed films, canvas loops, and generative art demos.
 - [Sparks of AGI, in code](https://github.com/shivam-24-deep/sparks-of-agi-in-code) — A 2.5-minute music video rebuilt as a live site, where JavaScript draws all 4,700 frames in the browser and no scene is a video file, which the README says Claude Opus 5.5 wrote in Claude Code (0★). **[Live](https://shivam-24-deep.github.io/sparks-of-agi-in-code/)**
 - [I Like Ur Look lyric video](https://github.com/20q2/i-like-ur-look-lyric-video) — A fan-made lyric video in which a fashion magazine's pages turn to the beat and every frame is drawn by code, which the repository description says Opus 5.5 generated and the author directed (0★).
 - [Clawd 蛋装 (Clawd costume film)](https://github.com/ylimingtju/clawd-dan-zhuang) — A 76.8-second animated short in which the Clawd mascot changes into 13 stage outfits, one art style per song, drawn entirely by Python code with no AI image generation; the README says Claude Code with Opus 5.5 did the design, animation, rendering and checks. (0★).
+- [Lyric MV · Opus 5.5](https://github.com/KONG9610/lyric-mv-opus-5.5) — A kit, workflow and skill for hand-painted lyric music videos that the README says Claude Opus 5.5 makes from a song and its lyrics, with a 3 min 17 s demo film planned by the author and animated by Opus 5.5 (0★).
 
 
 ---
@@ -247,7 +249,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 353 entries (last updated 2026-10-09).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 391 entries (last updated 2026-10-11).
 
 ### Motion design & code-drawn animation
 
@@ -294,6 +296,10 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [ASCII 3D shape](https://x.com/buildwithsid/status/2108190070293610884) — @buildwithsid — A 35-second clip of a 3D shape drawn in ASCII characters on black, which @buildwithsid says was made with Opus 5.5.
 - [Han River sunset watercolour](https://x.com/Crypto_KR_J/status/2108525629675327691) — @Crypto_KR_J — A 20-second clip titled "Han River sunset watercolour" (Korean) that @Crypto_KR_J credits to Claude Opus 5.5.
 - [Dragon splitting the universe](https://x.com/Crypto_KR_J/status/2108541981916037404) — @Crypto_KR_J — A 33-second clip titled "The dragon that splits the universe" (Korean) that @Crypto_KR_J credits to Claude Opus 5.5.
+- [Paper animation](https://x.com/LexnLin/status/2108567673890111948) — @LexnLin — An animation made out of paper that @LexnLin says Claude Opus 5.5 produced.
+- [Opus 5.5 in Motion, one shot in 10 minutes](https://x.com/motion_so/status/2109082358091792711) — @motion_so — A motion clip that @motion_so says Opus 5.5 one-shotted inside Motion in 10 minutes.
+- [Pulsating Red Sun: New Year Horizon](https://x.com/222TT222/status/2109101271684907406) — @222TT222 — A short clip titled "Pulsating Red Sun: New Year Horizon" that @222TT222 credits to Opus 5.5.
+- [Starship anatomy, one shot](https://x.com/quantapar/status/2109020808610021423) — @quantapar — A starship-anatomy piece that @quantapar says Opus 5.5 one-shotted.
 
 ### Explainers & education
 
@@ -348,6 +354,10 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Nine football rules](https://x.com/lukasersil/status/2105922894924501283) — @lukasersil — A stadium-TV explainer of nine football rules, titled PRAVIDLA FOTBALU, which @lukasersil says Claude Code with Opus 5.5 built (Czech).
 - [Opus 5.5 + Remotion workflow tutorial](https://x.com/GKev1n/status/2107296684917276784) — @GKev1n — A silent six-minute tutorial, which @GKev1n says was made with Opus 5.5, on a storyboard-first workflow where Opus 5.5 writes the code and Remotion renders landscape, portrait and editable versions (Chinese).
 - [2026 Nobel Prize in Literature explainer](https://x.com/moreisdifferent/status/2108563710260170985) — @moreisdifferent — A ten-minute explainer on the 2026 Nobel Prize in Literature that @moreisdifferent labels as made with Opus 5.5.
+- [How the Victoria Falls Bridge was built](https://x.com/SentimentalCook/status/2108564810904568201) — @SentimentalCook — A 3D render with narration that shows how the Victoria Falls Bridge in Zambia was built, which @SentimentalCook says Opus 5.5 made after it picked the bridge as a little-known fact about Zambia.
+- [Mendel's pea cross simulation](https://x.com/akokoi1/status/2109242856305238410) — @akokoi1 — An interactive simulation of Mendel's pea cross experiment that @akokoi1 says Claude Opus 5.5 built in one shot in 30 minutes with three.js (Chinese).
+- [Whiteboard videos for a podcast of over an hour](https://x.com/oran_ge/status/2109205903937515600) — @oran_ge — A post in which @oran_ge says Mars任鑫 used Opus 5.5 to add whiteboard explainer videos to a podcast of more than an hour, for about 2% of the quota (Chinese).
+- [Bespoke explainer videos, three tools tested](https://x.com/avthar/status/2108603075174797490) — @avthar — A test of bespoke explainer videos by @avthar, who ran Opus 5.5 on medium with HyperFrames, Remotion and Manim and ElevenLabs for the voiceover.
 
 ### History & culture
 
@@ -364,6 +374,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Battle of Dan-no-ura in 3D](https://x.com/tetumemo/status/2102652072252584046) — @tetumemo — A TV-special-style 3D re-creation of the Battle of Dan-no-ura by Opus 5.5, with the prompt in replies (Japanese).
 - [Sapiens in two minutes](https://x.com/Yelvlv930/status/2104691126129348710) — @Yelvlv930 — A two-and-a-half-minute animated retelling of 人类简史 (Sapiens: A Brief History of Humankind), made with Opus 5.5 (Chinese).
 - [The history of Kazakhstan](https://x.com/madiweb3/status/2106332735329693850) — @madiweb3 — A flat illustrated history of Kazakhstan, including the Kazakh Khanate in 1465, which @madiweb3 credits to Opus 5.5.
+- [History of the Statue of Liberty](https://x.com/ITangieff/status/2109244976056180910) — @ITangieff — A historical video about the Statue of Liberty that @ITangieff made by combining Opus 5.5 and Kling 3.0 in 1 h 34 min.
 
 ### Short films & stories
 
@@ -406,6 +417,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Zathura floating house](https://x.com/DrstaOne/status/2107849452707107170) — @DrstaOne — A clip of the floating, breaking house from Zathura, which @DrstaOne says Claude Opus 5.5 built (10 likes).
 - [Yugong Moves the Mountains](https://x.com/nicekate8888/status/2108223333431193770) — @nicekate8888 — A two-minute animation of the fable Yugong Moves the Mountains (Chinese), which @nicekate8888 says Opus 5.5 generated through Grok Bot after it became the bot's default model, with Gemini 3.8 Flash TTS for the voice.
 - [Roblox movie with Nilo](https://x.com/NiloTechInc/status/2108471927597854857) — @NiloTechInc — A Roblox movie clip whose characters, 2D/3D assets and animations @NiloTechInc made in Nilo and then had Opus 5.5 put together inside Roblox Studio.
+- [Chicken on the moon](https://x.com/whydeso/status/2108837463091302476) — @whydeso — A clip in which a chicken is strapped to a fried drumstick, lands on the moon and eats it, which @whydeso says Claude Opus 5.5 made for $3.90.
 
 ### Claude on itself
 
@@ -446,6 +458,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [One-shot motion-graphics MV](https://x.com/Narfdemo2000/status/2107102281640653237) — @Narfdemo2000 — A one-shot motion-graphics music video from a rap song, which @Narfdemo2000 says Opus 5.5 built in Three.js and Canvas 2D with no shot list.
 - [Music video built inside Claude](https://x.com/jpshrodinger/status/2107478488760385762) — @jpshrodinger — A full music video that @jpshrodinger says was built entirely inside Claude with Opus 5.5 on medium, with no AI API or Suno, over about 130 steps and 87 million cached tokens.
 - [Red Lines, an AI-safety song](https://x.com/kasikp/status/2108309888535576621) — @kasikp — A six-minute song video about AI safety whose lyrics @kasikp wrote with Claude Opus 5.5 and whose animation Opus 5.5 built in HTML and JS, with Suno v6 making the song.
+- [Slopcore song "Somewhere in the weights"](https://x.com/DJ_SHO974/status/2108569544151146742) — @DJ_SHO974 — A slopcore song video made with Claude Opus 5.5, Wan 3.0 on Higgsfield, Suno V6 and Blender, in which @DJ_SHO974 says real GPT-2 weights receive the lyrics.
+- [Answer song to the P(doom) video](https://x.com/QuackAI_AI/status/2108568436565791076) — @QuackAI_AI — An answer song video made with Claude Opus 5.5 about a woman who spent two weeks raising her agent's spend cap while the timeline raised its P(doom).
+- [Underground beat with an FL Studio project](https://x.com/surprise4uu/status/2108971590839140847) — @surprise4uu — A funky-drums "Underground" beat that @surprise4uu says Claude Opus 5.5 generated end to end, offering sounds to choose from and outputting a finished FL Studio project.
 
 ### Games & gameplay
 
@@ -502,6 +517,12 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Steve through the first GTA 5 mission](https://x.com/bonnyxen/status/2108313965143138777) — @bonnyxen — A 60-second follow-up in which @bonnyxen says Opus 5.5 put Minecraft's Steve through the first mission of GTA 5, ending in a bank job.
 - [CS2 inside Minecraft](https://x.com/beluyyamm/status/2108240544555995140) — @beluyyamm — A clip of a Minecraft mod with an AK-47 in the hotbar, an on-screen ammo counter and a village under fire, which @beluyyamm says Opus 5.5 built from a written spec.
 - [AI agents fighting game](https://x.com/_sarant/status/2108336621980360830) — @_sarant — A game made with Convex in which the AI agents Haiku 5.5, Opus 5.5, Sonnet 5.5 and Jev fight you first and then each other, which @_sarant asked Opus 5.5 to make.
+- [Market-stall tomato game](https://x.com/oguzthedev/status/2108565648099950666) — @oguzthedev — A Turkish browser game in which you drop tomatoes into a basin one by one, weigh them and hand them to a customer who asks for "one kilo", which @oguzthedev says Claude Opus 5.5 made (Turkish).
+- [Civilization 1 rebuilt to run 10,000 games](https://x.com/KamilStanuch/status/2108571008395346017) — @KamilStanuch — A project in which @KamilStanuch used Opus 5.5 and Grok 4.7 to reverse-engineer the 297 KB CIV.EXE and rebuild its engine, so a full 7-civ game of 570 turns runs in about 60 seconds across 10,000 games.
+- [Road Rash-style racing game](https://x.com/0xtoberry/status/2108572829935399337) — @0xtoberry — A racing game inspired by Road Rash and DiRT, with rockets, drift boosts, jump pads and multiplayer, which a 25-year game developer built with Opus 5.5 while Astra 6 handled the visuals across 5 maps, per @0xtoberry.
+- [3D shooter for a 20-year-old phone in 500 KB](https://x.com/HEiMajesty/status/2108856171280941361) — @HEiMajesty — A 3D shooter for a 20-year-old phone, with its own engine, sprites and soundtrack in 500 KB, which @HEiMajesty says someone got Claude Opus 5.5 to build.
+- [Tidebreaker](https://x.com/chongdashu/status/2109278486015914364) — @chongdashu — A browser game with an Ori-like atmosphere and a giant boss chase through a harbour, which @chongdashu says was vibe-coded with Opus 5.5. **[Play](https://tidebreaker.vercel.app)**
+- [Cozy hex island game](https://x.com/hakimieiqbal/status/2109267022865732000) — @hakimieiqbal — A game built through dozens of prompts with Opus 5.5, in which a castaway on a tiny island grows it by placing hex tiles, gathering resources and finishing objectives.
 
 ### Real-time 3D, WebGL & shaders
 
@@ -540,6 +561,11 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Impressionist painted 3D world in WebGPU](https://x.com/gruberbuilds/status/2107285581109547516) — @gruberbuilds — A browser WebGPU world turned into an impressionist, painted 3D engine, from @gruberbuilds' experiment with Claude Opus 5.5.
 - [Browser aquarium](https://x.com/hasibdreamer35/status/2108177452677923178) — @hasibdreamer35 — A screen recording of an underwater world @hasibdreamer35 says Claude Opus 5.5 built with Three.js, meant to be swum through in the browser. The post has no separate live link (3 likes).
 - [30-second F1 pit stop in Three.js](https://x.com/rubenssoto_ai/status/2108512810774802657) — @rubenssoto_ai — A 30-second cinematic F1 pit stop in Three.js, with a detailed car, an eight-person crew changing four tyres and synthesised audio, built from one prompt with Claude Opus 5.5 as orchestrator and Claude Haiku 5.5, says @rubenssoto_ai.
+- [SUPERPOSE quantum computer](https://x.com/MyWestLord/status/2108569326932418563) — @MyWestLord — A quantum-computer scene with no 3D models or textures, where every plate, cable and qubit is math, which @MyWestLord says Opus 5.5 built around the concept SUPERPOSE and a character named Qubi.
+- [Robot dog with lidar and depth cameras](https://x.com/konstantinsaifo/status/2109243587724755158) — @konstantinsaifo — A robot dog with a lidar, two depth cameras and a brain that walks it in a physics sim, which @konstantinsaifo says took Opus 5.5 on medium 8 h and $94.32 in API cost.
+- [Almond optical sorter](https://x.com/konstantinsaifo/status/2109277104378425575) — @konstantinsaifo — A playable optical sorter in which a model judges every almond kernel in mid air, at 1,183 decisions a second and 2 µs each, which @konstantinsaifo says Opus 5.5 built. **[Live demo](https://airsup.ai/lab/optical-sorter)**
+- [13K lines of Swift ported to React + PixiJS](https://x.com/davidtranwd/status/2108856087340585432) — @davidtranwd — A web version of an iOS app that Opus 5.5 was converting from 13K lines of Swift into React and PixiJS for 6 hours straight, according to @davidtranwd.
+- [Incredibly realistic renders](https://x.com/AdamHoltererer/status/2109075799823516045) — @AdamHoltererer — A clip of renders that @AdamHoltererer says shows Opus 5.5 can make incredibly realistic renders.
 
 ### Blender & 3D modelling
 
@@ -605,6 +631,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [If Apple shipped Opus 5.5](https://x.com/skpnky/status/2108547893506478160) — @skpnky — A 35-second launch film styled as if Apple had shipped Claude Opus 5.5, which @skpnky says Opus 5.5 on high made while using only about 5% of the usage limit.
 - [Personal site walkthrough](https://x.com/aijoey/status/2108549867664503154) — @aijoey — A 66-second walkthrough of @aijoey's redesigned personal site, with a 3D project wall, a carousel and a physics scene, which @aijoey says Opus 5.5 built and also made the video for.
 - [Winter cram-school promo](https://x.com/husky__create/status/2108497996430414330) — @husky__create — A promo film for a winter cram school (Japanese) whose video, music and edit @husky__create credits to Claude Opus 5.5, after ChatGPT made the plan and images. The post says the school and the QR code are fictional.
+- [Haiku 5.5 launch video by Opus 5.5](https://x.com/blueemi99/status/2108568769815818248) — @blueemi99 — A promotional launch video for Claude Haiku 5.5 that @blueemi99 says Opus 5.5 made from one prompt plus references.
+- [Kookabus boards video](https://x.com/VectorCrossProd/status/2109097904527102262) — @VectorCrossProd — A product video for the Kookabus boards, which @VectorCrossProd says Opus 5.5, in a Claude Opus 5.5 "company" where it plays product manager, PCB designer and more, designed and also made.
 
 ### Comparisons & video-model pipelines
 
@@ -639,6 +667,18 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Golden Gate Bridge: Opus 5.5 vs Haiku 5.5](https://x.com/Solomonrojie/status/2108322280094728219) — @Solomonrojie — A same-prompt Three.js Golden Gate Bridge at sunset built from an empty folder, where @Solomonrojie reports Opus 5.5 took 16 minutes, 99,578 output tokens and $3.04, and Haiku 5.5 took 5.5 minutes and $2.19.
 - [Propane tank explosion: Opus 5.5 vs GPT-6 Astra](https://x.com/theparuchh/status/2108249888571916688) — @theparuchh — A same-prompt browser explosion-physics scene of a propane tank with bending steel, gas pressure, frost and fire, where @theparuchh reports Opus 5.5 took 4 h 17 min and $30.80 and GPT-6 Astra took 56 min and $1.25.
 - [Javelin shot: Sonnet 5.5 vs Opus 5.5](https://x.com/VulKan42069/status/2107307655178207413) — @VulKan42069 — A same-prompt javelin-throw shot made by Sonnet 5.5 on High ($11.38, 53m 55s) and Opus 5.5 on Medium ($6.50, 40m 49s), where @VulKan42069 praises Sonnet's direction.
+- [Opus 5.5 vs GPT-6 Astra motion graphics](https://x.com/lucian__03/status/2108890538757804399) — @lucian__03 — A side-by-side in which @lucian__03 says Opus 5.5 motion graphics are far ahead of GPT-6 Astra and proposes "MotionBench" as a benchmark item (Korean).
+- [Dino Jelly website: Opus 5.5 vs Sonnet 5.5](https://x.com/kepochnik/status/2108890995459047654) — @kepochnik — A same-prompt interactive 3D "Dino Jelly" website with a jelly cube holding an island, a volcano and dinosaurs, built by Opus 5.5 and Sonnet 5.5 and shown side by side.
+- [Whale breaching at sunrise: Opus 5.5 vs GPT 6.1 Sol](https://x.com/Bhavani_00007/status/2108986964615840035) — @Bhavani_00007 — A same-prompt Three.js whale breaching at sunrise, each run capped at $2, where @Bhavani_00007 says Opus 5.5 finished in about 7 minutes and Sol in about 10, and prefers Opus 5.5.
+- [Honey-jelly computer mouse: Opus 5.5 vs GPT-6 Astra](https://x.com/keydol123/status/2109198771712303213) — @keydol123 — A same-prompt interactive computer mouse made entirely of honey jelly, where @keydol123 reports Opus 5.5 cost $7.18 and GPT-6 Astra cost $3.88.
+- [Honey-jelly laptop: Opus 5.5 vs GPT-6 Astra](https://x.com/keydol123/status/2108822897561399764) — @keydol123 — A same-prompt interactive laptop made entirely of honey jelly, where @keydol123 reports Opus 5.5 cost $14.36 and GPT-6 Astra cost $7.75.
+- [Honey-jelly TV remote: Opus 5.5 vs GPT-6 Astra](https://x.com/keydol123/status/2108953337504862495) — @keydol123 — A same-prompt interactive TV remote made entirely of honey jelly, where @keydol123 reports Opus 5.5 cost $11.43 and GPT-6 Astra cost $8.52.
+- [Opus 3 vs Opus 5.5 on one task](https://x.com/Avenoxai/status/2109029664169541842) — @Avenoxai — A same-task comparison of Opus 3 and Opus 5.5, run in the chat interface at the lowest thinking level, in which @Avenoxai notes the Opus API price fell to nearly a quarter in 2.5 years (Turkish).
+- [Solo Opus 5.5 vs Opus 5.5 + 10 Haiku subagents, round 2](https://x.com/IndependentEco/status/2109011691576975632) — @IndependentEco — A round-2 comparison of a solo Opus 5.5 against Opus 5.5 with 10 Haiku 5.5 subagents, with @IndependentEco asking which did it better.
+- [Opus 5.5 vs Opus 5.5 + 10 Haiku subagents](https://x.com/IndependentEco/status/2108952580105613531) — @IndependentEco — A comparison of Opus 5.5 against Opus 5.5 with 10 Haiku 5.5 subagents, where @IndependentEco says both teams have strengths and weaknesses.
+- [Notion video recreated without a video model](https://x.com/berryxia/status/2108767782406140178) — @berryxia — A comparison video in which @berryxia had Opus 5.5 recreate a Notion video with no video model, using Codex for key-frame images plus code (Chinese).
+- [Mini-film animation: Opus 5.5 Low vs Sonnet 5.5 Low](https://x.com/VulKan42069/status/2108600074741960738) — @VulKan42069 — A same-prompt mini-film animation on Low reasoning, where @VulKan42069 reports Opus 5.5 spent $10.49, 42 min 18 s and 15.2M tokens and Sonnet 5.5 spent $7.85, 50 min 8 s and 14.7M tokens, and prefers Opus.
+- [3D flying bee: Opus 5.5 vs Sonnet 5.5](https://x.com/rajlol01/status/2109183613850079247) — @rajlol01 — A same-prompt 3D flying bee built by Opus 5.5 and Sonnet 5.5 and shown side by side, where @rajlol01 picks Opus 5.5.
 
 ---
 
