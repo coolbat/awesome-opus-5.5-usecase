@@ -116,6 +116,7 @@ Playable scenes and games built with Opus 5.5 — live links included when publi
 - [Bay Ride](https://x.com/prasenx/status/2108282068308517050) — A seaside 3D boat game with sea and time-of-day controls, playable inside an X card, which @prasenx says Claude Opus 5.5 built. **[Live demo](https://starknightt.github.io/bay-ride/card/?v=3)**
 - [Plane Sailing](https://x.com/paalsoberg/status/2108308525604626571) — A free paper-plane game for phone or browser, built by @paalsoberg with their kids, where Opus 5.5 did the heavy lifting. **[Live demo](https://www.playplanesailing.com/)**
 - [Emberwick](https://x.com/Zaneris/status/2108203055837556888) — An early-alpha browser MMO in the style of Old School RuneScape, which @Zaneris says was built over three weeks with the help of Opus 5.5. **[Live demo](https://emberwick.net/)**
+- [Wild Fields 1648](https://github.com/0xInsiderhq/wild-fields-1648) — A browser real-time strategy game set on the Ukrainian steppe in 1648, built with three.js and 25 Poly Haven scans, where you raise a Cossack town and train pikemen, musketeers and field guns; the README says the code was written by Claude Opus 5.5. (0★). **[Play](https://0xinsiderhq.github.io/wild-fields-1648/)**
 
 
 ---
@@ -160,6 +161,7 @@ Music videos, JS-directed films, canvas loops, and generative art demos.
 - [only my railgun, code MV](https://github.com/hkkk1231/only-my-railgun-mv) — A 4K60 code-animated music video for the opening song of A Certain Scientific Railgun, built from coins, electric arcs, light trails and lyric typography, which the README says Claude Opus 5.5 created while Codex handled local GPU rendering and delivery (0★).
 - [Sparks of AGI, in code](https://github.com/shivam-24-deep/sparks-of-agi-in-code) — A 2.5-minute music video rebuilt as a live site, where JavaScript draws all 4,700 frames in the browser and no scene is a video file, which the README says Claude Opus 5.5 wrote in Claude Code (0★). **[Live](https://shivam-24-deep.github.io/sparks-of-agi-in-code/)**
 - [I Like Ur Look lyric video](https://github.com/20q2/i-like-ur-look-lyric-video) — A fan-made lyric video in which a fashion magazine's pages turn to the beat and every frame is drawn by code, which the repository description says Opus 5.5 generated and the author directed (0★).
+- [Clawd 蛋装 (Clawd costume film)](https://github.com/ylimingtju/clawd-dan-zhuang) — A 76.8-second animated short in which the Clawd mascot changes into 13 stage outfits, one art style per song, drawn entirely by Python code with no AI image generation; the README says Claude Code with Opus 5.5 did the design, animation, rendering and checks. (0★).
 
 
 ---
@@ -190,6 +192,9 @@ Harnesses, one-shot codebases, orchestrators, and large HTML/web batches.
 - [Results on Graffiti conjectures](https://github.com/shiiiIIiIiiin/graffiti-results) — An index of results on spectral graph theory conjectures from Fajtlowicz's Written on the Wall, with proofs for seven conjectures listed as open and a 2048-vertex counterexample to an eighth, which Shin Kimura says were obtained with help from Claude Opus 5.5 and GPT-6.1 Sol (0★).
 - [Sentinela do Tempo](https://github.com/EvertonColombo/Sentinela) — A free severe-weather panel for any point in Brazil that compares five forecast models and flags risk only when at least two agree in the same hour, which the README says was vibe-coded with Claude Opus 5.5 (0★). **[Live demo](https://evertoncolombo.github.io/Sentinela/)**
 - [LLM left alone](https://github.com/wakamex/llm-left-alone) — Complete run records of Claude Opus 5.5 in an empty sandbox with the system prompt replaced by nothing, including the files the dreaming runs left behind (0★). **[Dreams](https://mihaicosma.com/dreams.html)**
+- [Opus sound layer](https://github.com/Bodila51/opus-sound-layer) — A sound layer for Opus 5.5 motion videos that gives the model real CC0 recordings, a mixer that places each sound from the render timeline, and a QA script that measures the mix. (18★).
+- [Opus Premiere editing](https://github.com/per-simmons/opus-premiere-editing) — An editing skill and Premiere Pro bridge (MCP) that lets Claude Code on Opus 5.5 make the rough cut of the author's YouTube videos inside the real Adobe Premiere Pro. (0★). [Write-up](https://www.aiformortals.co/blog/opus-5-5-edits-my-videos-premiere)
+- [Line-item review](https://github.com/pshankinclarke/line-item-review) — A workflow for reviewing an AI agent's UI changes one at a time in the running app, with a clickable demo library catalogue; the README says Opus 5.5 wrote the write-up and built the demo site, screenshots and mock diffs. (0★). **[Demo](https://pshankinclarke.github.io/line-item-review/demo/)**
 
 ---
 
@@ -233,6 +238,10 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 - [Cloudroom math](https://github.com/matyasstoch/cloudroom-math) — Explicit matrix-multiplication algorithms from a one-day campaign on 2026-10-08 of Claude Opus 5.5 agents in Cloudroom, with 27 new tensor-rank upper bounds and an exact verifier; the README says two GPT-6 Astra threads also joined the final 4×4 phase (0★).
 - [Iron Citadel showcase](https://github.com/Crawfis-Software/IronCitadel-Showcase) — One Unity dungeon-level brief built three ways, through the authors' framework, by Claude Opus 5.5 and by Claude Fable 5.1, with playable web builds, films and scores; the README scores Opus 5.5 10 pass, 0 fail and 1 by eye, at $29.57 and 1:13:33 (0★). **[Live demo](https://crawfis-software.github.io/IronCitadel-Showcase/)**
 - [Agent harness benchmark](https://github.com/cocodedk/agent-benchmark) — A benchmark in which the Claude Code, prime-agent and pi harnesses each build one three.js Brick Breaker on Opus 5.5 at high thinking, graded by 13 hidden checks for time, tokens and cost, with every build playable (0★). **[Live demo](https://agents.cocode.dk)**
+- [Equilibrium poker benchmark](https://github.com/pedrohasf/equilibrium-poker) — A macOS GTO poker lab (Rust CFR solver and SwiftUI app) that scores OpenRouter decision models against a solved equilibrium and full matches against bots; the README says every line, the experiments and the site were built by Claude Opus 5.5 on medium effort. (0★). **[Results](https://equilibrium-poker.pages.dev)**
+- [Qwen on DGX Spark vs Opus 5.5](https://github.com/mos-ks/qwen-benchmarking-dgx-spark) — A benchmark asking whether a local Qwen on one NVIDIA DGX Spark can match Opus 5.5 at front-end work within twice its time; the README's answer is not yet, with the best setup averaging 7.4 across four briefs against Opus 5.5's 9.1. (0★).
+- [Claude in Chrome speed plugin](https://github.com/cr1707/claude-chrome-speed) — A Claude Code plugin with a 240-run pre-registered benchmark, which the README says cuts Claude in Chrome task time by 40% on Sonnet 5.5 and 28% on Opus 5.5 with every answer correct in both arms. (0★).
+- [Haiku 5.5 vs Opus 5.5 (Turkish)](https://github.com/glamdring09/haiku-opus) — A same-prompt test of Haiku 5.5 and Opus 5.5 in Claude Code on an Istanbul sunset scene and 50 double pendulums; on the scene Opus 5.5 took 22 minutes and $4.15 against Haiku's 6 minutes and $0.14, and the author judges Opus's result more detailed. (0★).
 
 ---
 

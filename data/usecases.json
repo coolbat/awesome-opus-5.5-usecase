@@ -6726,5 +6726,113 @@
     "stars": 0,
     "notes": "cocodedk; created 2026-10-09 10:06 UTC. README: same model (claude-opus-5-5, high thinking) in all three harnesses. Results site HTTP 200 on 2026-10-09 (title Agent Harness Benchmark). Stars (0) from the GitHub API the same day.",
     "added": "2026-10-09"
+  },
+  {
+    "id": "wild-fields-1648",
+    "title": "Wild Fields 1648",
+    "url": "https://github.com/0xInsiderhq/wild-fields-1648",
+    "demo_url": "https://0xinsiderhq.github.io/wild-fields-1648/",
+    "description": "A browser real-time strategy game set on the Ukrainian steppe in 1648, built with three.js and 25 Poly Haven scans, where you raise a Cossack town and train pikemen, musketeers and field guns; the README says the code was written by Claude Opus 5.5.",
+    "source": "github",
+    "category": "games-3d",
+    "stars": 0,
+    "notes": "0xInsiderhq; created 2026-10-11 08:26 UTC. README: 'Code written by Claude Opus 5.5 (Anthropic), directed by @0xInsiderf5'. Play page HTTP 200 on 2026-10-11.",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "clawd-dan-zhuang",
+    "title": "Clawd 蛋装 (Clawd costume film)",
+    "url": "https://github.com/ylimingtju/clawd-dan-zhuang",
+    "demo_url": null,
+    "description": "A 76.8-second animated short in which the Clawd mascot changes into 13 stage outfits, one art style per song, drawn entirely by Python code with no AI image generation; the README says Claude Code with Opus 5.5 did the design, animation, rendering and checks.",
+    "source": "github",
+    "category": "creative",
+    "stars": 0,
+    "notes": "ylimingtju; created 2026-10-09 14:55 UTC. README (Chinese): 整个项目由 Claude Code + Opus 5.5 完成. Final MP4 in repo.",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "opus-sound-layer",
+    "title": "Opus sound layer",
+    "url": "https://github.com/Bodila51/opus-sound-layer",
+    "demo_url": null,
+    "description": "A sound layer for Opus 5.5 motion videos that gives the model real CC0 recordings, a mixer that places each sound from the render timeline, and a QA script that measures the mix.",
+    "source": "github",
+    "category": "agent",
+    "stars": 18,
+    "notes": "Bodila51; created 2026-10-09 16:22 UTC. README: 'A sound layer for motion videos made by Claude Opus 5.5'. Stars (18) from the GitHub API on 2026-10-11.",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "opus-premiere-editing",
+    "title": "Opus Premiere editing",
+    "url": "https://github.com/per-simmons/opus-premiere-editing",
+    "demo_url": null,
+    "description": "An editing skill and Premiere Pro bridge (MCP) that lets Claude Code on Opus 5.5 make the rough cut of the author's YouTube videos inside the real Adobe Premiere Pro.",
+    "source": "github",
+    "category": "agent",
+    "stars": 0,
+    "notes": "per-simmons; created 2026-10-09 18:10 UTC. README: 'have Claude Code (Opus 5.5) do the rough cut of my YouTube videos inside the real Adobe Premiere Pro'. Write-up https://www.aiformortals.co/blog/opus-5-5-edits-my-videos-premiere HTTP 200 on 2026-10-11.",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "line-item-review",
+    "title": "Line-item review",
+    "url": "https://github.com/pshankinclarke/line-item-review",
+    "demo_url": "https://pshankinclarke.github.io/line-item-review/demo/",
+    "description": "A workflow for reviewing an AI agent's UI changes one at a time in the running app, with a clickable demo library catalogue; the README says Opus 5.5 wrote the write-up and built the demo site, screenshots and mock diffs.",
+    "source": "github",
+    "category": "agent",
+    "stars": 0,
+    "notes": "pshankinclarke; created 2026-10-09 23:14 UTC. README: 'Made with Claude Opus 5.5.' Demo HTTP 200 on 2026-10-11.",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "equilibrium-poker",
+    "title": "Equilibrium poker benchmark",
+    "url": "https://github.com/pedrohasf/equilibrium-poker",
+    "demo_url": "https://equilibrium-poker.pages.dev",
+    "description": "A macOS GTO poker lab (Rust CFR solver and SwiftUI app) that scores OpenRouter decision models against a solved equilibrium and full matches against bots; the README says every line, the experiments and the site were built by Claude Opus 5.5 on medium effort.",
+    "source": "github",
+    "category": "benchmarks",
+    "stars": 0,
+    "notes": "pedrohasf; created 2026-10-09 21:19 UTC. README: 'Built 100% by Claude Opus 5.5 (medium effort)'. Site HTTP 200 on 2026-10-11.",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "qwen-benchmarking-dgx-spark",
+    "title": "Qwen on DGX Spark vs Opus 5.5",
+    "url": "https://github.com/mos-ks/qwen-benchmarking-dgx-spark",
+    "demo_url": null,
+    "description": "A benchmark asking whether a local Qwen on one NVIDIA DGX Spark can match Opus 5.5 at front-end work within twice its time; the README's answer is not yet, with the best setup averaging 7.4 across four briefs against Opus 5.5's 9.1.",
+    "source": "github",
+    "category": "benchmarks",
+    "stars": 0,
+    "notes": "mos-ks; created 2026-10-09 18:26 UTC. README headline: Qwen3.8-Flash-Next averages 7.4 vs Opus's 9.1.",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "claude-chrome-speed",
+    "title": "Claude in Chrome speed plugin",
+    "url": "https://github.com/cr1707/claude-chrome-speed",
+    "demo_url": null,
+    "description": "A Claude Code plugin with a 240-run pre-registered benchmark, which the README says cuts Claude in Chrome task time by 40% on Sonnet 5.5 and 28% on Opus 5.5 with every answer correct in both arms.",
+    "source": "github",
+    "category": "benchmarks",
+    "stars": 0,
+    "notes": "cr1707; created 2026-10-10 07:09 UTC. README: '28% less on Opus 5.5 ... (240 runs)'.",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "haiku-opus",
+    "title": "Haiku 5.5 vs Opus 5.5 (Turkish)",
+    "url": "https://github.com/glamdring09/haiku-opus",
+    "demo_url": null,
+    "description": "A same-prompt test of Haiku 5.5 and Opus 5.5 in Claude Code on an Istanbul sunset scene and 50 double pendulums; on the scene Opus 5.5 took 22 minutes and $4.15 against Haiku's 6 minutes and $0.14, and the author judges Opus's result more detailed.",
+    "source": "github",
+    "category": "benchmarks",
+    "stars": 0,
+    "notes": "glamdring09; created 2026-10-09 17:26 UTC. README (Turkish) table from /cost output.",
+    "added": "2026-10-11"
   }
 ]
