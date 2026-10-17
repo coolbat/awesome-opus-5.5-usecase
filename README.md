@@ -127,6 +127,12 @@ Playable scenes and games built with Opus 5.5 — live links included when publi
 - [Strike Twice](https://github.com/novaki-ai/strike-twice) — A browser top-down action roguelite built from one prompt by Claude Opus 5.5 in Claude Code at max effort with no human help, scored 9.03/10 in Novaki’s four-agent test (0★). **[Play](https://novaki.lol)**
 - [DJI Dock 4 + Matrice 5TD (three.js)](https://github.com/budotsmediaph/uas-dji-dock4-matrice5td) — An unofficial Blender reconstruction and three.js viewer of DJI Dock 4’s battery-swap cycle with X-ray and cut-away modes, which the repository description says was built with Claude Opus 5.5 (0★). **[Live demo](https://budotsmedia.com/uas/dji-dock4-matrice5td/)**
 - [DJI Dock 3 + Matrice 4D (three.js)](https://github.com/budotsmediaph/uas-dji-dock3-matrice4d) — An unofficial Blender reconstruction and three.js mission viewer of DJI Dock 3 with Matrice 4D, which the README credits to Claude Opus 5.5 (0★). **[Live demo](https://budotsmedia.com/uas/dji-dock3-matrice4d/)**
+- [web-ocean (WebGPU)](https://github.com/Noniv/web-ocean) — A real-time ocean renderer written from scratch on WebGPU with no engine, with FFT waves, whitecaps, sun glitter and a physically based sunset sky, which the README says was built with Claude Code (Opus 5.5) (229★). **[Live demo](https://ocean-noniv.vercel.app/)**
+- [Nomae Craft](https://github.com/TESTYEE-09/opus5.5Minecraft) — A shared-world browser voxel sandbox with 14 biomes, floating sky islands, shader-pack lighting, survival crafting and mobs, from a repository named for Opus 5.5 (1★). **[Play](https://testyee-09.github.io/opus5.5Minecraft/)**
+- [Bulborb Rush](https://github.com/oscarqht/pikmin-rush-by-opus-5.5) — A Kingdom Rush–style Pikmin fan tower defense with the roles reversed, all art and audio generated at runtime with Canvas 2D and Web Audio, in a repository titled “by Opus 5.5” (0★).
+- [Roadster Ramp Drop (three.js)](https://github.com/diegocp01/roadster_opus) — A real-time WebGL recreation of the Tesla Roadster reveal ramp stunt with an original procedural car, which the repository description calls a Claude Opus 5.5 recreation (0★).
+- [Science simulations](https://github.com/burknipalsson/science-simulations) — A series of single-file WebGL2 physics and astronomy simulations, from a ray-traced black hole to a 41-step Powers of Ten zoom, which the README says were made entirely by Claude Opus 5.5 (0★).
+- [MedVent Simulator](https://github.com/authorart/mech-vent-sim) — A web teaching simulator for mechanical ventilation with waveforms, blood gases and alarms on a simulated patient, which the repository description says was made by the author and Opus 5.5; for education only (0★). **[Live demo](https://mech-vent-sim.vercel.app)**
 
 
 ---
@@ -181,6 +187,8 @@ Music videos, JS-directed films, canvas loops, and generative art demos.
 
 
 - [Ultra Magic Hands site](https://github.com/marsrobertson/ultramagichands.com) — A plain HTML/CSS/JS single-page site for a London massage business, which the repository description says was remade with Opus 5.5 (0★).
+- [clip-recreate](https://github.com/4regab/clip-recreate) — A frame-by-frame vector recreation of the 20.7-second motion reel “Daisy” by @oxime.fx, rendered in Rust with fframes, which the repository description says was made using Opus 5.5 (1★).
+- [WebGL Seascape video archive](https://github.com/holooooo/webgl-seascape-video) — A Chinese archive of WebGL and shader teaching videos written by Opus 5.5 (realistic seascape, stylized shaders, shader cosmos, voxel Jiangnan valley), each with a live render player, prompts and sessions (1★). **[Live](https://webgl-seascape.pages.dev)**
 ---
 
 ## Agent / engineering demos
@@ -226,6 +234,12 @@ Harnesses, one-shot codebases, orchestrators, and large HTML/web batches.
 - [Spill Detection PoC](https://github.com/Dennis1414/spill-detection-poc) — A mall-cleaning-robot spill detector that classifies camera frames with Claude Opus 5.5 vision through structured outputs, with no CV training (0★).
 
 - [Escrutador de artículos](https://github.com/lbt00001-beep/escrutador-de-articulos) — A Spanish tool that analyses news articles for author data, source cross-checks and a 0–10 quality score, which the README credits to Luis Benedicto Tuzón with Claude Opus 5.5 (0★). **[Live](https://mbainative.com/aplicaciones)**
+- [Opus Video Studio](https://github.com/xdis/opus-video-studio) — A short-video studio in which Claude Opus 5.5 writes the script, shot list and animation code and the Mac renders the video, with Canvas, Three.js and Blender routes plus local FLUX and Wan2.2 pipelines (1★).
+- [MTRTracer](https://github.com/extraut/MTRTracer) — A WinMTR-style route tracer for Windows and Linux with per-hop stats, a route map and a VPN mode, which the README says was written entirely by Claude Opus 5.5 in Claude Code (Russian) (0★). **[Site](https://extraut.github.io/MTRTracer/)**
+- [Tidal](https://github.com/heckar883/tidal) — A macOS disk cleaner with Safe and Review groups, a 14-day undo area and an Autopilot mode, which the README says was written entirely by Claude Opus 5.5 (0★).
+- [G920 Linux force-feedback fix](https://github.com/Paxarak/g920-linux-ffb-fix) — A patched hid-logitech-hidpp DKMS module that stops Logitech G920 force feedback from getting stuck under Proton, with diagnosis, patch and tests produced by Claude Opus 5.5 in Claude Code (0★).
+- [odin-grpc](https://github.com/M4deM4n/grpc-odin) — A pure Odin implementation of Protocol Buffers and gRPC with a .proto compiler and an HTTP/2 client and server, which the repository description says was made via Claude Opus 5.5 (0★).
+- [CyberChef Chinese](https://github.com/shadowhunter1024/CyberChef-Chinese) — A full Simplified Chinese localization of GCHQ CyberChef that passes the official tests, translated with help from Claude Opus 5.5 (1★). **[Live](https://shadowhunter1024.github.io/CyberChef-Chinese/)**
 ---
 
 ## Collections & prompt lists
@@ -248,6 +262,7 @@ Related awesome lists and prompt packs (some cover adjacent models — noted inl
 - [Claude Motion Playbook](https://github.com/PHY041/claude-motion-playbook) — A write-up of all 233 code-built Claude Opus 5.5 motion videos in the 2026-10-09 snapshot of prompt-motion.com, on what those prompts teach about motion design (0★).
 
 - [Motion in Code](https://github.com/hoodini/motion-in-code) — A Hebrew interactive teardown of the @twoclipping code-only launch-video method, showing how Claude Opus 5.5 builds studio-grade motion with no After Effects (0★). **[Live](https://hoodini.github.io/motion-in-code/)**
+- [Awesome Opus 5.5 Videos (clawshelf)](https://github.com/billyhetech/awesome-opus5-5-videos) — A list of 2,211 videos made with Opus 5.5 (2026-10-16 update), each linked to the creator's post, with 703 prompts in the repo (1★). **[Live](https://clawshelf.com/ai-videos/opus-5-5)**
 ---
 
 ## Benchmarks & analysis
@@ -286,11 +301,14 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 - [Istanbul — 1 prompt, 3 models](https://github.com/AhmetHuseyinDOK/istanbul-3-models) — Live Three.js Istanbul city builds comparing Claude Opus 5.5 and Gemini 4 Argon from the same prompt, with an X player card (0★).
 - [Web-stack bench with Opus 5.5 Medium](https://github.com/ari-ayvazyan/React-vs-Vue-vs-Angular-vs-Kotlin-compose-vs-Kotlin-Angular) — A same-spec benchmark of which web stack works best when Claude agents on Opus 5.5 Medium build and maintain an app (0★).
 - [Fable vs Opus model-mix demo](https://github.com/boeloep/model-mix-demo) — A measured sandbox of three Claude Code setups (Fable 5.1, Opus 5.5 alone, Opus 5.5 with Fable advisor) on real tasks, with costs and wall-clock times (0★).
+- [Language benchmark for vibe-coded backends](https://github.com/roboco-io/language-benchmark) — Claude Code with Sonnet 5.5 and with Opus 5.5 implements the same RealWorld backend in TypeScript, Python, Go, Rust and C++, scored on time, cost and stability (0★). **[Dashboard](https://roboco.io/language-benchmark/)**
+- [Argon vs Opus: sales report to video](https://github.com/krisuuu2/argon-vs-opus) — One prompt to Gemini 4 Argon and Claude Opus 5.5 to turn a bakery sales report into a 12-second HTML video; the README reports Opus took 264 s and about $0.22 and kept to the report's numbers (0★).
+- [Can an LLM write random bits?](https://github.com/chavit92/llm-random-bits) — A test in which Claude Opus 5.5 wrote 100 “random” 300-bit lines and produced no run of 8 zeroes where about 38 were expected, with charts (0★). **[Live](https://chavit92.github.io/llm-random-bits/)**
 ---
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 575 entries (last updated 2026-10-16).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 610 entries (last updated 2026-10-17).
 
 ### Motion design & code-drawn animation
 
@@ -358,6 +376,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [AI startup feature section from Figma](https://x.com/xmuhammadtalha/status/2111057085454852129) — @xmuhammadtalha — A feature-section design animated from Figma with Claude Opus 5.5.
 - [Boot Hill, Last Light (oil simulation)](https://x.com/aliceisplaying/status/2111074041687929263) — @aliceisplaying — An oil-on-canvas simulation painting titled Boot Hill, Last Light that Claude Opus 5.5 (xhigh) painted stroke by stroke. **[Studio](https://stillwet.art/studio/?p=paint-studio-118eaf)**
 - [FluentPal App Store onboarding](https://x.com/davidtranwd/status/2110940007439691809) — @davidtranwd — A fresh FluentPal onboarding experience that Claude Opus 5.5 cooked up and shipped to the App Store.
+- [Retro desk terminal teardown](https://x.com/de1lymoon/status/2111097233806352545) — @de1lymoon — A looping product teardown of a retro desk terminal (69 parts in 7 layers, orbit camera, macro shots, part captions) that @de1lymoon made with Opus 5.5 and the free /anatomy skill, with every frame rendered from code.
+- [Short Opus 5.5 clip](https://x.com/driftauz/status/2111109055955763570) — @driftauz — A 12-second clip that @driftauz says was generated with Claude Opus 5.5.
 
 ### Explainers & education
 
@@ -424,6 +444,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 
 - [How Shazam works, algorithms series](https://x.com/numaausaumon/status/2110127563238785480) — @numaausaumon — The first film in a series on famous algorithms, covering Shazam, which @numaausaumon says was made with Jig and Claude Opus 5.5.
 - [Tesla Roadster teardown (Chinese)](https://x.com/ai_edisonZ/status/2111078163145236611) — @ai_edisonZ — A video that takes apart Tesla’s “flying” Roadster and explains the ground-effect fans, which @ai_edisonZ asked Opus 5.5 to make.
+- [Heavy-rain warning explainer](https://x.com/Sherlock_Hopes/status/2111098986870550548) — @Sherlock_Hopes — A 90-second explainer on why a new AFAD heavy-rain warning can be more dangerous than the last one, made with Opus 5.5 and Kling AI (Turkish).
+- [Why AI always picks 7](https://x.com/wangray/status/2111380498597724479) — @wangray — A popular-science video on why AI models pick 7 when asked for a number from 1 to 10, made with Opus 5.5 (Chinese).
+- [AI avatar horse-race commentary](https://x.com/nakazakifam/status/2111177901961810208) — @nakazakifam — A test of an AI avatar doing horse-race-style commentary, made almost fully automatically with Opus 5.5 plus LTX-2.3, ElevenLabs v4 and HyperFrames (Japanese).
 
 ### History & culture
 
@@ -443,6 +466,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [History of the Statue of Liberty](https://x.com/ITangieff/status/2109244976056180910) — @ITangieff — A historical video about the Statue of Liberty that @ITangieff made by combining Opus 5.5 and Kling 3.0 in 1 h 34 min.
 - [Slopcore: what Opus 5.5 finds odd about Japan](https://x.com/taku_studio/status/2109611347608748203) — @taku_studio — A slopcore video (Japanese) built from the things that Opus 5.5 listed as strange about Japanese people, made with Claude Opus 5.5.
 - [The history of Istanbul in five minutes](https://x.com/Sherlock_Hopes/status/2109887700824125522) — @Sherlock_Hopes — A 5-minute film on the history of Istanbul that Claude Opus 5.5 on medium effort coded without AI generation, with music made in Suno (Turkish).
+- [AI comic history of China, ep. 3: Western Zhou](https://x.com/freeman1266/status/2111252555695358203) — @freeman1266 — Episode 3 of a comic-style Chinese history series, on the Western Zhou, made with Opus 5.5 and Gemini 4 (Chinese).
 
 ### Short films & stories
 
@@ -492,6 +516,10 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [TS Malfoy Chapter 4](https://x.com/zerozakiyamo/status/2110273324177932550) — @zerozakiyamo — Chapter 4 of the TS Malfoy series (“One Metre Above the Ground”), with Japanese voices and English subtitles, which @zerozakiyamo says Opus 5.5 produced and directed.
 - [David Fincher-style recut](https://x.com/JoshDaws/status/2110144644289806701) — @JoshDaws — A recut of an existing film as a David Fincher piece that @JoshDaws asked Claude Opus 5.5 to make.
 - [Momotaro paper-collage short](https://x.com/tanabe_fragm/status/2110931024469540979) — @tanabe_fragm — A paper-collage Momotaro short whose edit was done entirely by Claude Opus 5.5, with Codex images and ElevenLabs narration.
+- [The Lowest Tide (23 min)](https://x.com/Skoorbkaz/status/2111268510361944146) — @Skoorbkaz — Episode 1 of the Pip and Clawd mini-series The Far Light, a 23-minute film whose story, design, music, voices and rendering were done by Claude Opus 5.5 and Fable 5.1 via Blender, ElevenLabs and Remotion.
+- [Musk in the style of Nolan](https://x.com/newbeeyu/status/2111446964558770632) — @newbeeyu — A 2-minute short on Elon Musk's life in a Nolan style, whose script, visuals and music @newbeeyu says Opus 5.5 made from one sentence (Chinese).
+- [“Can I give you 10% of me?”](https://x.com/DaphneRHansell/status/2111106459408986368) — @DaphneRHansell — A video of about 2.5 minutes that @DaphneRHansell credits to Opus 5.5.
+- [Stormbreak (AGI Pelican Edition)](https://x.com/VulKan42069/status/2111102555380179171) — @VulKan42069 — A one-minute piece titled Stormbreak that @VulKan42069 credits to Opus 5.5.
 
 ### Claude on itself
 
@@ -548,6 +576,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Music video by Claude Opus 5.5](https://x.com/Nexoxh/status/2111079455875871035) — @Nexoxh — A music video that @Nexoxh says Claude Opus 5.5 produced.
 - [Anime MV with 200+ Opus agents](https://x.com/JimmyJia_/status/2111092011927273496) — @JimmyJia_ — An anime music video built with 200+ Claude Opus 5.5 agents in Claude Code, with MIDI drums, beat-synced lights and multi-machine renders.
 - [Local FLUX + ACE-Step, Opus edit](https://x.com/_AhammedRashad/status/2111060148546679232) — @_AhammedRashad — A music video whose images and track ran locally on a Mac while Claude Opus 5.5 orchestrated match cuts, shaders and the edit.
+- [“NOVA” music video](https://x.com/konstantinsaifo/status/2111131711576940671) — @konstantinsaifo — A music video made with Suno and Grok Imagine in which Claude Opus 5.5 cut every lyric and beat to the song.
+- [“Small Hours”, made while the owner was away](https://x.com/MugaSofer/status/2111120460561694869) — @MugaSofer — A music video by an unsupervised Claude Opus 5.5 instance during the owner's holiday: music made in Suno by Claude and animation coded by a team of Claudes it spawned.
 
 ### Games & gameplay
 
@@ -644,6 +674,14 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Money-tree game from GitHub](https://x.com/goan999999/status/2111094749771727262) — @goan999999 — A “发财树” money-tree build where Opus 5.5 first searched GitHub for existing answers before coding.
 - [Grand Theft Oslo](https://x.com/Edesberg/status/2111090293055344907) — @Edesberg — A full Oslo city driveable scene from real map data plus a Tesla Roadster, built with Opus 5.5 and the Sloyd MCP.
 - [Interactive Tesla Roadster (three.js)](https://x.com/vipinxtwt/status/2111076076801962006) — @vipinxtwt — A browser Tesla Roadster you can orbit, drive or fly, built with Claude Opus 5.5 and three.js. **[Live](https://tesla-roadster-two.vercel.app/)**
+- [Anime exploration game, now with dancing](https://x.com/NFT_Chen/status/2111375709302370761) — @NFT_Chen — An updated three.js anime-style exploration game from a few prompts to Opus 5.5, with convenience-store and rainy-walkway scenes, a dance button and a flicker fix (Chinese).
+- [Harry Potter mini-game](https://x.com/aeusteixeira/status/2111110298811666463) — @aeusteixeira — A small Harry Potter game that @aeusteixeira made with Claude Opus 5.5 (Portuguese).
+- [Cozy farm game: adding fishing](https://x.com/Mnilax/status/2111139309206040640) — @Mnilax — A fishing zone for a Unity 6 cozy farm game, with Claude Code driving Unity and Blender over MCP, Tripo models and Opus 5.5 writing the C# scripts, rigging and the fish economy.
+- [Math-plate biking game in Bali](https://x.com/sonnylazuardi/status/2111403337841271042) — @sonnylazuardi — A multiplayer-ready 3D biking game set in Canggu, Bali, built with Claude Opus 5.5 on Expo, three.js and react-native-webgpu, where license plates are math questions.
+- [Game world in 3 days](https://x.com/karanC_12/status/2111312234995655114) — @karanC_12 — A game world made in 3 days with Opus 5.5, Unreal Engine, Blender and Tripo AI.
+- [RDR2-style Tetris](https://x.com/SimonasLTU1/status/2111215178532491265) — @SimonasLTU1 — A one-shot hyper-realistic Tetris in the style of RDR2 in one HTML file with Three.js, from about 30 minutes of Opus 5.5 High.
+- [Still Life](https://x.com/MeticulAi/status/2111168517546573904) — @MeticulAi — A SUPERHOT-style three.js game where time moves only when you move, made with Claude Opus 5.5.
+- [Concept art to a playable 3D village](https://x.com/hakimieiqbal/status/2111428789272019234) — @hakimieiqbal — A workflow in which Opus 5.5 blocks out a GPT concept village in 3D, GPT paints over a screenshot and Opus writes a shader that projects the painting back onto the geometry, giving a walkable world.
 
 ### Real-time 3D, WebGL & shaders
 
@@ -716,6 +754,11 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [NVIDIA rack anatomy reveal](https://x.com/0xKiyoro/status/2111095140911595529) — @0xKiyoro — A clean NVIDIA rack that Opus 5.5 draws with /ANATOMY and takes apart with /ANATOMY-REVEAL into 385 parts.
 - [Designbuds polaroid 3D stats](https://x.com/NicolasSovann/status/2111068081934172174) — @NicolasSovann — A polaroid-style 3D space for browsing Designbuds template stats, built with Opus 5.5.
 - [Opus 5.5 3D video sample](https://x.com/bangbuilds/status/2110928754281464263) — @bangbuilds — A 3D video sample that @bangbuilds asks whether Claude Opus 5.5’s motion output is watchable.
+- [20 days in one Claude Code chat](https://x.com/Belbizaz/status/2111120760660254842) — @Belbizaz — A Three.js project @Belbizaz has built over 20 days in one continuous Claude Code chat with Opus 5.5 and autocompact at 250k, with no Blender and without reading the code.
+- [Deer in a forest](https://x.com/tripoai/status/2111109914055803222) — @tripoai — A deer walking through a forest, vibe coded in one hour: Tripo makes the character and Claude Opus 5.5 codes the interactive environment.
+- [3D bath bomb builder](https://x.com/techartist_/status/2111219143936790802) — @techartist_ — A browser bath bomb builder with a real-time fluid simulation, built with Opus 5.5 using Three.js and Blender, with open-source code.
+- [Petal Quay](https://x.com/HelloVyom/status/2111397563052237282) — @HelloVyom — A scene called Petal Quay made with Blender, three.js and Opus 5.5.
+- [Photogrammetry deer on a 3DGS trail](https://x.com/DuckbillStudio/status/2111291150896390438) — @DuckbillStudio — A photogrammetry-scanned deer with hand-made motion walking a 3D Gaussian splat mountain trail, made with Codex 6.1 Sol, Gemini 4 Argon and Claude Opus 5.5, with the video also made in Opus 5.5 (Japanese).
 
 ### Blender & 3D modelling
 
@@ -741,6 +784,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 
 - [Image-gen to Blender 3D render](https://x.com/xikhar/status/2110143242591510835) — @xikhar — A quick Blender 3D render from an image-generation workflow that @xikhar says Opus 5.5 made.
 - [Coruscant in Blender, 20 minutes](https://x.com/adityavg13/status/2111049682344460610) — @adityavg13 — A Coruscant scene from Star Wars that Opus 5.5 built in Blender in about 20 minutes.
+- [Animation comparisons: Blender, Kimodo, Cascadeur, mocap](https://x.com/nazimadakli/status/2111160333217800466) — @nazimadakli — Locomotion and item animation comparisons with Opus 5.5 plus Blender, Kimodo, Cascadeur and local neural mocap, where Opus 5.5 picks the keyframes in Blender and Cascadeur.
 
 ### Ads & launch films
 
@@ -807,6 +851,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Estoril telemetry edit](https://x.com/linuz90/status/2111079030300483632) — @linuz90 — Track-day footage whose telemetry graphics and edit Opus 5.5 made.
 - [Video localisation agent ads](https://x.com/sab8a/status/2111069102358049267) — @sab8a — A demo of an OpenEdit + Opus 5.5 agent that turns one video into localised ads with dubbing, accents and outfits.
 - [Apps intro in GSAP + HyperFrames](https://x.com/harjjotsinghh/status/2111080098128359521) — @harjjotsinghh — A coded intro covering Swoopcut, FixedLaunch, Brio UI, Helicon and Launchday that Opus 5.5 and @harjjotsinghh spent five hours refining.
+- [Water-heater replacement ad](https://x.com/husky__create/status/2111366650465489126) — @husky__create — An all-AI water-heater replacement ad with planning, video, music and editing by Claude Opus 5.5 and images by GPT Image 2.5 (Japanese).
 
 ### Comparisons & video-model pipelines
 
@@ -915,6 +960,14 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Nichess: Opus vs Astra with tools](https://x.com/nichessgame/status/2111080156995416575) — @nichessgame — Claude Opus 5.5 vs GPT-6 Astra chess with tool use enabled after an earlier Astra-favouring bug.
 - [Gemini 4 vs Opus one-shot](https://x.com/ivanainai/status/2111093967576060322) — @ivanainai — Same-prompt one-shots comparing Gemini 4 Argon ($0.04) and Opus 5.5 ($0.12).
 - [City fight: Argon vs Opus directors](https://x.com/sunra_ai/status/2110922421805195596) — @sunra_ai — Same video model, different directors: Gemini 4 Argon vs Claude Opus 5.5 on a nonstop city fight prompt.
+- [Dewline: Opus 5.5 vs Sonnet 5.5](https://x.com/jeffbruchado/status/2111125520788107511) — @jeffbruchado — A same-prompt one-HTML-file scene of an orb weaver at dawn, where @jeffbruchado reports Opus 5.5 took 47 min 10 s, 1,005 lines and an estimated $20.29, and Sonnet 5.5 40 min 40 s, 751 lines and $11.02.
+- [One-line prompt vs 442-line prompt](https://x.com/VynseDev/status/2111397500397744452) — @VynseDev — Opus 5.5 with a one-line prompt next to Opus 5.5 with a 442-line prompt written by Fable 5.1.
+- [Mountain scene: Opus 5.5 vs GPT-6 Astra](https://x.com/EnvolDev/status/2111115013398352298) — @EnvolDev — A same-task mountain animation by Opus 5.5 and GPT-6 Astra, where @EnvolDev praises the Opus 5.5 background.
+- [Five Nights at Freddy's: DeepSeek V4.1 Flash vs Opus 5.5](https://x.com/kepochnik/status/2111421758691827905) — @kepochnik — A Five Nights at Freddy's-style game built by DeepSeek V4.1 Flash 1017 in 24 minutes and by Opus 5.5 in 38 minutes.
+- [Supper Run: Seedance with Opus grading and upscaler](https://x.com/aimikoda/status/2111256122040406443) — @aimikoda — An animation generated with Seedance 2.5, with colour grading by Opus 5.5 and a 4K upscale from a local upscaler @aimikoda built with Opus 5.5.
+- [Tesla Roadster test: Argon vs Opus](https://x.com/AI_Screening/status/2111179306475098469) — @AI_Screening — A Three.js Tesla Roadster test where Gemini 4 Argon is faster but lands badly and Opus 5.5 lands cleanly but takes longer.
+- [Three.js test: Argon vs Opus vs Muse Wonderful](https://x.com/AI_Screening/status/2111112282583548122) — @AI_Screening — The same Three.js test by Gemini 4 Argon, Opus 5.5 and Muse Wonderful.
+- [Spaceship viewer: Argon vs Opus](https://x.com/Che0dan/status/2111097536354398299) — @Che0dan — A Three.js spaceship viewer with 7 camera views, VLS hatches, missiles, lasers and warp, by Gemini 4 Argon and by Claude Opus 5.5 (Korean).
 
 ## Notable X / HN showcases
 
