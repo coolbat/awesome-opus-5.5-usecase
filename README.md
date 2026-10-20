@@ -136,6 +136,7 @@ Playable scenes and games built with Opus 5.5 — live links included when publi
 - [Athenaion](https://github.com/Leonxlnx/athenaion) — A large ancient Greek world built entirely in code with three.js and no external assets, which Claude Code (Opus 5.5) built over about 2 days to match 9 reference images, with an acropolis, procedural statues and 57 traced waterfalls (65★).
 - [sm64-gba](https://github.com/Kodoque1/sm64-gba) — Super Mario 64's movement and collision code running on Game Boy Advance hardware, bit-for-bit identical to a strict IEEE reference, with a playable software-rendered demo; the README says the code, test harness and notes were written by Claude Opus 5.5 (8★).
 - [The Last Night tribute (WebGL2 / three.js)](https://github.com/holooooo/the-last-night-tribute) — A real-time cyberpunk rainy street in the style of The Last Night, with pixel art and 3D lighting and all assets generated in code, which the README says Claude Opus 5.5 (Claude Code) built from one sentence in about 86 minutes (Chinese, 0★). **[Live](https://the-last-night-tribute.pages.dev)**
+- [Yarn Planet (毛线星球)](https://github.com/makerjackie/yarn-planet) — A small-planet walking game in the browser where your path becomes a coloured thread that brings colour back to a pencil-sketch town, built with Three.js and Cloudflare Durable Objects; the README badge and making-of article credit Claude Opus 5.5 (Chinese/English, 3★). **[Play](https://yarn.ynot.games/)**
 
 
 ---
@@ -193,6 +194,7 @@ Music videos, JS-directed films, canvas loops, and generative art demos.
 - [clip-recreate](https://github.com/4regab/clip-recreate) — A frame-by-frame vector recreation of the 20.7-second motion reel “Daisy” by @oxime.fx, rendered in Rust with fframes, which the repository description says was made using Opus 5.5 (1★).
 - [WebGL Seascape video archive](https://github.com/holooooo/webgl-seascape-video) — A Chinese archive of WebGL and shader teaching videos written by Opus 5.5 (realistic seascape, stylized shaders, shader cosmos, voxel Jiangnan valley), each with a live render player, prompts and sessions (1★). **[Live](https://webgl-seascape.pages.dev)**
 - [Space Travel Demo](https://github.com/bytejuggler-com/SpaceTravelClaude) — An old-school demoscene-style space travel demo in C++20 and OpenGL 4.6 with an Amiga-style intro, warp starfields, a black hole and tracker music, all procedural, which the repository description says Claude Opus 5.5 made (0★).
+- [Navratri / Dasara animated film](https://github.com/Neeraj138/navratri-opus-5.5-anim) — A work-in-progress, wordless ~2:18 animated film about Navratri / Dasara, rendered frame by frame from JavaScript (Canvas 2D + WebGL2) in headless Chromium, made to test Opus 5.5's video and animation skills, with research, style bible and storyboard in the repo (0★).
 ---
 
 ## Agent / engineering demos
@@ -244,6 +246,10 @@ Harnesses, one-shot codebases, orchestrators, and large HTML/web batches.
 - [G920 Linux force-feedback fix](https://github.com/Paxarak/g920-linux-ffb-fix) — A patched hid-logitech-hidpp DKMS module that stops Logitech G920 force feedback from getting stuck under Proton, with diagnosis, patch and tests produced by Claude Opus 5.5 in Claude Code (0★).
 - [odin-grpc](https://github.com/M4deM4n/grpc-odin) — A pure Odin implementation of Protocol Buffers and gRPC with a .proto compiler and an HTTP/2 client and server, which the repository description says was made via Claude Opus 5.5 (0★).
 - [CyberChef Chinese](https://github.com/shadowhunter1024/CyberChef-Chinese) — A full Simplified Chinese localization of GCHQ CyberChef that passes the official tests, translated with help from Claude Opus 5.5 (1★). **[Live](https://shadowhunter1024.github.io/CyberChef-Chinese/)**
+- [Destruction Derby 64 decomp](https://github.com/murkantor/Destruction-Decomp-64) — A matching decompilation of Destruction Derby 64 (USA) that the README says Claude Opus 5.5 (Medium) did hands-off: the ROM was decompiled in a remote session in about 20 hours and booted playable in an SDL3 window in 24 hours, with 1510 of 1548 functions in C (6★).
+- [Ad Storyboarder (广告分镜师)](https://github.com/feicaiclub/ad-storyboarder) — A Claude Code project kit in which Opus 5.5 acts as the director: it splits a script into shots, generates them one by one with Higgsfield (Seedance 2.5), has a read-only reviewer check each shot, then cuts the ad; the README shows a 41-second Roadster ad made in one afternoon (Chinese, 5★).
+- [Hyprland Claude Computer Use](https://github.com/sahastasai/Hyprland-Claude-Computer-Use) — A Nix flake that installs the Linux Claude Desktop and adds a computer-use MCP server for Hyprland with the same tools as Claude's built-in macOS server, which the README says Opus 5.5 created (0★).
+- [LuxTunes](https://github.com/metric-ambient/luxtunes) — A native Linux music manager for Linux Mint with iTunes library import, smart playlists, CD import and iPod Classic sync, which the README says was written entirely by Claude Opus 5.5 (0★).
 ---
 
 ## Collections & prompt lists
@@ -312,11 +318,13 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 - [LLM pixel duel](https://github.com/neurostack-lab/llm-pixel-duel) — One task for DeepSeek V4.1 Flash 1017 and Claude Opus 5.5 at medium thinking: an 8-bit platformer with autopilot in one HTML file; both games are playable, with a side-by-side video (Russian, 0★). **[Play](https://neurostack-lab.github.io/llm-pixel-duel/)**
 - [LLM hype tests](https://github.com/neurostack-lab/llm-hype-tests) — The 20-balls-in-a-spinning-heptagon and pelican-on-a-bicycle tests run on MiniMax M3.1 Flash, DeepSeek V4.1 Flash 1017 and Claude Opus 5.5 as the reference, with times and costs (Russian, 0★). **[Live](https://neurostack-lab.github.io/llm-hype-tests/)**
 - [Agent Kit vs plain Opus benchmark](https://github.com/clone45/claude-agent-kit-benchmark) — 170 headless Claude Code runs on Opus 5.5 with and without the claude-agent-kit plugin; the README reports the plugin cost 21–26% more per task in fresh sessions with the same automatic quality in all but one task (0★).
+- [Claude Game Arena](https://github.com/Furkiozknn/claude-game-arena) — Four free browser games, each built from one prompt by a different Claude model (Opus 5.5, Sonnet 5.5, Fable 5.1, Haiku 5.5) as a single Three.js HTML file, with clips and a scorecard; in round 2 Opus 5.5 remade its tower defense game Hisar in Godot 4 (Turkish/English, 0★). **[Play](https://furkiozknn.github.io/claude-game-arena/)**
+- [Arena of Four](https://github.com/novaki-ai/arena-of-four) — Claude Opus 5.5, GPT-6 Astra, Gemini 4 Argon and Grok 4.7 each command an army in 0 A.D., each in its own official CLI; the repo holds the rules, every question and every answer word for word (0★).
 ---
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 655 entries (last updated 2026-10-19).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 667 entries (last updated 2026-10-20).
 
 ### Motion design & code-drawn animation
 
@@ -388,6 +396,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Short Opus 5.5 clip](https://x.com/driftauz/status/2111109055955763570) — @driftauz — A 12-second clip that @driftauz says was generated with Claude Opus 5.5.
 - [Meltkit motion video recreation](https://x.com/athrix_codes/status/2111927731957137839) — @athrix_codes — A recreation of a Meltkit motion video that @athrix_codes made with Opus 5.5 during a day of evals.
 - [UI animations with Clayzo](https://x.com/kevin_t_ngo/status/2111974919353544757) — @kevin_t_ngo — A set of UI animations made with Opus 5.5 and Clayzo.
+- [Figma hero animated with Opus](https://x.com/samtwtss/status/2112479464315818225) — @samtwtss — A hero section designed in Figma, then animated with Opus 5.5 in a few prompts.
 
 ### Explainers & education
 
@@ -536,6 +545,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Stormbreak (AGI Pelican Edition)](https://x.com/VulKan42069/status/2111102555380179171) — @VulKan42069 — A one-minute piece titled Stormbreak that @VulKan42069 credits to Opus 5.5.
 - [Paris travel vlog](https://x.com/AiWithYou1/status/2111721960979960095) — @AiWithYou1 — A Paris travel vlog video that @AiWithYou1 had Opus 5.5 make (Japanese).
 - [A film about the author's own work](https://x.com/mrcsvlk/status/2111816290264313980) — @mrcsvlk — A 95-second film about the author's own work, which @mrcsvlk made with Opus 5.5.
+- [Hometown intro film in code](https://x.com/jing548799/status/2112187129145208871) — @jing548799 — An introduction film for the author's hometown made with Claude Opus 5.5 and Lemo-Opuscar, with every frame, shot and music track rendered from code and no video-generation model (Chinese).
+- [A Madrid rent rant with Drama 3 TTS](https://x.com/aartiles24/status/2112182847167443389) — @aartiles24 — Opus 5.5 wrote a script to show off Fish Audio's open-weight Drama 3 TTS: a Madrid woman whose rent just went up goes from tears to laughter to a rant (Spanish).
 
 ### Claude on itself
 
@@ -707,6 +718,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Crossy Road with the State Property meme](https://x.com/noclipepe/status/2111936737140220257) — @noclipepe — A Crossy Road–style game inspired by the State Property meme, where you hop out of a bucket and dodge crabs and rolling buckets, built by Opus 5.5 in 2 h 43 min for $43.74.
 - [Tesla Roadster flip game update](https://x.com/aniketjart/status/2111987727067652561) — @aniketjart — An update to a Tesla Roadster flip game with a new map, better propulsion and more stunts, built with Opus 5.5, Crayon and three.js, with a link to play.
 - [Flying Roadster over Austin](https://x.com/techartist_/status/2111863304050356644) — @techartist_ — A flying Roadster game made in one day with Claude Opus 5.5, Blender and Godot, about dodging wires and grackles, slipping through 6,000 bats over Lady Bird Lake and racing to a downtown Austin rooftop.
+- [Karen Warfare](https://x.com/KaladinOG/status/2112185653157118438) — @KaladinOG — Karen Warfare, a three.js game built with Opus 5.5 in one day.
+- [Playable Game Boy in one prompt](https://x.com/numaausaumon/status/2112186912060654023) — @numaausaumon — A fully playable Game Boy made in one prompt with Opus 5.5, Jig and the colorfigures style by @Aprilzz423, with the prompt.
+- [Voltane RC car game](https://x.com/Cerevia_/status/2112184334157562304) — @Cerevia_ — Voltane, an RC car game built in less than a month with AI, now with campaign mode, local split screen and offline and online multiplayer, credited to Opus 5.5.
 
 ### Real-time 3D, WebGL & shaders
 
@@ -1021,6 +1035,12 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Cute ghost: Astra 6 vs Opus](https://x.com/0xRhinoX/status/2111879242812465174) — @0xRhinoX — A cute glowing ghost that smiles when you poke it, from Astra 6 ($7.84, 20 min) and Opus 5.5 ($18.19, 1 h 12 min), monster 2 of 15 before Halloween.
 - [“Show how Mac mini works”: DeepSeek vs Opus](https://x.com/Zer0Sat0shi/status/2111831630339772899) — @Zer0Sat0shi — The same simple prompt to DeepSeek V4.1 and Claude Opus 5.5, after which @Zer0Sat0shi still picks Opus despite the price.
 - [Opus vs DeepSeek V4.1 Flash-1017 vs Kimi K3](https://x.com/AI_Screening/status/2112090015891349956) — @AI_Screening — A three-way side-by-side where @AI_Screening says DeepSeek beat Kimi K3 and nothing touches Opus 5.5.
+- [Landing page: MiniMax M3.1 Flash vs Opus](https://x.com/nutlope/status/2112238098147135880) — @nutlope — The same hardware-launch landing page prompt to MiniMax M3.1 Flash and Opus 5.5; MiniMax cost $0.014 against $1.22 for Opus and was 4x faster.
+- [Storm in a bottle: GPT-6 Astra vs Opus 5.5](https://x.com/MrTacticalX/status/2112184796419883354) — @MrTacticalX — A same-prompt storm inside a bottle, built from scratch in Blender with code and zero assets, from Astra (24 min, ~$6) and Opus (82 min, ~$18), both on High.
+- [Jelly skeleton xylophone: Opus vs Astra 6](https://x.com/0xRhinoX/status/2112224962903683435) — @0xRhinoX — A clear jelly skeleton from Opus 5.5 ($15, 46 min) whose ribs play notes when tapped and whose funny bone giggles, next to Astra 6's crash test dummy.
+- [3D snowman: Argon vs Opus](https://x.com/ivanainai/status/2112289840612204582) — @ivanainai — A 3D snowman from Gemini 4 Argon ($0.05) and Opus 5.5 ($0.17), where @ivanainai prefers Argon's.
+- [Running app promo: Wan 3.0 vs Opus 5.5](https://x.com/higgsfield_ai/status/2112542223862780143) — @higgsfield_ai — Two takes on a running app promo with a pulse, where even the letters warm up, from Wan 3.0 and Claude Opus 5.5, made with Higgsfield.
+- [Marble music machine: Sonnet 5.5 vs Opus 5.5](https://x.com/mizugame_22/status/2112310324435227028) — @mizugame_22 — Same prompt #6, a marble music machine in one HTML file with sound; Sonnet 5.5 took 36 min and Opus 5.5 25 min, and both release each marble so it hits on the beat (Japanese).
 
 ## Notable X / HN showcases
 
