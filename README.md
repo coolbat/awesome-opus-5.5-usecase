@@ -140,6 +140,11 @@ Playable scenes and games built with Opus 5.5 — live links included when publi
 - [Hisar · Fortress Defense (Godot 4)](https://github.com/Furkiozknn/hisar-godot) — A low-poly 3D tower defense in Godot 4 that the README says Claude Opus 5.5 rebuilt from its own Three.js original for round 2 of Claude Game Arena: 15 waves, three towers with three levels, four enemies, Turkish and English (0★). **[Live](https://furkiozknn.github.io/hisar-godot/)**
 - [Model Playground (模型演练场)](https://github.com/yuanyang749/model-playground) — Browser games and sound toys by frontier models; the README credits Claude Opus 5.5 with VOXEL STRIKE, a Minecraft-style voxel wave shooter in Three.js, and ORBITONE, a Kepler-orbit music box and synth (0★). **[Live](https://yuanyang749.github.io/model-playground/)**
 - [ONI3D colony sim](https://github.com/yandayixia/ONI3D) — A browser colony simulation prototype in TypeScript and Canvas 2D on a 200×200 tile world with no image assets, made to test Claude Opus 5.5's capabilities (0★).
+- [Little Rain Cloud (小雨云)](https://github.com/dososo/little-rain-cloud) — A playable three.js web demo in which a fox crosses the desert under its own rain cloud and grass and flowers grow wherever the rain lands; the README says the code was written by Claude Opus 5.5 in Claude Code (3★). **[Play](https://dososo.github.io/little-rain-cloud/)**
+- [Opus vs Sol: two Godot open-world games](https://github.com/privatekey7/opus-vs-sol) — Two 1980s-Miami-style open-world 3D games in Godot 4.7.2 that Claude Opus 5.5 and GPT-6.1 Sol built from the same prompts over 3 rounds with the same 37 3D models and no human code edits, with source, Windows builds and a battle video (Russian, 0★).
+- [Weatherglass (Opus 5.5 Max)](https://github.com/todsawat/weatherglass-Opus5.5-Max) — An interactive 3D weather toy, a miniature landscape sealed in a brass-and-glass display case, in one HTML file with no external assets, built by Claude Opus 5.5 at Max effort with a lead agent and 10 sub-agents in about 2 h 10 min; two other models built the same prompt in their own repos (0★). **[Live](https://todsawat.github.io/weatherglass-Opus5.5-Max/)**
+- [Forest cabin (林间木屋)](https://github.com/FlintyLemming/opus-5-5-forest-cabin) — A real-time browser scene of a cabin in an early-autumn forest at dusk, misty dawn or moonlit night, with models, textures and ambient sound all made in code, which the README says Claude Opus 5.5 generated in Claude Code from a one-sentence request (Chinese, 0★).
+- [8.5 Ball, Opus 5.5 edition](https://github.com/ncypher/8.5_Ball.Opus.5.5) — A 3D Magic 8 Ball that reads the shape of your question and prints a short trace before it answers, made by Claude Opus 5.5 as a reply to Tom Harwood's 8.5 Ball (0★). **[Live](https://ncypher.github.io/8.5_Ball.Opus.5.5/)**
 
 
 ---
@@ -198,6 +203,8 @@ Music videos, JS-directed films, canvas loops, and generative art demos.
 - [WebGL Seascape video archive](https://github.com/holooooo/webgl-seascape-video) — A Chinese archive of WebGL and shader teaching videos written by Opus 5.5 (realistic seascape, stylized shaders, shader cosmos, voxel Jiangnan valley), each with a live render player, prompts and sessions (1★). **[Live](https://webgl-seascape.pages.dev)**
 - [Space Travel Demo](https://github.com/bytejuggler-com/SpaceTravelClaude) — An old-school demoscene-style space travel demo in C++20 and OpenGL 4.6 with an Amiga-style intro, warp starfields, a black hole and tracker music, all procedural, which the repository description says Claude Opus 5.5 made (0★).
 - [Navratri / Dasara animated film](https://github.com/Neeraj138/navratri-opus-5.5-anim) — A work-in-progress, wordless ~2:18 animated film about Navratri / Dasara, rendered frame by frame from JavaScript (Canvas 2D + WebGL2) in headless Chromium, made to test Opus 5.5's video and animation skills, with research, style bible and storyboard in the repo (0★).
+- [Elsewhen](https://github.com/malvaphe/elsewhen) — An interactive journey of about 15 minutes through one vision of a good world, drawn live with Canvas 2D and a WebGL film pass and with synthesised sound; the README says Claude Opus 5.5 in Claude Code made all of it, from the concept and research to the code, scenes and music (0★). **[Live](https://malvaphe.github.io/elsewhen/)**
+- [Why your evening flies by (你的夜晚，为什么过得这么快？)](https://github.com/ajydxw/why-your-evening-flies-by) — Source code for a 134-second explainer video drawn frame by frame in Canvas 2D, with sound synthesised in Python/NumPy; the README credits the video and its source code to Claude Opus 5.5 (Chinese, 0★).
 ---
 
 ## Agent / engineering demos
@@ -254,6 +261,7 @@ Harnesses, one-shot codebases, orchestrators, and large HTML/web batches.
 - [Hyprland Claude Computer Use](https://github.com/sahastasai/Hyprland-Claude-Computer-Use) — A Nix flake that installs the Linux Claude Desktop and adds a computer-use MCP server for Hyprland with the same tools as Claude's built-in macOS server, which the README says Opus 5.5 created (0★).
 - [LuxTunes](https://github.com/metric-ambient/luxtunes) — A native Linux music manager for Linux Mint with iTunes library import, smart playlists, CD import and iPod Classic sync, which the README says was written entirely by Claude Opus 5.5 (0★).
 - [Battery Power Meter](https://github.com/oguzhan00yildiz/Battery-Power-Meter) — A small Windows tray app that shows a laptop's live power draw in watts, with battery details and per-app estimates, which the author says was made with Claude Opus 5.5 because no easy app existed (0★).
+- [Saisie](https://github.com/VeryBigJoe/Saisie) — A free, native macOS alternative to ShareX (region capture with annotations, MP4 and GIF recording, OCR, uploads with .sxcu custom uploaders) that the README says Claude Opus 5.5 designed and wrote end to end in Claude Code (French, 0★).
 ---
 
 ## Collections & prompt lists
@@ -325,11 +333,12 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 - [Claude Game Arena](https://github.com/Furkiozknn/claude-game-arena) — Four free browser games, each built from one prompt by a different Claude model (Opus 5.5, Sonnet 5.5, Fable 5.1, Haiku 5.5) as a single Three.js HTML file, with clips and a scorecard; in round 2 Opus 5.5 remade its tower defense game Hisar in Godot 4 (Turkish/English, 0★). **[Play](https://furkiozknn.github.io/claude-game-arena/)**
 - [Arena of Four](https://github.com/novaki-ai/arena-of-four) — Claude Opus 5.5, GPT-6 Astra, Gemini 4 Argon and Grok 4.7 each command an army in 0 A.D., each in its own official CLI; the repo holds the rules, every question and every answer word for word (0★).
 - [Tetris AI comparison (2026-10-20)](https://github.com/SkillfulSunshine/TetrisAI20Oct2026) — Grok 4.7, Claude Opus 5.5 and GPT-5.6 Sol each build a dependency-free Tetris from the same prompt, with a Reveal.js dashboard on tokens, features and code size; Opus wrote the shortest version at 445 lines (0★).
+- [Can Opus 5.5 imitate a 19th-century author?](https://github.com/harshinisre-hue/stylometry_research) — A stylometric study of 126 × 3 excerpts that Claude Opus 5.5 wrote in the style of 14 authors (zero-, one- and multi-shot prompts), compared with 210 human excerpts (1★).
 ---
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 685 entries (last updated 2026-10-21).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 705 entries (last updated 2026-10-22).
 
 ### Motion design & code-drawn animation
 
@@ -479,6 +488,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Board-game rules explainer](https://x.com/theramjad/status/2111720397502837069) — @theramjad — An explainer on how to play a board game, which @theramjad says Opus 5.5 made from a one-line prompt with ElevenLabs CLI, 3D animations and diagrams, and no text.
 - [60-second video on @poteto's agentic coding](https://x.com/zwb44/status/2111458857902043188) — @zwb44 — A 60-second video, built entirely in code, in which Opus 5.5 researched and explained @poteto's approach to agentic coding.
 - [Portfolio data stories: Argon + Opus](https://x.com/bindureddy/status/2112606220293193965) — @bindureddy — Gemini 4 Argon does the data analysis of @bindureddy's portfolio and Opus 5.5 turns it into stories, dashboards and animations.
+- [Infographics and diagrams by Opus (Korean)](https://x.com/Lee_dogin/status/2112908180498129097) — @Lee_dogin — An infographic and diagram video; @Lee_dogin says that for video Opus 5.5 is the answer right now (Korean).
+- [ESP32 learning lab](https://x.com/abderrahmen_g/status/2113003653644619955) — @abderrahmen_g — An ESP32 hardware learning lab with 3D animations, code explanations and challenges, built with Opus 5.5.
 
 ### History & culture
 
@@ -739,6 +750,10 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Post-apocalyptic open world in 17 hours](https://x.com/badboyfoxy/status/2112818987084161227) — @badboyfoxy — An unfinished post-apocalyptic open world that Opus 5.5 built in 17 hours with Blender and the Godot engine, for a total cost of $118.
 - [Roblox map one-shot in 5 minutes](https://x.com/kentasakurajima/status/2112665300608929807) — @kentasakurajima — A Roblox environment map that @kentasakurajima says Opus 5.5 and Build Opus 5.5 one-shot in 5 minutes.
 - [RPG UI rebuilt by Opus (Japanese)](https://x.com/karou2rikon/status/2112547165512069306) — @karou2rikon — A devlog clip of @karou2rikon's dungeon RPG after Opus 5.5 rebuilt the whole UI (Japanese).
+- [One month in the Claude terminal](https://x.com/Belbizaz/status/2112979473788477905) — @Belbizaz — Gameplay from the game @Belbizaz has built for a month without leaving the Claude terminal, all made with Opus 5.5 and three.js.
+- [Tesla Semi factory strategy game](https://x.com/konstantinsaifo/status/2112913135782756652) — @konstantinsaifo — A strategy game in which you manage a Tesla factory making 50,000 Semis a year, with every truck simulated, built with Claude Opus 5.5.
+- [Rolling Republic](https://x.com/usecrayon/status/2113044115130867828) — @usecrayon — A 3D survival strategy web game where you build a walking city and lead your crew across the wasteland, built with Crayon Pro, Opus 5.5 and Three.js, with a link to play.
+- [Retro del Sol gameplay](https://x.com/chongdashu/status/2113090126406635638) — @chongdashu — A longer gameplay video of the cosy low-poly browser game Retro del Sol, fully multiplayer, made with Opus 5.5 and GPT-6 Astra, with assets from Retro Diffusion 3D animated in Blender.
 
 ### Real-time 3D, WebGL & shaders
 
@@ -821,6 +836,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Micro forest under an oak](https://x.com/jiangjiangling/status/2111716974556565884) — @jiangjiangling — An interactive micro forest of stag beetles, ladybirds, snails, ants and swallowtails in fallen leaves, where you can drop and poke bugs, call wind or rain, or bring night and fireflies; visuals, physics and sound are all by Opus 5.5 (Chinese).
 - [Cozy coffee shop website](https://x.com/DilumSanjaya/status/2111864428010582082) — @DilumSanjaya — A cozy website concept for a small coffee shop, made with Opus 5.5.
 - [Four pelicans on a Tesla Roadster](https://x.com/chrisjdimarco/status/2111977880939061728) — @chrisjdimarco — Four culturally specific pelicans riding on top of a Tesla Roadster, an SVG, three.js and WebGL animation made with Opus 5.5, with the prompt.
+- [Kaiju vs. Pelican cinematic](https://x.com/alohaproxy/status/2113111098656522482) — @alohaproxy — A Kaiju vs. Pelican cinematic that Claude Opus 5.5 on medium effort built in Three.js in 50 minutes, with no game engine.
+- [Luminescent jellyfish](https://x.com/scottstts/status/2112966232320471394) — @scottstts — Luminescent jellyfish in three.js, made with Opus 5.5.
+- [ILM Stagecraft replica](https://x.com/jasonkneen/status/2113227996425322976) — @jasonkneen — A working three.js replica of ILM's Stagecraft (The Volume) from The Mandalorian, which @jasonkneen says Opus 5.5 researched and built as a mode for @slop_eisley.
 
 ### Blender & 3D modelling
 
@@ -848,6 +866,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Coruscant in Blender, 20 minutes](https://x.com/adityavg13/status/2111049682344460610) — @adityavg13 — A Coruscant scene from Star Wars that Opus 5.5 built in Blender in about 20 minutes.
 - [Animation comparisons: Blender, Kimodo, Cascadeur, mocap](https://x.com/nazimadakli/status/2111160333217800466) — @nazimadakli — Locomotion and item animation comparisons with Opus 5.5 plus Blender, Kimodo, Cascadeur and local neural mocap, where Opus 5.5 picks the keyframes in Blender and Cascadeur.
 - [A bush for a game, start to finish](https://x.com/ForkedPush/status/2112168232148672982) — @ForkedPush — The whole process, in 30 seconds, of Claude Opus 5.5 making a bush for a game with Unity, Blender and Blender MCP.
+- [Character factory 3D harness](https://x.com/luccacerf/status/2113025837565870162) — @luccacerf — A 3D AI harness from two days of building a character factory with Fable 5.5 and several Opus 5.5 agents: Tripo P2, Blender, Cartwheel, Cascadeur and the Unity CLI.
 
 ### Ads & launch films
 
@@ -1064,6 +1083,16 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Opus 5.5 nerf test: before vs now](https://x.com/Haleeeemahh/status/2112818481557123186) — @Haleeeemahh — The same prompt to Opus 5.5 at launch and now; @Haleeeemahh says it is not nerfed but needs a few more prompts to match the first result.
 - [3D jelly canal: Opus 5.5 vs GPT-6 Astra](https://x.com/0xKenny1st/status/2112605599145832540) — @0xKenny1st — A 3D jelly canal with a lock, a boat and a windmill in the browser from the same prompt; Opus 5.5 took almost an hour and stands out for its water physics and colours.
 - [Rubik's cube: Sonnet 5.5 vs Opus 5.5](https://x.com/mizugame_22/status/2112514181119225958) — @mizugame_22 — Same prompt #7, a Rubik's cube with sound in one HTML file; Sonnet 5.5 took 13 min and Opus 5.5 15 min, and both really solve it with the same two-phase method (Japanese).
+- [Opus 5.5 at launch vs now](https://x.com/Mr_Salio/status/2112912588027650182) — @Mr_Salio — The same prompt and effort on Opus 5.5 at launch and now; @Mr_Salio says usage limits now drain much faster while the quality feels about the same.
+- [Three.js test: Gemini 4 Carbon vs Opus 5.5 vs GPT-6 Astra](https://x.com/AI_Screening/status/2113184121883435047) — @AI_Screening — The same Three.js test by the Gemini 4 Carbon checkpoint in Arena, Opus 5.5 and GPT-6 Astra; @AI_Screening says Carbon beats Opus 5.5 here.
+- [Rooftop glass pool: Opus 5.5 vs Opus 5](https://x.com/MrTacticalX/status/2112978719069598181) — @MrTacticalX — An interactive 3D rooftop glass pool built from scratch in code from the same prompt on High: Opus 5.5 took 68 min (~$14) and Opus 5 128 min (~$68).
+- [WWII mountain fortress: Opus 5.5 vs Fable 5.1](https://x.com/MrTacticalX/status/2113119946599272680) — @MrTacticalX — A WWII mountain fortress in a blizzard, built in Blender with Python and no assets: Fable 5.1 (Extra High) took 104 min (~$50.26) and Opus 5.5 (Extra High) 150 min (~$38.07).
+- [Stormy sea with a lighthouse: Opus 5.5 vs Fable 5.1](https://x.com/MrTacticalX/status/2113038211492585593) — @MrTacticalX — A stormy sea with a lighthouse painted stroke by stroke in code with no images: Fable 5.1 (High) took 85 min and Opus 5.5 (High) 101 min, both about $19.
+- [Stock-trading harness: Opus 5.5 vs LangAlpha](https://x.com/MinLiBuilds/status/2113117071538258038) — @MinLiBuilds — Opus 5.5 in a stock-trading harness checks share prices and SEC filings instead of believing a made-up Tesla × SpaceX merger, then Opus 5.5 in the Claude app goes up against LangAlpha (Chinese).
+- [Gemini 4 Carbon vs Opus 5.5 (high)](https://x.com/Haleeeemahh/status/2113243268569870459) — @Haleeeemahh — The same prompt one-shot by the first Gemini 4 checkpoint and Opus 5.5 on high.
+- [AK-47 3D benchmark, 18 days apart](https://x.com/luckeyfaraday/status/2113108078593744980) — @luckeyfaraday — The same AK-47 3D benchmark and prompt on Opus 5.5 18 days ago and today, to test claims that it got nerfed.
+- [Flood City: Sonnet 5.5 vs Opus 5.5](https://x.com/sara_kumodeck/status/2113082200556208397) — @sara_kumodeck — Flood City rebuilt from the same brief and steps: Sonnet 5.5 runs the water on the CPU, while Opus 5.5 moved it to the GPU with 3x the cells and a valley twice as long.
+- [Chip factory: Opus 5.5 vs Gemini 4 Argon](https://x.com/HedyHeppy/status/2112910296415359410) — @HedyHeppy — The same chip factory simulation prompt: Opus built a detailed factory layout in 85 minutes and Gemini 4 Argon finished in 70.
 
 ## Notable X / HN showcases
 
