@@ -147,6 +147,10 @@ Playable scenes and games built with Opus 5.5 — live links included when publi
 - [8.5 Ball, Opus 5.5 edition](https://github.com/ncypher/8.5_Ball.Opus.5.5) — A 3D Magic 8 Ball that reads the shape of your question and prints a short trace before it answers, made by Claude Opus 5.5 as a reply to Tom Harwood's 8.5 Ball (0★). **[Live](https://ncypher.github.io/8.5_Ball.Opus.5.5/)**
 - [Pixel Pet, Opus 5.5 edition](https://github.com/ncypher/Opus.5.5_pixel.pet) — Hatch a unique pixel creature and raise it in a room that follows your real clock and weather; the README says Claude Opus 5.5 built it as a new take on Tom Harwood's Pixel Pet (0★). **[Play](https://ncypher.github.io/Opus.5.5_pixel.pet/)**
 - [Growing City Shanghai (生长之城)](https://github.com/futurezd/growing-city) — A three.js Shanghai-inspired city-growth and life simulation (landmarks, traffic, seasons); the README says Claude Opus 5.5 generated it from another person's prompt (Chinese, 0★).
+- [Sacred Monkey Forest (Ubud)](https://github.com/Sam1983Aing/sacred-monkey-forest) — A walkable three.js recreation of Bali's Sacred Monkey Forest (temples, Dragon Bridge, 120 macaques); the README says most of it was built with Claude Opus 5.5 in Claude Code over 18 days (0★). **[Walk](https://sam1983aing.github.io/sacred-monkey-forest/)**
+- [Slopcinante (OpenSCAD Rocinante)](https://github.com/ijanos/slopcinante) — A 3D OpenSCAD model of the Rocinante from *The Expanse*, which the README says was vibed with Claude Opus 5.5 from a side-view reference (0★).
+- [Anime Clash (Minecraft mod)](https://github.com/SlashTestYt/anime-clash) — A NeoForge Minecraft 26.3 mod with 18 parody anime fighters, made by Claude Opus 5.5 High for a Low-vs-High YouTube comparison (0★).
+- [Learn Arduino (interactive 3D)](https://learn-arduino-red.vercel.app) — An 11-lesson interactive 3D Arduino Uno course in the browser (wire LEDs, sensors, motors, run code), which @DilumSanjaya says was made with Opus 5.5. **[▶ Live](https://learn-arduino-red.vercel.app)** · [X post](https://x.com/DilumSanjaya/status/2112587730542854263)
 
 
 ---
@@ -342,7 +346,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 728 entries (last updated 2026-10-23).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 749 entries (last updated 2026-10-24).
 
 ### Motion design & code-drawn animation
 
@@ -423,6 +427,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Article to 24s voxel video](https://x.com/francescoinweb3/status/2113585622317244526) — @francescoinweb3 — Opus 5.5 turned an article into a 24-second voxel walkthrough with no video model making a single frame.
 - [Product onboarding motion](https://x.com/BreejeAnadkat/status/2113620817649299590) — @BreejeAnadkat — An onboarding sequence built entirely with Opus 5.5, with no Figma.
 - [Exploring effects with Opus 5.5](https://x.com/aimikoda/status/2113615186556776531) — @aimikoda — Motion-design effects exploration that @aimikoda credits to Opus 5.5.
+- [98,304-particle Three.js piece](https://x.com/AIMind_Ai/status/2113976618972549440) — @AIMind_Ai — Every frame coded by Claude Opus 5.5 in Three.js with custom GLSL shaders and a soundtrack generated in code.
+- [Food-forest motion recreate](https://x.com/scottstts/status/2113955828021563857) — @scottstts — A recreation of a Houdini food-forest motion piece that @scottstts asked Opus 5.5 to remake without further iteration.
 
 ### Explainers & education
 
@@ -502,6 +508,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Robotics Engineering education site](https://x.com/0xForem/status/2113624961822646351) — @0xForem — An interactive site with 13 real boards (Arduino, L298N, Raspberry Pi 5 and more) built part by part with Opus 5.5 + /colorfigures.
 - [Inside a chip fab](https://x.com/RyanSael/status/2113564577636163648) — @RyanSael — A three.js chip-fab walkthrough where one invisible speck of dust can kill a wafer, made with Opus 5.5. **[Live](https://sael.net/chip-fab)**
 - [What happens when you hit Enter on AI](https://x.com/0xbobaaa/status/2113557631025455294) — @0xbobaaa — An interactive take-apart of an 8-GPU AI server that answers a chat prompt, which @0xbobaaa built with Opus 5.5 + /colorfigures.
+- [Learn Arduino, interactive 3D board](https://x.com/DilumSanjaya/status/2112587730542854263) — @DilumSanjaya — An 11-lesson interactive 3D Arduino Uno course in the browser, which @DilumSanjaya says was made with Opus 5.5. **[▶ Live](https://learn-arduino-red.vercel.app)**
 
 ### History & culture
 
@@ -582,6 +589,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Hometown intro film in code](https://x.com/jing548799/status/2112187129145208871) — @jing548799 — An introduction film for the author's hometown made with Claude Opus 5.5 and Lemo-Opuscar, with every frame, shot and music track rendered from code and no video-generation model (Chinese).
 - [A Madrid rent rant with Drama 3 TTS](https://x.com/aartiles24/status/2112182847167443389) — @aartiles24 — Opus 5.5 wrote a script to show off Fish Audio's open-weight Drama 3 TTS: a Madrid woman whose rent just went up goes from tears to laughter to a rant (Spanish).
 - [Anime clip without a video model](https://x.com/goon_nguyen/status/2112857498558574667) — @goon_nguyen — An anime clip that @goon_nguyen made with Opus 5.5 instead of Seedance, where a 15-second clip can cost $4–5.
+- [Chibiti vs Yamata-no-Orochi battle](https://x.com/CHIBIKURO_QnQ/status/2113962621917696038) — @CHIBIKURO_QnQ — A boss-battle anime clip at Kinkaku-ji with Seedance 2.5 animation and game-combat HUD editing by Opus 5.5 (Japanese).
 
 ### Claude on itself
 
@@ -643,6 +651,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [“Small Hours”, made while the owner was away](https://x.com/MugaSofer/status/2111120460561694869) — @MugaSofer — A music video by an unsupervised Claude Opus 5.5 instance during the owner's holiday: music made in Suno by Claude and animation coded by a team of Claudes it spawned.
 - [Mongolian throat-singing dubstep video in code](https://x.com/kloss_xyz/status/2112006151885705553) — @kloss_xyz — A music video in pure code (HTML, GSAP and WebGL) for a Suno v6 track, which Opus 5.5 made after 9 hours 34 minutes of self-review loops, with the prompt it reverse engineered.
 - [Trick or Treat Me! Halloween MV](https://x.com/nemu_rainbow/status/2113578682669264964) — @nemu_rainbow — A Halloween music video made with Seedance 2.5, Blender, GPT Image 2.5, Suno and Claude Opus 5.5.
+- [Treasure Hunter Riona MV「予感」](https://x.com/Project_RionaAI/status/2113963725514211771) — @Project_RionaAI — An MV for *Treasure Hunter Riona* whose storyboard and prompts @Project_RionaAI credits to Claude Opus 5.5, with video by Wan 3.0 (Higgsfield) and music by Suno (Japanese).
 
 ### Games & gameplay
 
@@ -769,6 +778,10 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Retro del Sol gameplay](https://x.com/chongdashu/status/2113090126406635638) — @chongdashu — A longer gameplay video of the cosy low-poly browser game Retro del Sol, fully multiplayer, made with Opus 5.5 and GPT-6 Astra, with assets from Retro Diffusion 3D animated in Blender.
 - [Concept art into a Godot 3D level](https://x.com/rewind02/status/2113573386794254715) — @rewind02 — One concept-art image scored against the live render while Claude Opus 5.5 builds a real 3D Godot level in about 33 minutes.
 - [Pixel-art indie game pipeline](https://x.com/zer0point_eth/status/2113605583173533890) — @zer0point_eth — A developer pipeline for pixel-art indie games with Opus 5.5 instead of Midjourney for grid-aware assets.
+- [Pizza simulator](https://x.com/MrTacticalX/status/2113987724260872333) — @MrTacticalX — A pizza simulator that follows one order from dough to delivery scooter, built with Claude Opus 5.5.
+- [Bone Knight Minecraft mod](https://x.com/MrTacticalX/status/2113952546293195024) — @MrTacticalX — An armoured skeleton that blocks arrows with its shield, modelled, textured, animated and shipped as a working Minecraft mod by Claude Opus 5.5.
+- [Floating-island tennis club](https://x.com/CultCabbage/status/2113964168801931763) — @CultCabbage — A pixel-art tennis club on a floating island (~$5) with serves, topspin, an umpire and rain that clears the court, built by Claude Opus 5.5.
+- [Jelly billiards](https://x.com/bluumik/status/2113959948308627920) — @bluumik — Jelly billiards with no cue and no table, built by Claude Opus 5.5 from one prompt.
 
 ### Real-time 3D, WebGL & shaders
 
@@ -858,6 +871,10 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Interactive RTX 5090 you can take apart](https://x.com/0x_mura/status/2113605249042686368) — @0x_mura — A six-stage interactive RTX 5090 in three.js, from the outer shell to the cooling system, built with Claude Opus 5.5.
 - [Airport ops as a 3D game](https://x.com/viktoroddy/status/2113602878288052581) — @viktoroddy — Airport software remade as a live 3D ops view where every plane, tug and baggage container is clickable, built with Opus 5.5.
 - [Solar power plant on your TV](https://x.com/leopardracer/status/2113571629422772304) — @leopardracer — A talking home solar power plant on a TV screen (roof, battery, whole house) that @leopardracer says Claude Opus 5.5 built.
+- [Interior design that scares designers](https://x.com/naldzyul/status/2113981294895903138) — @naldzyul — An interior-design demo that @naldzyul says Opus 5.5 does frighteningly well (Spanish).
+- [Interactive container port](https://x.com/HedyHeppy/status/2113955987644436938) — @HedyHeppy — An interactive Three.js container-port simulation with ship traffic, cranes and explorable cargo holds, built by Claude Opus 5.5.
+- [Shake Shikoku and Mexico](https://x.com/nishiibe/status/2113966644091572618) — @nishiibe — A site that lets you shake Shikoku and Mexico as much as you like, which @nishiibe says was made with Claude Opus 5.5 (Japanese). **[Live](https://mexico-shikoku.nishiibe.com/)**
+- [Sacred Monkey Forest walkthrough](https://x.com/SammmAing/status/2113849380641882273) — @SammmAing — A walkable 3D Sacred Monkey Forest in Ubud (temples, Dragon Bridge, macaques) open-sourced after a build directed with Claude Opus 5.5.
 
 ### Blender & 3D modelling
 
@@ -1120,6 +1137,14 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Radial engine: four models](https://x.com/kinderlayer/status/2113603821666513378) — @kinderlayer — Same words, four radial engines from Claude Opus 5.5, GPT-6 Astra, Gemini 4 Argon and Grok 4.7.
 - [Who did the best: GPT Astra vs Opus 5.5](https://x.com/mscode07/status/2113570133444870504) — @mscode07 — A side-by-side pick between GPT Astra and Opus 5.5 on the same task.
 - [Procedural 3D island: four models](https://x.com/xiangxiang103/status/2113560051520884771) — @xiangxiang103 — One English prompt for a complex procedural three.js scene; Opus 5.5 returned an island with snow, forest, lighthouse and day/night after ~18 min of self-testing.
+- [3D helicopter: Gemini 4 Carbon vs Opus 5.5](https://x.com/LuminaBench/status/2113963313591705768) — @LuminaBench — Same 3D helicopter: Carbon in Arena in a little over 30 minutes vs Opus 5.5 Extra in Claude Code in 55 minutes; @LuminaBench prefers Carbon's design but says Opus is more polished.
+- [Opus 5.5 vs Kimi K3.1 Pro cost clip](https://x.com/rubenssoto_ai/status/2113988189044293793) — @rubenssoto_ai — A side-by-side where Kimi cost $0.71 and Opus $12.63 on the same task.
+- [Same prompt: Kimi K3.1 vs Opus 5.5](https://x.com/angeldot_/status/2113967407517610007) — @angeldot_ — The same scene from Kimi K3.1 ($2.15, 6 min) and Opus 5.5 ($10.65, 28 min) (Spanish).
+- [Sink the Titanic: Kimi K3.1 vs Opus 5.5](https://x.com/noclipepe/status/2113974830215098859) — @noclipepe — Same prompt to sink the Titanic: Kimi K3.1 (~$0.88, 35 min) vs Opus 5.5 (~$8.43, 29 min).
+- [Sailing ship: Kimi K3.1 Pro vs Opus 5.5](https://x.com/Soocoorroo/status/2113958064806052131) — @Soocoorroo — The same sailing-ship ocean simulation from Kimi K3.1 Pro and Claude Opus 5.5.
+- [Opus 5.5 on the same task as Kimi K3.1 Pro](https://x.com/thebuggeddev/status/2113978686106177862) — @thebuggeddev — Claude Opus 5.5's result on the same task @thebuggeddev previously ran with Kimi K3.1 Pro.
+- [Growing Tokyo: Kimi vs Opus](https://x.com/tamacoin_tamao/status/2113979627526033566) — @tamacoin_tamao — The same English prompt for a 3D Tokyo that grows itself; left is Kimi and right is Opus (Japanese).
+- [Opus 5.5 above, Kimi K3.1 below](https://x.com/haldenn7/status/2113961967572427046) — @haldenn7 — Side-by-side layouts from Opus 5.5 and Kimi K3.1 on the same starting-point question.
 
 ## Notable X / HN showcases
 
