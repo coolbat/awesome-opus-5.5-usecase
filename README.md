@@ -272,6 +272,9 @@ Harnesses, one-shot codebases, orchestrators, and large HTML/web batches.
 - [Saisie](https://github.com/VeryBigJoe/Saisie) — A free, native macOS alternative to ShareX (region capture with annotations, MP4 and GIF recording, OCR, uploads with .sxcu custom uploaders) that the README says Claude Opus 5.5 designed and wrote end to end in Claude Code (French, 0★).
 ---
 
+- [Four AI analysts (四个 AI 当分析师)](https://github.com/ViffyGwaanl/four-ai-analysts) — The same four finance briefs delivered by Kimi K3.1 Pro, GPT-6 Astra, DeepSeek V4.1 and Claude Opus 5.5 (Excel, reports and web pages), with live pages at analyst.papertok.ai (0★). **[Live](https://analyst.papertok.ai/)**
+- [Pocket receipt ledger (记账本)](https://github.com/Liyucheng1997/385_lab-pocket-receipt) — A mobile-web ledger with photo/PDF receipt recognition, voice entry, budgets and dark mode; local Claude Code uses Claude Opus 5.5 on a subscription, and the hosted build defaults to Opus 5.5 via API (Chinese/English/Japanese, 0★). **[Live](https://liyucheng1997.github.io/385_lab-pocket-receipt/)**
+
 ## Collections & prompt lists
 
 Related awesome lists and prompt packs (some cover adjacent models — noted inline).
@@ -346,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 749 entries (last updated 2026-10-24).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 761 entries (last updated 2026-10-25).
 
 ### Motion design & code-drawn animation
 
@@ -429,6 +432,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Exploring effects with Opus 5.5](https://x.com/aimikoda/status/2113615186556776531) — @aimikoda — Motion-design effects exploration that @aimikoda credits to Opus 5.5.
 - [98,304-particle Three.js piece](https://x.com/AIMind_Ai/status/2113976618972549440) — @AIMind_Ai — Every frame coded by Claude Opus 5.5 in Three.js with custom GLSL shaders and a soundtrack generated in code.
 - [Food-forest motion recreate](https://x.com/scottstts/status/2113955828021563857) — @scottstts — A recreation of a Houdini food-forest motion piece that @scottstts asked Opus 5.5 to remake without further iteration.
+
+- [After Effects–like effects, all code (Japanese)](https://x.com/nakazakifam/status/2114202745636852063) — @nakazakifam — A short showcasing After Effects–like animation effects that Opus 5.5 built entirely in code (effects and edit), with GPT-Image-2.5, LTX-2.3, ElevenLabs, Soniox and HyperFrames in the pipeline (Japanese).
 
 ### Explainers & education
 
@@ -590,6 +595,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [A Madrid rent rant with Drama 3 TTS](https://x.com/aartiles24/status/2112182847167443389) — @aartiles24 — Opus 5.5 wrote a script to show off Fish Audio's open-weight Drama 3 TTS: a Madrid woman whose rent just went up goes from tears to laughter to a rant (Spanish).
 - [Anime clip without a video model](https://x.com/goon_nguyen/status/2112857498558574667) — @goon_nguyen — An anime clip that @goon_nguyen made with Opus 5.5 instead of Seedance, where a 15-second clip can cost $4–5.
 - [Chibiti vs Yamata-no-Orochi battle](https://x.com/CHIBIKURO_QnQ/status/2113962621917696038) — @CHIBIKURO_QnQ — A boss-battle anime clip at Kinkaku-ji with Seedance 2.5 animation and game-combat HUD editing by Opus 5.5 (Japanese).
+
+- [DREAM-LIKE STATES | A surRIHL cut](https://x.com/papadupapadu/status/2114070427135865076) — @papadupapadu — A dream-like short directed with @LoLoLumi88, with Midjourney, Blender, Pixverse, Hailuo H3, Eleven Music/SFX, Premiere and Claude Opus 5.5 in the pipeline.
 
 ### Claude on itself
 
@@ -783,6 +790,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Floating-island tennis club](https://x.com/CultCabbage/status/2113964168801931763) — @CultCabbage — A pixel-art tennis club on a floating island (~$5) with serves, topspin, an umpire and rain that clears the court, built by Claude Opus 5.5.
 - [Jelly billiards](https://x.com/bluumik/status/2113959948308627920) — @bluumik — Jelly billiards with no cue and no table, built by Claude Opus 5.5 from one prompt.
 
+- [Siege of Greymoor voxel castle](https://x.com/vib3coded/status/2114295486299664582) — @vib3coded — Siege of Greymoor, a ~30,000-block voxel castle you can wreck with a trebuchet ($12.22): knock out supports, watch chunks collapse, set beams on fire and send rubble into the moat, built by Claude Opus 5.5.
+- [Godot game in 6 weeks, no prior coding](https://x.com/0xzeroweb3/status/2114218238049710127) — @0xzeroweb3 — A Godot game that @0xzeroweb3 built with Claude Opus 5.5 over about six weeks with no coding or game-dev background.
+
 ### Real-time 3D, WebGL & shaders
 
 - [Sketch-to-simulation](https://x.com/poolio/status/2102445641205248145) — @poolio — A sketch-to-simulation demo in which Opus 5.5 turns hand drawings into a running simulation.
@@ -876,6 +886,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Shake Shikoku and Mexico](https://x.com/nishiibe/status/2113966644091572618) — @nishiibe — A site that lets you shake Shikoku and Mexico as much as you like, which @nishiibe says was made with Claude Opus 5.5 (Japanese). **[Live](https://mexico-shikoku.nishiibe.com/)**
 - [Sacred Monkey Forest walkthrough](https://x.com/SammmAing/status/2113849380641882273) — @SammmAing — A walkable 3D Sacred Monkey Forest in Ubud (temples, Dragon Bridge, macaques) open-sourced after a build directed with Claude Opus 5.5.
 
+- [Jelly pomegranate soft-body](https://x.com/N1njaCodex/status/2114311516698886225) — @N1njaCodex — An interactive jelly pomegranate ($11.81) that wobbles as you shake it while seeds pop out, bounce and scatter across the table, built by Claude Opus 5.5.
+
 ### Blender & 3D modelling
 
 - [5,112-object Shinkansen in Blender](https://x.com/higgsfield_ai/status/2102507018372436264) — @higgsfield_ai — A Blender Shinkansen model with 5,112 separate objects down to all 430 seats, built by Opus 5.5 with Higgsfield.
@@ -905,6 +917,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Character factory 3D harness](https://x.com/luccacerf/status/2113025837565870162) — @luccacerf — A 3D AI harness from two days of building a character factory with Fable 5.5 and several Opus 5.5 agents: Tripo P2, Blender, Cartwheel, Cascadeur and the Unity CLI.
 - [Blender scene cleanup by Opus](https://x.com/0xWast3/status/2113580929478271069) — @0xWast3 — Opus 5.5 in Blender deleting unused geometry, textures and modifiers so the project got lighter without losing a frame.
 - [Blender + Remotion short-film pipeline](https://x.com/Asteri_eth/status/2113614074990743991) — @Asteri_eth — A one-person animation studio pipeline: Opus 5.5 + Blender + Remotion from one joke to an editable .blend and a finished short.
+
+- [World to World: Gaussian splat garden → Blender](https://x.com/gokayfem/status/2114314785575604491) — @gokayfem — Claude Opus 5.5 rebuilds a garden from a Gaussian splat in Blender with procedural objects, Geometry Nodes, Shader Nodes and captured textures mapped onto surfaces.
 
 ### Ads & launch films
 
@@ -1145,6 +1159,13 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Opus 5.5 on the same task as Kimi K3.1 Pro](https://x.com/thebuggeddev/status/2113978686106177862) — @thebuggeddev — Claude Opus 5.5's result on the same task @thebuggeddev previously ran with Kimi K3.1 Pro.
 - [Growing Tokyo: Kimi vs Opus](https://x.com/tamacoin_tamao/status/2113979627526033566) — @tamacoin_tamao — The same English prompt for a 3D Tokyo that grows itself; left is Kimi and right is Opus (Japanese).
 - [Opus 5.5 above, Kimi K3.1 below](https://x.com/haldenn7/status/2113961967572427046) — @haldenn7 — Side-by-side layouts from Opus 5.5 and Kimi K3.1 on the same starting-point question.
+
+- [Spaceport in a jelly cube: Opus 5.5 vs GPT-6 Astra](https://x.com/vib3coded/status/2114132632166347208) — @vib3coded — Same prompt, a spaceport inside a jelly cube: Opus 5.5 (~$23.51) for water physics vs GPT-6 Astra for rocket-rollout and liftoff camera detail.
+- [Same 3D files one-shot: Opus 5.5 vs Kimi K3.1 Pro](https://x.com/anxuanng/status/2114170540391096407) — @anxuanng — Same prompt and same 3D files, one shot each with no hand fixes: Claude Opus 5.5 on top, Kimi K3.1 Pro below.
+- [Same prompt: Opus 5.5 vs GPT-6 Astra](https://x.com/CDGalpha/status/2114247471815881216) — @CDGalpha — The same prompt run on Claude Opus 5.5 and GPT-6 Astra, shown side by side.
+- [Four models, one-shot task](https://x.com/CodeByPoonam/status/2114013247800291671) — @CodeByPoonam — The same one-shot task across Gemini Argon 4, Claude Opus 5.5, GPT Astra and Grok 4.6.
+- [Grand Canyon drone flight, pure code (Opus Max)](https://x.com/diegocabezas01/status/2114328117854519747) — @diegocabezas01 — Claude Opus 5.5 Max on the same pure-code Grand Canyon drone-flight prompt previously run on GPT-6 Astra Ultra.
+- [Gummy eyeball soft-body: Astra vs Kimi vs Opus](https://x.com/daveeyyy_/status/2114014158102397168) — @daveeyyy_ — Same prompt, an interactive soft-body gummy eyeball in Three.js: GPT-6 Astra (4 min, $1.07), Kimi K3.1 Pro (8 min, $0.24) and Opus 5.5 (19 min, ~$6.09).
 
 ## Notable X / HN showcases
 
