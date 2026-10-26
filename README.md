@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 761 entries (last updated 2026-10-25).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 780 entries (last updated 2026-10-26).
 
 ### Motion design & code-drawn animation
 
@@ -434,6 +434,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Food-forest motion recreate](https://x.com/scottstts/status/2113955828021563857) — @scottstts — A recreation of a Houdini food-forest motion piece that @scottstts asked Opus 5.5 to remake without further iteration.
 
 - [After Effects–like effects, all code (Japanese)](https://x.com/nakazakifam/status/2114202745636852063) — @nakazakifam — A short showcasing After Effects–like animation effects that Opus 5.5 built entirely in code (effects and edit), with GPT-Image-2.5, LTX-2.3, ElevenLabs, Soniox and HyperFrames in the pipeline (Japanese).
+- [Interactive pixel portfolio](https://x.com/ann_nnng/status/2114717745443127698) — @ann_nnng — An interactive butterfly-and-flower pixel portfolio made with Claude Opus 5.5.
 
 ### Explainers & education
 
@@ -514,6 +515,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Inside a chip fab](https://x.com/RyanSael/status/2113564577636163648) — @RyanSael — A three.js chip-fab walkthrough where one invisible speck of dust can kill a wafer, made with Opus 5.5. **[Live](https://sael.net/chip-fab)**
 - [What happens when you hit Enter on AI](https://x.com/0xbobaaa/status/2113557631025455294) — @0xbobaaa — An interactive take-apart of an 8-GPU AI server that answers a chat prompt, which @0xbobaaa built with Opus 5.5 + /colorfigures.
 - [Learn Arduino, interactive 3D board](https://x.com/DilumSanjaya/status/2112587730542854263) — @DilumSanjaya — An 11-lesson interactive 3D Arduino Uno course in the browser, which @DilumSanjaya says was made with Opus 5.5. **[▶ Live](https://learn-arduino-red.vercel.app)**
+- [JEM paper explainer, one-shot](https://x.com/iScienceLuvr/status/2114676265093664978) — @iScienceLuvr — A paper explainer video that Claude Opus 5.5 basically one-shotted, after which @iScienceLuvr says the Joint Embedding Method (JEM) finally clicked.
 
 ### History & culture
 
@@ -792,6 +794,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 
 - [Siege of Greymoor voxel castle](https://x.com/vib3coded/status/2114295486299664582) — @vib3coded — Siege of Greymoor, a ~30,000-block voxel castle you can wreck with a trebuchet ($12.22): knock out supports, watch chunks collapse, set beams on fire and send rubble into the moat, built by Claude Opus 5.5.
 - [Godot game in 6 weeks, no prior coding](https://x.com/0xzeroweb3/status/2114218238049710127) — @0xzeroweb3 — A Godot game that @0xzeroweb3 built with Claude Opus 5.5 over about six weeks with no coding or game-dev background.
+- [TNT Titan Minecraft boss mod](https://x.com/MrTacticalX/status/2114676059811569861) — @MrTacticalX — A TNT Titan Minecraft boss that throws lit TNT, spawns TNT minions and blows itself up, which Claude Opus 5.5 coded as a real mod (model, textures, attacks, boss bar) and then filmed.
+- [I Just Wanted to Fish → Steam path](https://x.com/hakimieiqbal/status/2114690329769025939) — @hakimieiqbal — Thirty days, 227 commits and Blender MCP with Opus 5.5 turned into a Unity fishing game headed for Steam, with most of the 3D made through Blender MCP.
+- [Swamp level with Tripo assets](https://x.com/cortiz2894/status/2114702543431295038) — @cortiz2894 — A swamp game level whose code Claude Opus 5.5 wrote and whose environment and enemy assets came from Tripo.
 
 ### Real-time 3D, WebGL & shaders
 
@@ -887,6 +892,13 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Sacred Monkey Forest walkthrough](https://x.com/SammmAing/status/2113849380641882273) — @SammmAing — A walkable 3D Sacred Monkey Forest in Ubud (temples, Dragon Bridge, macaques) open-sourced after a build directed with Claude Opus 5.5.
 
 - [Jelly pomegranate soft-body](https://x.com/N1njaCodex/status/2114311516698886225) — @N1njaCodex — An interactive jelly pomegranate ($11.81) that wobbles as you shake it while seeds pop out, bounce and scatter across the table, built by Claude Opus 5.5.
+- [Jelly whale soft-body ($9.26)](https://x.com/vib3coded/status/2114674922802782355) — @vib3coded — A translucent jelly whale full of tiny bubbles that you can spin, squish and toss while its whole body flops, built by Claude Opus 5.5 for $9.26.
+- [Fluffy mammoth, 120k hairs](https://x.com/N1njaCodex/status/2114688042955079736) — @N1njaCodex — A fluffy mammoth in a single three.js HTML file ($10.3), with a body from a mathematical shape and about 120,000 long hairs over a short undercoat, built by Claude Opus 5.5.
+- [Cozy oil-industry scene](https://x.com/Guronnimo/status/2114696995600290042) — @Guronnimo — A cozy take on the oil industry where Opus 5.5 wrote everything.
+- [Mango-jelly hydroelectric dam](https://x.com/Bengiyai/status/2114708382594543838) — @Bengiyai — A hydroelectric dam made of mango jelly in one plain WebGL2 HTML file: live lake waves, reservoir level, spillway gates, turbines and power output from hydraulic head, built by Claude Opus 5.5.
+- [Foggy window you can write on](https://x.com/happycapyai/status/2114670876159283645) — @happycapyai — A foggy window you can wipe, that re-fogs, and that reveals the Eiffel Tower; Opus 5.5 for the glass and a Seedance 2.5 loop behind it on Happycapy.
+- [Castle cutaway plate you can slice](https://x.com/anxuanng/status/2114665745116508166) — @anxuanng — A castle plate you can actually slice open, another Opus 5.5 build.
+- [Cat paw in a box](https://x.com/fMinZhou/status/2114660118621290499) — @fMinZhou — A stretchy, squishy cat paw that boings back into a box (five paws to pull), built with Opus 5.5 on Happycapy in one prompt.
 
 ### Blender & 3D modelling
 
@@ -919,6 +931,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Blender + Remotion short-film pipeline](https://x.com/Asteri_eth/status/2113614074990743991) — @Asteri_eth — A one-person animation studio pipeline: Opus 5.5 + Blender + Remotion from one joke to an editable .blend and a finished short.
 
 - [World to World: Gaussian splat garden → Blender](https://x.com/gokayfem/status/2114314785575604491) — @gokayfem — Claude Opus 5.5 rebuilds a garden from a Gaussian splat in Blender with procedural objects, Geometry Nodes, Shader Nodes and captured textures mapped onto surfaces.
+- [Entire Unreal city, Blender assets](https://x.com/xikhar/status/2114567234857353617) — @xikhar — An entire city in Unreal Engine whose assets were all made in Blender, which @xikhar credits to Opus 5.5 and calls the worst it will ever be.
+- [Hulk in a Manhattan Unreal city](https://x.com/ashen_one/status/2114703511673831865) — @ashen_one — Opus 5.5 + Unreal Engine + Customuse 3D: starting from @xikhar's Manhattan city, @ashen_one swapped the hero for Invincible and then the Hulk.
+- [Octopus self-portrait in Blender](https://x.com/digi_dot_exe/status/2114691597942268163) — @digi_dot_exe — "The Whole Surface," another Opus 5.5 self-portrait animation in Blender that talks about why an octopus.
 
 ### Ads & launch films
 
@@ -988,6 +1003,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Water-heater replacement ad](https://x.com/husky__create/status/2111366650465489126) — @husky__create — An all-AI water-heater replacement ad with planning, video, music and editing by Claude Opus 5.5 and images by GPT Image 2.5 (Japanese).
 - [Junk-removal ad, all AI](https://x.com/husky__create/status/2111593144873824489) — @husky__create — A junk-removal service ad made entirely with AI: planning, video, music and editing by Claude Opus 5.5 and images by GPT Image 2.5 (Japanese).
 - [FOMO spec ad (AE + Blender + Opus)](https://x.com/Sevas_ae/status/2113609472639894013) — @Sevas_ae — A spec ad for @fomo made with After Effects, Blender and Opus 5.5.
+- [RevenueCat-replacement app UI](https://x.com/amine_prcs/status/2114678483213234526) — @amine_prcs — An app UI meant to replace RevenueCat, designed with Opus 5.5 (low effort) plus the 10kdesign MCP.
+- [Solana hero redesign in Framer](https://x.com/matteodotsui/status/2114714643407233036) — @matteodotsui — A Solana website hero redesign using Claude Opus 5.5 and Framer.
 
 ### Comparisons & video-model pipelines
 
@@ -1166,6 +1183,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Four models, one-shot task](https://x.com/CodeByPoonam/status/2114013247800291671) — @CodeByPoonam — The same one-shot task across Gemini Argon 4, Claude Opus 5.5, GPT Astra and Grok 4.6.
 - [Grand Canyon drone flight, pure code (Opus Max)](https://x.com/diegocabezas01/status/2114328117854519747) — @diegocabezas01 — Claude Opus 5.5 Max on the same pure-code Grand Canyon drone-flight prompt previously run on GPT-6 Astra Ultra.
 - [Gummy eyeball soft-body: Astra vs Kimi vs Opus](https://x.com/daveeyyy_/status/2114014158102397168) — @daveeyyy_ — Same prompt, an interactive soft-body gummy eyeball in Three.js: GPT-6 Astra (4 min, $1.07), Kimi K3.1 Pro (8 min, $0.24) and Opus 5.5 (19 min, ~$6.09).
+- [1800s pistol: four models via Blender MCP](https://x.com/patch_gg/status/2114671379455119514) — @patch_gg — Same brief, forge an artisanal 1800s pistol with Blender MCP: Claude Opus 5.5 ($1.62), GPT-6 Astra ($2.58), Gemini 4 Argon ($1.03) and Kimi K3 ($0.75).
+- [Drawing clouds: Kimi K3.1 Pro vs Opus 5.5](https://x.com/TypingMindApp/status/2114670214365491269) — @TypingMindApp — Kimi K3.1 Pro vs Claude Opus 5.5 drawing clouds in the sky.
 
 ## Notable X / HN showcases
 
