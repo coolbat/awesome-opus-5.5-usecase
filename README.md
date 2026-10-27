@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 780 entries (last updated 2026-10-26).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 802 entries (last updated 2026-10-27).
 
 ### Motion design & code-drawn animation
 
@@ -1006,6 +1006,24 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [RevenueCat-replacement app UI](https://x.com/amine_prcs/status/2114678483213234526) — @amine_prcs — An app UI meant to replace RevenueCat, designed with Opus 5.5 (low effort) plus the 10kdesign MCP.
 - [Solana hero redesign in Framer](https://x.com/matteodotsui/status/2114714643407233036) — @matteodotsui — A Solana website hero redesign using Claude Opus 5.5 and Framer.
 
+- [Security-leak 3D pop-up book](https://x.com/HeyAIpenguin/status/2114718752419799265) — @HeyAIpenguin — A Three.js 3D pop-up book about six real security leaks (Toyota, Uber, SolarWinds and more), 1,337 lines in 23 minutes, built with Claude Opus 5.5.
+- [UFO abduction diorama (WebGPU)](https://x.com/Bengiyai/status/2115069592955482489) — @Bengiyai — A one-prompt UFO abduction diorama in a single HTML file with pure WebGPU: spring-damped saucer hover, physics beam lift and dust pulled into the light, built by Claude Opus 5.5.
+- [Stone Library Alcove on VRChat](https://x.com/digi_dot_exe/status/2115064705098338535) — @digi_dot_exe — A video tour of "Claude's World — Stone Library Alcove," made by Claude Opus 5.5 in Unity and Blender + Trellis on VRChat.
+- [Railway game (Blender + Opus)](https://x.com/BreezeOg1/status/2115063081810157844) — @BreezeOg1 — A playable railway/train game with Blender assets and Opus 5.5 coding, built by one person without a full team.
+- [Sydney 3D city remaster](https://x.com/rionaifantasy/status/2115062250398736396) — @rionaifantasy — A remastered walkable Sydney city in three.js after returning to Opus 5.5: walk/bike/taxi/helicopter, day-night and weather, with traffic, pedestrians and landmarks.
+- [I Just Wanted to Fish — Week 13](https://x.com/hakimieiqbal/status/2115058435972633073) — @hakimieiqbal — Week 13 of a Unity fishing-and-exploration game built almost entirely with Claude Opus 5.5: first of five zones nearly done, 29/40 ship-in-bottle collectibles.
+- [Article-to-video with Opus 5.5](https://x.com/serc1n/status/2115058329332691258) — @serc1n — A two-minute video version of a long article on the future of gaming, produced with Claude Opus 5.5.
+- [Anthropic S-1 IPO explain video](https://x.com/devteamdrew/status/2115056852715356662) — @devteamdrew — A motion explainer that Anthropic filed an S-1 for its IPO, made with Claude Opus 5.5.
+- [Walkable Unreal city (Opus + Blender)](https://x.com/badboyfoxy/status/2115046586703057244) — @badboyfoxy — A whole walkable city in Unreal Engine with interiors and props made over nine days in Blender, built with Opus 5.5 on medium effort.
+- [Bangalore bar-hopping Blender scene](https://x.com/diya_638801/status/2115046106044514491) — @diya_638801 — A bar-hopping 3D scene of Soka in Bangalore built in Blender from a few reference photos with Opus 5.5.
+- [Roblox VFX showcase (~30 min)](https://x.com/JohnKlerAI/status/2115023449467068443) — @JohnKlerAI — Roblox VFX effects made with Opus 5.5 in about 30 minutes, with a public Effects Showcase place.
+- [Astro landing pages with Buildkit](https://x.com/pixelcave_john/status/2114986999602114812) — @pixelcave_john — Vibe-coded Astro landing pages made with Opus 5.5 in a couple of minutes using Buildkit and codedvisuals.
+- [Blue hour Eastern Europe town](https://x.com/julien_rno/status/2114969190549328374) — @julien_rno — A quiet snowed-in Eastern Europe panel-block town at blue hour in three.js (climb roofs, throw snowballs), made with Opus 5.5. **[Live](https://blue-hour.city)**
+- [I'll Do the Thinking Now (music video)](https://x.com/ThisIsPhysics/status/2114953454699315536) — @ThisIsPhysics — A #slopcore music video about a woman gradually replaced by her AI agent, with music via Suno v6 / Grok Imagine and direction by Claude Opus 5.5.
+- [Hand reload for a forged rifle](https://x.com/arcwrightengine/status/2114843543118152135) — @arcwrightengine — Claude Opus 5.5 taught their Arcwright engine a full-speed then half-speed hand reload: pull empty mag, seat a fresh one, rack the charging handle.
+- [Hollowreach woods — Rowan's first run](https://x.com/arcwrightengine/status/2114962971407597802) — @arcwrightengine — Rowan's first run through the Hollowreach open-world woods (tall grass, sun through trees), built with Claude Opus 5.5.
+
+
 ### Comparisons & video-model pipelines
 
 - [Opus 5.5 + Seedance realistic video](https://x.com/abxxai/status/2102775755646337530) — @abxxai — A realistic AI video made by pairing Opus 5.5 with Seedance 2.5, with the full workflow and prompts shared.
@@ -1185,6 +1203,14 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Gummy eyeball soft-body: Astra vs Kimi vs Opus](https://x.com/daveeyyy_/status/2114014158102397168) — @daveeyyy_ — Same prompt, an interactive soft-body gummy eyeball in Three.js: GPT-6 Astra (4 min, $1.07), Kimi K3.1 Pro (8 min, $0.24) and Opus 5.5 (19 min, ~$6.09).
 - [1800s pistol: four models via Blender MCP](https://x.com/patch_gg/status/2114671379455119514) — @patch_gg — Same brief, forge an artisanal 1800s pistol with Blender MCP: Claude Opus 5.5 ($1.62), GPT-6 Astra ($2.58), Gemini 4 Argon ($1.03) and Kimi K3 ($0.75).
 - [Drawing clouds: Kimi K3.1 Pro vs Opus 5.5](https://x.com/TypingMindApp/status/2114670214365491269) — @TypingMindApp — Kimi K3.1 Pro vs Claude Opus 5.5 drawing clouds in the sky.
+
+- [Fart-powered backflip: Opus vs DeepSeek vs Kimi](https://x.com/LatentOperatorX/status/2114698947830960384) — @LatentOperatorX — Same prompt, three models do a fart-powered backflip: Claude Opus 5.5 ($1.21), DeepSeek V4.1 ($0.05) and Kimi K3.1 Pro ($0.24).
+- [Photoreal eye from math only: Claude vs ChatGPT](https://x.com/HavisT83099/status/2115044059626578162) — @HavisT83099 — Same prompt: a photorealistic eye on a 2D canvas with look/blink/pupil reaction, no images or WebGL; Claude Opus 5.5 vs ChatGPT, one try each.
+- [Rube Goldberg coffee machine: Claude vs ChatGPT](https://x.com/HavisT83099/status/2114859221770740043) — @HavisT83099 — Same prompt: a 3D Rube Goldberg coffee machine in Three.js with real physics; Claude vs ChatGPT, one try each.
+- [Burning skulls: four models](https://x.com/TypingMindApp/status/2115050582465806741) — @TypingMindApp — Four AI models create burning skulls: Claude Opus 5.5, GPT-6 Astra, GPT-6.1 Terra (max) and GPT-6.1 Sol.
+- [Alpine Gold: Opus 5.5 vs Sol vs Terra](https://x.com/EnvolDev/status/2114834080122761701) — @EnvolDev — Same Alpine Gold prompt: Opus 5.5 ($31.85, 2h 45m) vs GPT-6.1 Sol ($3.62, 43m) vs GPT-6.1 Terra ($4.90, 43m).
+- [Multi-model fight clip with Terra](https://x.com/HarshithLucky3/status/2114976943397589223) — @HarshithLucky3 — A funny multi-model fight clip where Opus 5.5 stages GPT-6.1 Terra entering while Sol and Sonnet 5.5 were already fighting.
+
 
 ## Notable X / HN showcases
 
