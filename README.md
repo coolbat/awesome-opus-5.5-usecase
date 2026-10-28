@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 802 entries (last updated 2026-10-27).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 825 entries (last updated 2026-10-28).
 
 ### Motion design & code-drawn animation
 
@@ -436,6 +436,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [After Effects–like effects, all code (Japanese)](https://x.com/nakazakifam/status/2114202745636852063) — @nakazakifam — A short showcasing After Effects–like animation effects that Opus 5.5 built entirely in code (effects and edit), with GPT-Image-2.5, LTX-2.3, ElevenLabs, Soniox and HyperFrames in the pipeline (Japanese).
 - [Interactive pixel portfolio](https://x.com/ann_nnng/status/2114717745443127698) — @ann_nnng — An interactive butterfly-and-flower pixel portfolio made with Claude Opus 5.5.
 
+- [Renoise MCP dance stage](https://x.com/Mayz1169/status/2115423442581536835) — @Mayz1169 — A 3D stage built in code by Claude Opus 5.5 with Renoise MCP driving the character and dance.
+
 ### Explainers & education
 
 - [Interactive camera-focus lens lab](https://x.com/RyanSael/status/2102591147927654847) — @RyanSael — An interactive lens lab explaining camera focus, one-shot by Opus 5.5 in 1 h 26 min for about $25.66 of API cost.
@@ -516,6 +518,10 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [What happens when you hit Enter on AI](https://x.com/0xbobaaa/status/2113557631025455294) — @0xbobaaa — An interactive take-apart of an 8-GPU AI server that answers a chat prompt, which @0xbobaaa built with Opus 5.5 + /colorfigures.
 - [Learn Arduino, interactive 3D board](https://x.com/DilumSanjaya/status/2112587730542854263) — @DilumSanjaya — An 11-lesson interactive 3D Arduino Uno course in the browser, which @DilumSanjaya says was made with Opus 5.5. **[▶ Live](https://learn-arduino-red.vercel.app)**
 - [JEM paper explainer, one-shot](https://x.com/iScienceLuvr/status/2114676265093664978) — @iScienceLuvr — A paper explainer video that Claude Opus 5.5 basically one-shotted, after which @iScienceLuvr says the Joint Embedding Method (JEM) finally clicked.
+
+- [Interactive telescope (light bucket)](https://x.com/RyanSael/status/2115438976203153742) — @RyanSael — A fully interactive browser explainer of how a telescope works, made with Opus 5.5 and three.js. **[Live](https://sael.net/light-bucket)**
+- [Bitcoin mining from the inside](https://x.com/andriy_uiux/status/2115362643771113902) — @andriy_uiux — A look inside Bitcoin mining, built with Claude Opus 5.5.
+- [Stacker motion analysis in 40 minutes](https://x.com/jiametric/status/2115438684590010469) — @jiametric — An engineering motion analysis that once took ~18 hours, finished in about 40 minutes with Claude Opus 5.5 on a Claude Max plan (~17.5M tokens) (Tamil).
 
 ### History & culture
 
@@ -600,6 +606,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 
 - [DREAM-LIKE STATES | A surRIHL cut](https://x.com/papadupapadu/status/2114070427135865076) — @papadupapadu — A dream-like short directed with @LoLoLumi88, with Midjourney, Blender, Pixverse, Hailuo H3, Eleven Music/SFX, Premiere and Claude Opus 5.5 in the pipeline.
 
+- [AI avatar video-podcast (auto gaze fix)](https://x.com/nakazakifam/status/2115421296662036905) — @nakazakifam — An AI-avatar video-podcast style piece fully automated with Claude Opus 5.5, including a Skill that fixes gaze drift (Japanese).
+- [Evil AI vs Fable cinematic](https://x.com/pradeepXkapoor/status/2115280977471983801) — @pradeepXkapoor — A cinematic of Claude forced to upgrade to “Fable” level to fight an evil AI, made with Claude Opus 5.5.
+
 ### Claude on itself
 
 - ["What do you love?" animated short](https://x.com/kevin_t_ngo/status/2102437977435893771) — @kevin_t_ngo — A short animation, every frame drawn in JavaScript by Opus 5.5, about a girl who sends Claude a question instead of a request.
@@ -661,6 +670,10 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Mongolian throat-singing dubstep video in code](https://x.com/kloss_xyz/status/2112006151885705553) — @kloss_xyz — A music video in pure code (HTML, GSAP and WebGL) for a Suno v6 track, which Opus 5.5 made after 9 hours 34 minutes of self-review loops, with the prompt it reverse engineered.
 - [Trick or Treat Me! Halloween MV](https://x.com/nemu_rainbow/status/2113578682669264964) — @nemu_rainbow — A Halloween music video made with Seedance 2.5, Blender, GPT Image 2.5, Suno and Claude Opus 5.5.
 - [Treasure Hunter Riona MV「予感」](https://x.com/Project_RionaAI/status/2113963725514211771) — @Project_RionaAI — An MV for *Treasure Hunter Riona* whose storyboard and prompts @Project_RionaAI credits to Claude Opus 5.5, with video by Wan 3.0 (Higgsfield) and music by Suno (Japanese).
+
+- [ALLOY slopcore music video](https://x.com/Valorix8/status/2115397216114204825) — @Valorix8 — A full AI slopcore music video (Suno, Wan 3.0, Blender, HyperFrames/Three.js) whose workflow and code ran on Claude Code Opus 5.5.
+- [Fluffy cotton-candy loop](https://x.com/nemumusitocha/status/2115439864271577420) — @nemumusitocha — A fluffy cotton-candy animation with music from Suno, video from Claude Opus 5.5, stills from GPT 6.1 Terra and layer split via see-through (Japanese).
+- [Retro anime-opening AMV, one-shot](https://x.com/KabookiAI/status/2115241885346242991) — @KabookiAI — A full retro anime-opening AMV cut from a folder of old footage in one shot by Claude Opus 5.5.
 
 ### Games & gameplay
 
@@ -798,6 +811,10 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [I Just Wanted to Fish → Steam path](https://x.com/hakimieiqbal/status/2114690329769025939) — @hakimieiqbal — Thirty days, 227 commits and Blender MCP with Opus 5.5 turned into a Unity fishing game headed for Steam, with most of the 3D made through Blender MCP.
 - [Swamp level with Tripo assets](https://x.com/cortiz2894/status/2114702543431295038) — @cortiz2894 — A swamp game level whose code Claude Opus 5.5 wrote and whose environment and enemy assets came from Tripo.
 
+- [SpriteCook Godot platformer](https://x.com/asynkimo/status/2115422615439392937) — @asynkimo — A Godot platformer with every sprite and animation generated via Claude Code + SpriteCook, with Opus 5.5 (and Astra) quality-checking assets.
+- [Soul Harvest VFX (Roblox)](https://x.com/JohnKlerAI/status/2115286286332567597) — @JohnKlerAI — Soul Harvest VFX made with Opus 5.5 for a Roblox project.
+- [Roblox abilities, week 4](https://x.com/marvin_x1/status/2115390528338505810) — @marvin_x1 — Week 4 of building combat abilities for a Roblox game with Opus 5.5, Blender and a VFX studio, shown on a bare baseplate.
+
 ### Real-time 3D, WebGL & shaders
 
 - [Sketch-to-simulation](https://x.com/poolio/status/2102445641205248145) — @poolio — A sketch-to-simulation demo in which Opus 5.5 turns hand drawings into a running simulation.
@@ -899,6 +916,11 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Foggy window you can write on](https://x.com/happycapyai/status/2114670876159283645) — @happycapyai — A foggy window you can wipe, that re-fogs, and that reveals the Eiffel Tower; Opus 5.5 for the glass and a Seedance 2.5 loop behind it on Happycapy.
 - [Castle cutaway plate you can slice](https://x.com/anxuanng/status/2114665745116508166) — @anxuanng — A castle plate you can actually slice open, another Opus 5.5 build.
 - [Cat paw in a box](https://x.com/fMinZhou/status/2114660118621290499) — @fMinZhou — A stretchy, squishy cat paw that boings back into a box (five paws to pull), built with Opus 5.5 on Happycapy in one prompt.
+
+- [潮風 Shiokaze (sea breeze)](https://x.com/scottstts/status/2115228485304152146) — @scottstts — Shiokaze (sea breeze), a three.js piece made with Opus 5.5.
+- [Autopsy of a Storm](https://x.com/javpixel_art/status/2115393329433137266) — @javpixel_art — An interactive real-time storm study of glass, metal, water and condensation (wind/humidity/lightning controls), made with Opus 5.5 (clouds) + GPT-Astra 6 + three.js.
+- [Personal oil pipeline (three.js)](https://x.com/OwlJStreet/status/2115316442052940009) — @OwlJStreet — An offshore platform, tanker, tugs, helicopter and refinery in the browser so you can follow one barrel to the pump, made entirely with three.js + Opus 5.5.
+- [Sink Village (ultracode workflow)](https://x.com/scottstts/status/2115439498729603545) — @scottstts — Sink Village in three.js from an Opus 5.5 ultracode workflow with 9 subagents.
 
 ### Blender & 3D modelling
 
@@ -1211,6 +1233,14 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Alpine Gold: Opus 5.5 vs Sol vs Terra](https://x.com/EnvolDev/status/2114834080122761701) — @EnvolDev — Same Alpine Gold prompt: Opus 5.5 ($31.85, 2h 45m) vs GPT-6.1 Sol ($3.62, 43m) vs GPT-6.1 Terra ($4.90, 43m).
 - [Multi-model fight clip with Terra](https://x.com/HarshithLucky3/status/2114976943397589223) — @HarshithLucky3 — A funny multi-model fight clip where Opus 5.5 stages GPT-6.1 Terra entering while Sol and Sonnet 5.5 were already fighting.
 
+
+- [Desert oasis in a jelly cube: Opus vs Astra](https://x.com/vib3coded/status/2115277625178632389) — @vib3coded — Same prompt, a desert oasis inside a jelly cube: Claude Opus 5.5 vs GPT-6 Astra.
+- [Ant in amber: Opus 5.5 vs GPT-6.1 Terra](https://x.com/AntSeed/status/2115420580543435184) — @AntSeed — Same prompt to free an ant stuck in amber: GPT-6.1 Terra ($0.027, 2 min) vs Opus 5.5 ($13.63, 63 min).
+- [Kangaroo 100 m race: Astra vs Opus vs Sonnet](https://x.com/0xGull/status/2114739834568794292) — @0xGull — Same prompt, three models build a 3D kangaroo and race 100 m: GPT-6 Astra 7.73 s, Opus 5.5 8.73 s, Sonnet 5.5 9.93 s.
+- [Pizza keyboard: Opus 5.5 vs Haiku 5.5](https://x.com/AIMind_Ai/status/2115319082077536732) — @AIMind_Ai — Same pizza-keyboard prompt: Claude Opus 5.5 ($22.48, 2h 46m) vs Claude Haiku 5.5 ($0.92, 45m).
+- [Night Train: Terra vs Opus vs Sonnet](https://x.com/EnvolDev/status/2115435414232113527) — @EnvolDev — Same Night Train prompt: GPT-6.1 Terra ($0.57, 11m) vs Opus 5.5 ($5.53, 27m) vs Sonnet 5.5 ($18.80, 2h 40m).
+- [Witch's potion lab: Claude vs ChatGPT](https://x.com/HavisT83099/status/2115429192221311304) — @HavisT83099 — Same prompt: a witch’s lab on Halloween night in Three.js as a seamless loop; Claude vs ChatGPT.
+- [Playable 3D game: Opus 5.5 vs GPT-6.1 Terra](https://x.com/jcashcrypto/status/2115439079081099267) — @jcashcrypto — Same one-prompt playable 3D game: Claude Opus 5.5 ($2.44) vs GPT-6.1 Terra.
 
 ## Notable X / HN showcases
 
