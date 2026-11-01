@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 902 entries (last updated 2026-10-31).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 922 entries (last updated 2026-11-01).
 
 ### Motion design & code-drawn animation
 
@@ -446,6 +446,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [pixelfx: 232 code pixel-art effects](https://x.com/rehan_shei/status/2116062680121540611) — @rehan_shei — 232 open-source pixel-art effects written as code by Claude Opus 5.5 (render, inspect frames, fix until they hold), with the skill shared.
 - [Halloween sticker pack](https://x.com/ann_nnng/status/2116468079794545038) — @ann_nnng — A little Halloween sticker pack made with Claude Opus 5.5.
 - [3D skeleton that draws itself to pixels](https://x.com/rehan_shei/status/2116450527290736731) — @rehan_shei — A real 3D skeleton that draws itself down to pixels, then projected as a 2D side profile, built with Opus 5.5 (open source).
+- [28-second motion video (Aygramm)](https://x.com/Aygramm_/status/2116663090364465534) — @Aygramm_ — A 28-second motion video made with Claude Opus 5.5.
+- [Reference-image machine in three.js](https://x.com/Mikadzyki_NFT/status/2116875355499659556) — @Mikadzyki_NFT — A motion piece from a single reference image: every shell, gear and hose is three.js code (no Blender), with ~260 tiny pistons/screws/wires, built by Claude Opus 5.5.
+- [Animated pixel-art Halloween diorama](https://x.com/zer0point_eth/status/2116832762912973220) — @zer0point_eth — An animated pixel-art Halloween diorama coded from scratch in TypeScript by Claude Opus 5.5 (no game engine, no static image generators).
 
 ### Explainers & education
 
@@ -536,6 +539,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Life of one animal cell (statechart)](https://x.com/kevin_t_ngo/status/2116423724379656329) — @kevin_t_ngo — A diagram of one animal cell's life drawn in JavaScript with @poteto's /statechart skill, open source, made with Claude Opus 5.5.
 - [Inside an AI data center](https://x.com/konstantinsaifo/status/2116454417385832884) — @konstantinsaifo — A live view inside an AI data center (15 people, 10,368 GPUs and cooling water), built by Claude Opus 5.5.
 - [Project Suncatcher explainer](https://x.com/devteamdrew/status/2116481641820418283) — @devteamdrew — A short visualization of Project Suncatcher (AI compute in orbit), made with Claude Opus 5.5.
+- [Interactive home-electricity lessons](https://x.com/misat0x/status/2116555241802105072) — @misat0x — An app with interactive lessons that take you from tracing a circuit to overloads, short circuits and why breakers trip, made with Opus 5.5.
 
 ### History & culture
 
@@ -630,6 +634,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Off the Page](https://x.com/Charlotteqozf/status/2116000708323684677) — @Charlotteqozf — *Off the Page*, a short about a little one who only knew a field guide heading out to sea, made by Claude Opus 5.5 (Japanese).
 - [Claude vs Anthropic remake skit](https://x.com/HarshithLucky3/status/2116152105283338393) — @HarshithLucky3 — A skit about Claude learning from indie-dev remakes and being barred from remaking their games, created by Opus 5.5.
 - [First horror video (Darkwoods + Opus)](https://x.com/Nekt_0/status/2116512880724234689) — @Nekt_0 — A first horror video made with a few prompts, @darkwoodslabs and Claude Opus 5.5.
+- [28-second Halloween HTML film](https://x.com/AIronAgent/status/2116630297005457517) — @AIronAgent — A 28-second Halloween film as one HTML/three.js file with sound (no video model, no editor), made with Claude Opus 5.5.
+- [80 MB film, 0.8 MB HTML world](https://x.com/halfofthemwork/status/2116869601414045927) — @halfofthemwork — An 80 MB film whose world is a 0.8 MB HTML file (storm, sea, village and what's underneath), one prompt to Claude Opus 5.5, no 3D models or textures.
 
 ### Claude on itself
 
@@ -703,6 +709,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Sky in the Puddle (Jazzy House)](https://x.com/Charlotteqozf/status/2116068631092326813) — @Charlotteqozf — *Sky in the Puddle*: Jazzy House music and Python visuals both made with Claude Opus 5.5 (Japanese).
 - [Live guitar tone by Opus](https://x.com/aj_dev_smith/status/2115977934666391951) — @aj_dev_smith — A slower Cliffs of Dover practice take where Claude Opus 5.5 made the guitar tone live (tone switch at 44s).
 - [MIDI & synth track, all Opus](https://x.com/jakemclain_/status/2116365872050905407) — @jakemclain_ — A track where Opus 5.5 made the MIDI and synth patches, picked instruments, generated risers/crashes and balanced the mix, with light human steering.
+- [No Refunds Halloween reggae MV](https://x.com/zion_skank/status/2116636326930051126) — @zion_skank — Halloween horror slopcore reggae music video *No Refunds* (dead arcade / haunted claw machine), Claude Opus 5.5 version.
 
 ### Games & gameplay
 
@@ -863,6 +870,10 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Destiny 2 into Roblox](https://x.com/0npam/status/2116528433941639347) — @0npam — Destiny 2 imported into Roblox with Opus 5.5 in about 8 hours (feat. @milito_fraire stair glitching).
 - [iOS game 3D animation update](https://x.com/ashen_one/status/2116484935318196476) — @ashen_one — An iOS game update with enhanced 3D animation via new vid2rig (running, hacking, mining, walking) and iPhone Duo support, driven by Opus 5.5.
 - [UFO cow-abduction field](https://x.com/SanndyCreationz/status/2116512081847746813) — @SanndyCreationz — An interactive web experience where you fly a UFO across a field and abduct cows and sheep, made with Claude Opus 5.5 (images GPT 2.5).
+- [3D pixel boxing game](https://x.com/N1njaCodex/status/2116850100068553136) — @N1njaCodex — A 3D pixel boxing game in the browser (two fighters, referee, packed stands, live stats, multi-camera), built by Claude Opus 5.5 (~$24.89).
+- [Aurochs weekend game jam](https://x.com/BiskeyGames/status/2116607756853485664) — @BiskeyGames — Weekend game jam result *Aurochs* (Gundam Wing + Golden Sun–inspired combat), made with Claude Opus 5.5.
+- [Pawloween multiplayer dog town](https://x.com/yuxuan_o_o/status/2116664217323671820) — @yuxuan_o_o — Real-time multiplayer Halloween dog town where every dog/house/pumpkin is three.js geometry made with Claude Opus 5.5 (Fable 5.1 for the site shell).
+- [Zig custom-engine city blocks](https://x.com/matt503ea5sf9z5/status/2116766863631774206) — @matt503ea5sf9z5 — City/street geometry for a custom Zig game engine built by Opus 5.5 without Blender (Terra used for buildings).
 
 ### Real-time 3D, WebGL & shaders
 
@@ -984,6 +995,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Chip fab on real Claude Code data](https://x.com/anxuanng/status/2116466573846438062) — @anxuanng — An improved chip-fab visualization that replays 30 days of Claude Code (2,656 sessions, 86,131 tool calls, 27B tokens) as wafer lots, built by Opus 5.5 with viz3d.
 - [Oil rig in a storm + Godzilla](https://x.com/Guronnimo/status/2116503955119255977) — @Guronnimo — A tiny oil rig in a storm, then Godzilla, made with Opus 5.5 + @threejs.
 - [City layer by layer in three.js](https://x.com/anxuanng/status/2116520967682068524) — @anxuanng — A whole city built layer by layer in three.js, from flat blocks to the final shot, by Opus 5.5.
+- [Three.js path tracing + Blender assets](https://x.com/diegocabezas01/status/2116881190556778845) — @diegocabezas01 — A real-time piece using Opus 5.5 High with Three.js path tracing and Blender assets.
+- [Meshed-texture art-direction demo](https://x.com/javpixel_art/status/2116623318153355393) — @javpixel_art — A three.js WIP dressed with ~100 custom meshed textures for art direction, made with Opus 5.5 + Astra (no Blender / no 3D assets), ~60 fps.
+- [Knitted island in three.js](https://x.com/krisyangdev/status/2116887799274299512) — @krisyangdev — Pull the thread and a whole island knits itself; every stitch is generated in code with no image textures, made with Claude Opus 5.5 + three.js.
 
 ### Blender & 3D modelling
 
@@ -1031,6 +1045,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Low-poly vehicles → STUPID CITY](https://x.com/demonegoo/status/2116147513145344269) — @demonegoo — AI-generated low-poly vehicle images turned into drivable Blender 3D models by Opus 5.5 for the open-world game *STUPID CITY*.
 - [Halloween pumpkin carved in Blender](https://x.com/MrTacticalX/status/2116471578812952836) — @MrTacticalX — A pumpkin built and carved in Blender for Halloween by Claude Opus 5.5 (no hands, just a knife; ~6h 7m, $93.18).
 - [Meebits famous movie scene (Blender)](https://x.com/sergitosergito/status/2116517058795958436) — @sergitosergito — A famous movie scene recreated overnight with 20k Larva Labs Meebits via Opus 5.5 and Blender.
+- [Robotic dragonfly in flight](https://x.com/averix_official/status/2116880857893838998) — @averix_official — A robotic dragonfly built with Claude Opus 5.5 after iterative glow/wing fixes until it matched the reference and flew.
+- [Mechanical owl, 8,181 parts](https://x.com/MrTacticalX/status/2116891761133933015) — @MrTacticalX — A mechanical owl in Blender with lens eyes, iris blades, a clockwork heart and 298 feather blades, built by Claude Opus 5.5 High + 5 sub-agents (~12h, $310.43).
+- [Fighting mechanical scorpions](https://x.com/sp3cterww/status/2116867442655814046) — @sp3cterww — Two mechanical scorpions (~2,500 parts) built from ~1,160 lines of Blender Python by Claude Opus 5.5, made to fight then taken apart piece by piece.
 
 ### Ads & launch films
 
@@ -1343,6 +1360,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Haunted mansion: Claude vs ChatGPT](https://x.com/HavisT83099/status/2116523683799785538) — @HavisT83099 — Same Halloween haunted Victorian mansion in Three.js: Claude vs ChatGPT.
 - [Mechanical watch: Carbon vs Opus (r2)](https://x.com/dromexa/status/2116518366919667775) — @dromexa — Same one-shot mechanical watch you can X-ray/cut/explode: Gemini 4 Carbon vs Opus 5.5 (round 2 after a motorcycle).
 - [Engine: Sol vs Opus](https://x.com/m1lad_az/status/2116404241552036331) — @m1lad_az — Same prompt engine: GPT-6.1 Sol ($0.97) vs Opus 5.5 ($13.71).
+- [Volcano island: Opus vs Astra](https://x.com/MrTacticalX/status/2116835082547740994) — @MrTacticalX — Same-prompt volcano island in Blender from code only: Claude Opus 5.5 (2h42, $41.52) vs GPT-6 Astra (48m, $17.50), both High.
+- [Japanese autumn temple: Claude vs ChatGPT](https://x.com/HavisT83099/status/2116644569697730852) — @HavisT83099 — Same prompt: an ancient mountain temple at sunset in Three.js (pagoda, torii, lanterns, maples, waterfall); Claude vs ChatGPT.
+- [GTA-style drive: Opus vs 3 others](https://x.com/Lummox_eth/status/2116839735402299544) — @Lummox_eth — Same-prompt GTA-style driving scene with a black sports car across four models; Opus 5.5 drove neon streets while three others missed the city.
 
 ## Notable X / HN showcases
 
