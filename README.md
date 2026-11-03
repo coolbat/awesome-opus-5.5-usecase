@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 942 entries (last updated 2026-11-02).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 961 entries (last updated 2026-11-03).
 
 ### Motion design & code-drawn animation
 
@@ -453,6 +453,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Soviet garages tram HTML short](https://x.com/Bengiyai/status/2117014817571537344) — @Bengiyai — Rusty Soviet garages above fog at dusk, then a cream-and-green tram bursts from a torn sky while bottles, newspapers and a rotary phone fly out; one HTML file with Opus 5.5.
 - [Ocean pixel-style JS animation](https://x.com/pradeepXkapoor/status/2116993969066586238) — @pradeepXkapoor — An ocean exploration short in pure JavaScript pixel style, made with Claude Opus 5.5.
 - [Black Friday kinetic type (Forge)](https://x.com/creativedash/status/2117238848690454762) — @creativedash — A Black Friday Sale kinetic-type motion piece where most variants were one-shotted with Opus 5.5 + Forge against one hand-made control.
+
+- [Opus 5.5 motion piece (feedback ask)](https://x.com/0x45o/status/2117549847910011204) — @0x45o — A motion video the author made with Claude Opus 5.5 and posted asking experienced video creators what is still missing.
+- [Hindi-dubbed AI shorts (Sarvam)](https://x.com/kunal_twts/status/2117511647174807964) — @kunal_twts — Shorts created mostly with Claude Opus 5.5 and dubbed in Hindi with Sarvam AI, with the original English cut linked below.
 
 ### Explainers & education
 
@@ -642,6 +645,10 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [28-second Halloween HTML film](https://x.com/AIronAgent/status/2116630297005457517) — @AIronAgent — A 28-second Halloween film as one HTML/three.js file with sound (no video model, no editor), made with Claude Opus 5.5.
 - [80 MB film, 0.8 MB HTML world](https://x.com/halfofthemwork/status/2116869601414045927) — @halfofthemwork — An 80 MB film whose world is a 0.8 MB HTML file (storm, sea, village and what's underneath), one prompt to Claude Opus 5.5, no 3D models or textures.
 
+- [Midjourney + Opus short](https://x.com/gizakdag/status/2117604816491085982) — @gizakdag — A short created with Midjourney and Claude Opus 5.5.
+- [Breath of Light / 光の吐息](https://x.com/Charlotteqozf/status/2117552130689245396) — @Charlotteqozf — *Breath of Light*: a winter Hokkaido film where Opus 5.5 wrote a renderer from scratch (no Blender) for visuals, sound and code (Japanese).
+- [ONE THOUGHT (10s neuron)](https://x.com/Charlotteqozf/status/2117505122905575589) — @Charlotteqozf — *ONE THOUGHT*: a 10-second piece on the whole history of a universe as one spark in a neuron; visuals, sound and code from scratch by Claude Opus 5.5 (Japanese).
+
 ### Claude on itself
 
 - ["What do you love?" animated short](https://x.com/kevin_t_ngo/status/2102437977435893771) — @kevin_t_ngo — A short animation, every frame drawn in JavaScript by Opus 5.5, about a girl who sends Claude a question instead of a request.
@@ -716,6 +723,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [MIDI & synth track, all Opus](https://x.com/jakemclain_/status/2116365872050905407) — @jakemclain_ — A track where Opus 5.5 made the MIDI and synth patches, picked instruments, generated risers/crashes and balanced the mix, with light human steering.
 - [No Refunds Halloween reggae MV](https://x.com/zion_skank/status/2116636326930051126) — @zion_skank — Halloween horror slopcore reggae music video *No Refunds* (dead arcade / haunted claw machine), Claude Opus 5.5 version.
 - [Bass sound-journey MV (Three.js + HyperFrames)](https://x.com/akiyoshisan/status/2117077271823691935) — @akiyoshisan — A code-rendered journey through a 3D bass (photo → Three.js) synced to a Suno MCP cover, directed by Claude Code with Opus 5.5 and exported via HyperFrames (Japanese).
+
+- ["FOR YOU" five-movement piece](https://x.com/aug5thmusic/status/2117612012314439957) — @aug5thmusic — *FOR YOU*, about 5½ minutes in five movements: Opus 5.5 created the music and visuals and wrote a program note on its feelings for humanity.
 
 ### Games & gameplay
 
@@ -888,6 +897,11 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Marble Dash 3D (Remix)](https://x.com/izanagi_eth/status/2117014775070904351) — @izanagi_eth — MARBLE DASH 3D, a physics marble racer on Remix from one Claude Opus 5.5 prompt in about 30 minutes.
 - [ASMR Ninja glass fruit-slicer](https://x.com/opdgame/status/2117092484086149519) — @opdgame — ASMR Ninja, a glass fruit-slicing game in three.js where Opus 5.5 crafted the 3D assets.
 
+- [Horror level in 4 days (Godot)](https://x.com/rewind02/status/2117586491350135052) — @rewind02 — A Silent Hill / Fatal Frame–inspired horror level built in about four days with Claude Opus 5.5 and Godot (Pinterest refs → assets → conversation workflow).
+- [Two-headed dragon (Tripo → Unreal)](https://x.com/xikhar/status/2117499734059561376) — @xikhar — Opus 5.5 rigged and animated a custom two-headed dragon (Tripo model), then dropped it into an Unreal Engine world for a combat demo.
+- [Moon Knight playable game](https://x.com/sai0xgen/status/2117487325337010219) — @sai0xgen — A playable Moon Knight game with three personalities, built with Claude Opus 5.5 on a $20 Claude sub (~20% weekly usage).
+- [Flying quest game refresh](https://x.com/aniketjart/status/2117508141076378029) — @aniketjart — A flying quest game first made for a Gemini hackathon, refreshed with Claude Opus 5.5 and Crayon, with a play link.
+
 ### Real-time 3D, WebGL & shaders
 
 - [Sketch-to-simulation](https://x.com/poolio/status/2102445641205248145) — @poolio — A sketch-to-simulation demo in which Opus 5.5 turns hand drawings into a running simulation.
@@ -1014,6 +1028,12 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [BILLION meshlets (~2B tris @ 60fps)](https://x.com/sara_kumodeck/status/2117062532439671028) — @sara_kumodeck — BILLION: ~1.97 billion triangles at 60 fps in-browser via three.js r187 MeshletDrawingPipeline, made with Opus 5.5.
 - [Koiyama sake scroll landing](https://x.com/DaraTo7/status/2117075909115084862) — @DaraTo7 — A landing page where silver particle koi swim then re-form as a sake bottle and cup on scroll (Three.js + GSAP), built with Opus 5.5 in Claude Code.
 - [create-canvas skill tool demos](https://x.com/Ibelick/status/2117253033515995232) — @Ibelick — Custom visual-tool demos built with Opus 5.5 using a “create-canvas” skill for rapid UI/direction experiments.
+
+- [Live car plant (NVIDIA SimReady)](https://x.com/konstantinsaifo/status/2117523739222982867) — @konstantinsaifo — A live car plant built by Claude Opus 5.5 from NVIDIA's free SimReady models.
+- [Floating ring building over snow peaks](https://x.com/LexnLin/status/2117230395406364857) — @LexnLin — A cinematic three.js scene of a floating ring building above snow peaks and cloud seas, built by Claude Opus 5.5 (sound on).
+- [Tiny Rome on a jelly slice](https://x.com/N1njaCodex/status/2117574369987719372) — @N1njaCodex — A tiny Rome on a slice of jelly (Colosseum, terracotta rooftops, courtyards, umbrella pines) you can zoom and wobble; Claude Opus 5.5 (~$17.77).
+- [Plateau drive to a snow dome](https://x.com/itsfazley/status/2117485631312216407) — @itsfazley — A slow three.js drive across a high plateau toward a snow dome under its cap cloud; mountains, clouds, road, traffic and sound all generated in code (day → golden hour → night).
+- [Lantern Lane haunted garden](https://x.com/DaraTo7/status/2117498526057873513) — @DaraTo7 — Lantern Lane, a scroll-driven three.js haunted garden where things in the dark react when your lantern finds them, built with Opus 5.5 in Claude Code.
 
 ### Blender & 3D modelling
 
@@ -1160,6 +1180,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 
 
 - [Croatian-shop advent calendar product](https://x.com/CodeWithTamara/status/2116126058579681374) — @CodeWithTamara — An advent calendar + analytics dashboard (and the pitch video) built overnight with Opus 5.5 for medium-size Croatian shops.
+
+- [Higgsfield + Opus launch clip](https://x.com/iamtanzil_/status/2117478290739126557) — @iamtanzil_ — A launch clip built with Higgsfield and Claude Opus 5.5, with a live product link.
 
 ### Comparisons & video-model pipelines
 
@@ -1383,6 +1405,10 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [GTA-style drive: Opus vs 3 others](https://x.com/Lummox_eth/status/2116839735402299544) — @Lummox_eth — Same-prompt GTA-style driving scene with a black sports car across four models; Opus 5.5 drove neon streets while three others missed the city.
 - [Flappy Bird 2026: Opus vs Astra vs Kimi](https://x.com/zodchiii/status/2117251130929643942) — @zodchiii — Same prompt to recreate Flappy Bird as a 2026 single-HTML game for Claude Opus 5.5, GPT-6 Astra and Kimi K3.1 Pro.
 - [Coral reef: Claude vs ChatGPT](https://x.com/HavisT83099/status/2117037214932533271) — @HavisT83099 — Same prompt: a tropical coral reef in Three.js (corals, turtle, school of fish, jellyfish, manta); Claude vs ChatGPT.
+
+- [Nokia 3310 2026: Opus vs Argon vs Terra](https://x.com/AIMind_Ai/status/2117595286109315107) — @AIMind_Ai — Same prompt to recreate the Nokia 3310 as if made in 2026: Claude Opus 5.5, Gemini 4 Argon and GPT-6.1 Terra (one refused to copy and built its own phone).
+- [C-section: Opus 5.5 vs GPT-6 Astra](https://x.com/PrecyartG/status/2117495723792945536) — @PrecyartG — Same C-section medical animation: Claude Opus 5.5 vs GPT-6 Astra.
+- [Dragon on gold: Claude vs ChatGPT](https://x.com/HavisT83099/status/2117603169781866833) — @HavisT83099 — Same prompt: a huge dragon sleeping on a mountain of treasure in a cave in Three.js (breathing chest, embers, glowing eye); Claude vs ChatGPT.
 
 ## Notable X / HN showcases
 
