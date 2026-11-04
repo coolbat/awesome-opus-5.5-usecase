@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 961 entries (last updated 2026-11-03).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 983 entries (last updated 2026-11-04).
 
 ### Motion design & code-drawn animation
 
@@ -456,6 +456,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 
 - [Opus 5.5 motion piece (feedback ask)](https://x.com/0x45o/status/2117549847910011204) — @0x45o — A motion video the author made with Claude Opus 5.5 and posted asking experienced video creators what is still missing.
 - [Hindi-dubbed AI shorts (Sarvam)](https://x.com/kunal_twts/status/2117511647174807964) — @kunal_twts — Shorts created mostly with Claude Opus 5.5 and dubbed in Hindi with Sarvam AI, with the original English cut linked below.
+- [Atmospheric pixel art in HTML](https://x.com/zer0point_eth/status/2117946416286863443) — @zer0point_eth — Atmospheric pixel-art scenes coded directly in HTML by Claude Opus 5.5, without a game engine or static image generators.
 
 ### Explainers & education
 
@@ -548,6 +549,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Project Suncatcher explainer](https://x.com/devteamdrew/status/2116481641820418283) — @devteamdrew — A short visualization of Project Suncatcher (AI compute in orbit), made with Claude Opus 5.5.
 - [Interactive home-electricity lessons](https://x.com/misat0x/status/2116555241802105072) — @misat0x — An app with interactive lessons that take you from tracing a circuit to overloads, short circuits and why breakers trip, made with Opus 5.5.
 - [Diffusion models explained in animation](https://x.com/MichaelSchuier/status/2117030051082314043) — @MichaelSchuier — An explainer animation of how diffusion models generate code, which @MichaelSchuier asked Claude Opus 5.5 to make.
+- [Alignment-problem essay → video](https://x.com/SamuelFitouss10/status/2117887008718680129) — @SamuelFitouss10 — Opus 5.5 turned the author's essay on the AI alignment / extinction-risk case into a long-form video.
 
 ### History & culture
 
@@ -648,6 +650,10 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Midjourney + Opus short](https://x.com/gizakdag/status/2117604816491085982) — @gizakdag — A short created with Midjourney and Claude Opus 5.5.
 - [Breath of Light / 光の吐息](https://x.com/Charlotteqozf/status/2117552130689245396) — @Charlotteqozf — *Breath of Light*: a winter Hokkaido film where Opus 5.5 wrote a renderer from scratch (no Blender) for visuals, sound and code (Japanese).
 - [ONE THOUGHT (10s neuron)](https://x.com/Charlotteqozf/status/2117505122905575589) — @Charlotteqozf — *ONE THOUGHT*: a 10-second piece on the whole history of a universe as one spark in a neuron; visuals, sound and code from scratch by Claude Opus 5.5 (Japanese).
+- [FIFTH (non-Euclidean rooms)](https://x.com/Charlotteqozf/status/2117580663759273988) — @Charlotteqozf — *FIFTH*: a non-Euclidean world of packed cubes where changing how many meet at an edge bends space; visuals and sound coded by Opus 5.5 (Japanese; short cut).
+- [AUBADE (oil painting wakes)](https://x.com/Charlotteqozf/status/2117601562310918278) — @Charlotteqozf — *AUBADE*: a 15-second piece where an oil-painting world wakes, ending as a single brushstroke; made with Opus 5.5 (Japanese).
+- [Last Train of Summer (anime, pure code)](https://x.com/jayypatel18/status/2117680088364016090) — @jayypatel18 — A Shinkai-style anime short (~8,800 lines) where every cloud, star and music note is code—no video model—made with Claude Opus 5.5 in one afternoon.
+- [Reference-video remake (story + edit)](https://x.com/ugogofx/status/2117951332447359380) — @ugogofx — Sent Opus 5.5 a favorite reference clip; it analyzed the style, rewrote a new story and edited a finished piece (French).
 
 ### Claude on itself
 
@@ -725,6 +731,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Bass sound-journey MV (Three.js + HyperFrames)](https://x.com/akiyoshisan/status/2117077271823691935) — @akiyoshisan — A code-rendered journey through a 3D bass (photo → Three.js) synced to a Suno MCP cover, directed by Claude Code with Opus 5.5 and exported via HyperFrames (Japanese).
 
 - ["FOR YOU" five-movement piece](https://x.com/aug5thmusic/status/2117612012314439957) — @aug5thmusic — *FOR YOU*, about 5½ minutes in five movements: Opus 5.5 created the music and visuals and wrote a program note on its feelings for humanity.
+- [Kasane / 襲 (guitar + glass plates)](https://x.com/Charlotteqozf/status/2117540979007983848) — @Charlotteqozf — *Kasane*: Opus 5.5's guitar track visualized as stacked glass plates (ink / gold foil / line / watercolor) that merge into one picture (Japanese).
 
 ### Games & gameplay
 
@@ -901,6 +908,10 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Two-headed dragon (Tripo → Unreal)](https://x.com/xikhar/status/2117499734059561376) — @xikhar — Opus 5.5 rigged and animated a custom two-headed dragon (Tripo model), then dropped it into an Unreal Engine world for a combat demo.
 - [Moon Knight playable game](https://x.com/sai0xgen/status/2117487325337010219) — @sai0xgen — A playable Moon Knight game with three personalities, built with Claude Opus 5.5 on a $20 Claude sub (~20% weekly usage).
 - [Flying quest game refresh](https://x.com/aniketjart/status/2117508141076378029) — @aniketjart — A flying quest game first made for a Gemini hackathon, refreshed with Claude Opus 5.5 and Crayon, with a play link.
+- [Sumiro — original 3D puzzle game (24h)](https://x.com/xikhar/status/2117776295534997818) — @xikhar — *Sumiro*, a fully original playable 3D puzzle/parkour game built in 24 hours with Opus 5.5 + Flux 3 Max + GPT Image + Tripo + Blender + Three.js.
+- [Farming game in 5 weeks (Unity 6 / Steam)](https://x.com/rewind02/status/2117949982586069461) — @rewind02 — A farming game built over five weeks with Claude Opus 5.5 + Unity 6 (task cards + agents), now with a Steam page.
+- [Roblox aura (~70 min)](https://x.com/JohnKlerAI/status/2117623110010888565) — @JohnKlerAI — A Roblox aura effect Opus 5.5 built in about 70 minutes.
+- [Roblox quick build](https://x.com/JohnKlerAI/status/2117478929946526148) — @JohnKlerAI — A quick Roblox build made with Claude Opus 5.5 (slightly before the search window; missed yesterday).
 
 ### Real-time 3D, WebGL & shaders
 
@@ -1034,6 +1045,10 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Tiny Rome on a jelly slice](https://x.com/N1njaCodex/status/2117574369987719372) — @N1njaCodex — A tiny Rome on a slice of jelly (Colosseum, terracotta rooftops, courtyards, umbrella pines) you can zoom and wobble; Claude Opus 5.5 (~$17.77).
 - [Plateau drive to a snow dome](https://x.com/itsfazley/status/2117485631312216407) — @itsfazley — A slow three.js drive across a high plateau toward a snow dome under its cap cloud; mountains, clouds, road, traffic and sound all generated in code (day → golden hour → night).
 - [Lantern Lane haunted garden](https://x.com/DaraTo7/status/2117498526057873513) — @DaraTo7 — Lantern Lane, a scroll-driven three.js haunted garden where things in the dark react when your lantern finds them, built with Opus 5.5 in Claude Code.
+- [Live fulfilment center (NVIDIA SimReady)](https://x.com/konstantinsaifo/status/2117886718062027230) — @konstantinsaifo — A live warehouse fulfilment center with 22 aisles, pickers, racks and trailers, built by Claude Opus 5.5 from free NVIDIA SimReady models and Airsup.
+- [Photo → full 3D exploded parts (three.js skill)](https://x.com/chesny/status/2117969792946557350) — @chesny — One reference photo in; Opus 5.5 coded a complete exploded-view device (housings, gears, hoses) in three.js as a reusable Claude skill (Spanish).
+- [Interactive 3D robot scorpion from one image](https://x.com/dyfwsammy/status/2117967920491844021) — @dyfwsammy — A fully interactive 3D robot scorpion simulator rebuilt part-by-part in code from a single render, by Claude Opus 5.5.
+- [Kiln KL-7 robot (439 detachable parts)](https://x.com/MyWestLord/status/2117968071155437963) — @MyWestLord — *Kiln KL-7*: a robot with 439 detachable parts (glass shins, piston/spring legs, 512 px face screen) built by Claude Opus 5.5 in one chat.
 
 ### Blender & 3D modelling
 
@@ -1086,6 +1101,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Fighting mechanical scorpions](https://x.com/sp3cterww/status/2116867442655814046) — @sp3cterww — Two mechanical scorpions (~2,500 parts) built from ~1,160 lines of Blender Python by Claude Opus 5.5, made to fight then taken apart piece by piece.
 - [Character model via Blender MCP](https://x.com/imrenagi/status/2117005391129383031) — @imrenagi — A character 3D model built with Opus 5.5 + Blender MCP (Indonesian), with plans to open-source skins for games.
 - [Three.js + Blender scene with music](https://x.com/chetanankola/status/2117069916121817591) — @chetanankola — A Three.js + Blender scene scored with music, made with Claude Opus 5.5.
+- [Blender VFX pass on a clip](https://x.com/CuriousOne_01/status/2117868803879285053) — @CuriousOne_01 — Asked Opus 5.5 to drive Blender and add effects to a video, shown as a before/after.
 
 ### Ads & launch films
 
@@ -1182,6 +1198,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Croatian-shop advent calendar product](https://x.com/CodeWithTamara/status/2116126058579681374) — @CodeWithTamara — An advent calendar + analytics dashboard (and the pitch video) built overnight with Opus 5.5 for medium-size Croatian shops.
 
 - [Higgsfield + Opus launch clip](https://x.com/iamtanzil_/status/2117478290739126557) — @iamtanzil_ — A launch clip built with Higgsfield and Claude Opus 5.5, with a live product link.
+- [Design studio launch film (Figma + Opus)](https://x.com/basit_designs/status/2117933307585499192) — @basit_designs — A launch / studio film cooked with Claude Opus 5.5 (no references; Claude skills + experimentation) alongside Figma/Adobe craft.
+- [Cache Anything launch film (one-shot)](https://x.com/nikhilbhima/status/2117870909159878746) — @nikhilbhima — A one-shot launch film for cacheanything.com made with Claude Opus 5.5.
 
 ### Comparisons & video-model pipelines
 
@@ -1409,6 +1427,10 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Nokia 3310 2026: Opus vs Argon vs Terra](https://x.com/AIMind_Ai/status/2117595286109315107) — @AIMind_Ai — Same prompt to recreate the Nokia 3310 as if made in 2026: Claude Opus 5.5, Gemini 4 Argon and GPT-6.1 Terra (one refused to copy and built its own phone).
 - [C-section: Opus 5.5 vs GPT-6 Astra](https://x.com/PrecyartG/status/2117495723792945536) — @PrecyartG — Same C-section medical animation: Claude Opus 5.5 vs GPT-6 Astra.
 - [Dragon on gold: Claude vs ChatGPT](https://x.com/HavisT83099/status/2117603169781866833) — @HavisT83099 — Same prompt: a huge dragon sleeping on a mountain of treasure in a cave in Three.js (breathing chest, embers, glowing eye); Claude vs ChatGPT.
+- [Sailing-sim frontier race (Argon / Astra / Opus)](https://x.com/shekitup/status/2117740163518595454) — @shekitup — Frontier models race in a sailing sim (state every 5s); Argon won, Astra second, Opus 5.5 timed out short of the mark.
+- [Same-prompt motion: Sonnet 5.5 vs Opus 5.5](https://x.com/Jakartalk/status/2117914542768353747) — @Jakartalk — Two motion videos, same prompt and workflow in Claude: Sonnet 5.5 (free) vs Opus 5.5 (paid), one click each (Indonesian).
+- [Childhood-rug racer: Fable / Opus / Astra](https://x.com/noclipepe/status/2117914944410628430) — @noclipepe — Same childhood-rug racing game test: Fable 5.5 (best graphics/physics), Opus 5.5 (fullest map, LEGO obstacles), GPT-6 Astra.
+- [Same-prompt cinematic: Astra vs Opus](https://x.com/isagi1000x/status/2117900358533996614) — @isagi1000x — Same prompt, two cinematic results: GPT-6 Astra vs Claude Opus 5.5.
 
 ## Notable X / HN showcases
 
