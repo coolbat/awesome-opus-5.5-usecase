@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 997 entries (last updated 2026-11-05).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1006 entries (last updated 2026-11-06).
 
 ### Motion design & code-drawn animation
 
@@ -923,6 +923,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Counter-Strike inside Roblox](https://x.com/0xKense1/status/2117737002598543768) — @0xKense1 — A Counter-Strike-style Roblox FPS; Opus 5.5 built the first playable version from 11 prompts and concept art (missed in yesterday's window).
 - [Playable Unreal apartment in 5 hours](https://x.com/rewind02/status/2118310642440356283) — @rewind02 — A sunny playable Unreal apartment (study, hallway, kitchen) built in about 5 hours with Claude Opus 5.5 + GPT-6 Astra + Tripo, with Opus running the asset pipeline.
 - [Pixel-art F1 on a floating island](https://x.com/nabendu82/status/2118305582549705205) — @nabendu82 — A pixel-art Formula 1 race on a floating island (12 cars, 6 teams, DRS, autopilot) in one Three.js HTML file, about 30 minutes / $6.11 with Opus 5.5.
+- [Sci-fi FPS heading to Gamescom](https://x.com/rewind02/status/2118673287228064010) — @rewind02 — A sci-fi FPS (Tripo for big models; Opus 5.5 for world, guns, procedural terrain/audio, HUD) set to show at Gamescom, built with Claude Opus 5.5 + Tripo + Blender.
+- [32-pixel sprite → 3D remaster hero](https://x.com/bonsaixbt/status/2118372614217277703) — @bonsaixbt — Claude Opus 5.5 redrew a 32-pixel game-jam sprite into an A-pose concept, then meshed/rigged/animated it into a playable 3D remaster hero.
 
 ### Real-time 3D, WebGL & shaders
 
@@ -1063,6 +1065,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 
 - [Big Sur road-trip scene (three.js)](https://x.com/adamhamrozi/status/2117980187313025178) — @adamhamrozi — A three.js scene recreating the author's Big Sur road trip, built with T3 Code + Claude Opus 5.5.
 - [ULTRAMARINE / 群青 (porcelain spheres)](https://x.com/Charlotteqozf/status/2118285648927084659) — @Charlotteqozf — *ULTRAMARINE*: a coded world of two lights and 17,262 porcelain spheres that resolves into a painting from only one viewpoint, made by Opus 5.5 (Japanese).
+- [Wave Runner (three.js + Tripo)](https://x.com/scottstts/status/2118041539180130607) — @scottstts — *Wave Runner*, a three.js watercraft demo made with Opus 5.5 and Tripo (slightly before the search window; missed yesterday).
 
 ### Blender & 3D modelling
 
@@ -1120,6 +1123,12 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [4K tileable photoreal forest floor](https://x.com/mukadeshinigami/status/2118234597049700601) — @mukadeshinigami — A 4K photoreal tileable forest-floor material (soil, moss, grass, leaves, twigs) blended from 4 PBR sets with Claude Opus 5.5 + Blender.
 - [Blender slime & character models](https://x.com/ArtwlDesign/status/2118328861402538343) — @ArtwlDesign — Character and slime modelling experiments in Blender driven by Opus 5.5 (Tripo/Astra for character polish) (Japanese).
 - [Drifthide snow predator (Blender)](https://x.com/theparuchh/status/2118325420583956571) — @theparuchh — *Drifthide*: a 4.5 m snow predator (137 parts, 26 bones, 11 animations) built with Claude Opus 5.5 in Blender for about $1.30.
+- [Blender train-station neighbourhood](https://x.com/arafune/status/2118582485412131107) — @arafune — A Blender train-station / neighbourhood scene mostly modelled by Claude Opus 5.5 (Tripo ~5%, procedural shaders, HunyuanVideo-Foley sound), with a making-of (Japanese).
+- [Ready-to-use Tripo + Blender character](https://x.com/sorenxet/status/2118357592946757797) — @sorenxet — A game-ready 3D character: Tripo for mesh/rig, Claude Opus 5.5 + Blender MCP for bone/weight/texture QA and a fixed-camera review scene.
+- [Glass robot octopus (Blender)](https://x.com/averix_official/status/2118119342910972332) — @averix_official — A robot octopus with a glass mantle and glowing coil core that opens, explodes to parts, and reassembles, built by Claude Opus 5.5.
+- [Robot cobra (34 segments)](https://x.com/averix_official/status/2118663468966441261) — @averix_official — A robot cobra with 34 white segments, emerald diamonds and 68 wheels that rises, opens its hood and strikes, made by Claude Opus 5.5.
+- [Eagle with zoom-lens skull](https://x.com/averix_official/status/2118438787227484294) — @averix_official — A robotic eagle whose skull hides a telescoping zoom lens and lock reticle, with tear-apart wings, built by Claude Opus 5.5.
+- [Robot lobster escape reflex](https://x.com/averix_official/status/2117668122941378614) — @averix_official — A blue robot lobster (239 shell pieces) with working tail-flip escape reflex, crusher snap and fan spread, built by Claude Opus 5.5 from one reference.
 
 ### Ads & launch films
 
