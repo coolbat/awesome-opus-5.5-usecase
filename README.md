@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1006 entries (last updated 2026-11-06).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1018 entries (last updated 2026-11-07).
 
 ### Motion design & code-drawn animation
 
@@ -926,6 +926,11 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Sci-fi FPS heading to Gamescom](https://x.com/rewind02/status/2118673287228064010) — @rewind02 — A sci-fi FPS (Tripo for big models; Opus 5.5 for world, guns, procedural terrain/audio, HUD) set to show at Gamescom, built with Claude Opus 5.5 + Tripo + Blender.
 - [32-pixel sprite → 3D remaster hero](https://x.com/bonsaixbt/status/2118372614217277703) — @bonsaixbt — Claude Opus 5.5 redrew a 32-pixel game-jam sprite into an A-pose concept, then meshed/rigged/animated it into a playable 3D remaster hero.
 
+- [Warring-states samurai action (UE5)](https://x.com/rewind02/status/2118722284328190248) — @rewind02 — A warring-states samurai-action game in Unreal Engine 5: Tripo for characters/props, Claude Opus 5.5 building the world.
+- [Own Zelda-style game in <24h](https://x.com/0xKense1/status/2118815935582863486) — @0xKense1 — An original game built in under 24 hours (8 slept) with Claude Opus 5.5 + Tripo + Blender + Unity.
+- [Dyson City third-person view](https://x.com/scottstts/status/2118808789684199667) — @scottstts — Third-person view added to *Dyson City* (toggle with `V`, helmet with `H`); Tripo for the character, Opus 5.5 for animation fitting and integration.
+
+
 ### Real-time 3D, WebGL & shaders
 
 - [Sketch-to-simulation](https://x.com/poolio/status/2102445641205248145) — @poolio — A sketch-to-simulation demo in which Opus 5.5 turns hand drawings into a running simulation.
@@ -1067,6 +1072,13 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [ULTRAMARINE / 群青 (porcelain spheres)](https://x.com/Charlotteqozf/status/2118285648927084659) — @Charlotteqozf — *ULTRAMARINE*: a coded world of two lights and 17,262 porcelain spheres that resolves into a painting from only one viewpoint, made by Opus 5.5 (Japanese).
 - [Wave Runner (three.js + Tripo)](https://x.com/scottstts/status/2118041539180130607) — @scottstts — *Wave Runner*, a three.js watercraft demo made with Opus 5.5 and Tripo (slightly before the search window; missed yesterday).
 
+- [DIY optical illusion box (three.js)](https://x.com/ann_nnng/status/2119042707943494127) — @ann_nnng — A DIY optical-illusion box guided and built with Claude Opus 5.5 in three.js.
+- [Hooded lantern character from code](https://x.com/itsmeloox/status/2118790521602953715) — @itsmeloox — A hooded, torn-cloak character with gold trim and a lighting lantern, all shapes coded in-browser by Claude Opus 5.5 (no Blender/Tripo).
+- [Robot crab, 2,856 parts](https://x.com/N1njaCodex/status/2119028142954230263) — @N1njaCodex — A sideways-walking robot crab with 2,856 moving parts (gears, gills, mechanical heart) generated in code by Claude Opus 5.5 (~$38.65).
+- [3 m planted aquarium (WebGPU)](https://x.com/maxlibin/status/2119038760268771802) — @maxlibin — v1 of a 3 m planted aquarium in a living room running live in the browser with three.js (WebGPU), Blender and Claude Opus 5.5.
+- [IRIAI — Fuji dusk coded world](https://x.com/Charlotteqozf/status/2118855898584289321) — @Charlotteqozf — *IRIAI*: a coded Mt Fuji dusk scene (red cap/hanging clouds, a heron heading home) made by Claude Opus 5.5 (Japanese).
+
+
 ### Blender & 3D modelling
 
 - [5,112-object Shinkansen in Blender](https://x.com/higgsfield_ai/status/2102507018372436264) — @higgsfield_ai — A Blender Shinkansen model with 5,112 separate objects down to all 430 seats, built by Opus 5.5 with Higgsfield.
@@ -1129,6 +1141,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Robot cobra (34 segments)](https://x.com/averix_official/status/2118663468966441261) — @averix_official — A robot cobra with 34 white segments, emerald diamonds and 68 wheels that rises, opens its hood and strikes, made by Claude Opus 5.5.
 - [Eagle with zoom-lens skull](https://x.com/averix_official/status/2118438787227484294) — @averix_official — A robotic eagle whose skull hides a telescoping zoom lens and lock reticle, with tear-apart wings, built by Claude Opus 5.5.
 - [Robot lobster escape reflex](https://x.com/averix_official/status/2117668122941378614) — @averix_official — A blue robot lobster (239 shell pieces) with working tail-flip escape reflex, crusher snap and fan spread, built by Claude Opus 5.5 from one reference.
+
+- [Reusable Blender mannequin base](https://x.com/rewind02/status/2119035947211685947) — @rewind02 — A reusable base character in Blender (panel-lined mannequin, dark joint bands, rigged walk) built with Claude Opus 5.5 via Blender MCP from front/side/back refs.
+
 
 ### Ads & launch films
 
@@ -1227,6 +1242,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Higgsfield + Opus launch clip](https://x.com/iamtanzil_/status/2117478290739126557) — @iamtanzil_ — A launch clip built with Higgsfield and Claude Opus 5.5, with a live product link.
 - [Design studio launch film (Figma + Opus)](https://x.com/basit_designs/status/2117933307585499192) — @basit_designs — A launch / studio film cooked with Claude Opus 5.5 (no references; Claude skills + experimentation) alongside Figma/Adobe craft.
 - [Cache Anything launch film (one-shot)](https://x.com/nikhilbhima/status/2117870909159878746) — @nikhilbhima — A one-shot launch film for cacheanything.com made with Claude Opus 5.5.
+
+- [Remotion before/after edit (local)](https://x.com/0xReso/status/2118688451000401988) — @0xReso — A before/after video edit made locally with Claude Opus 5.5 (medium) + Remotion + ffmpeg + Whisper, no Premiere/After Effects.
+
 
 ### Comparisons & video-model pipelines
 
@@ -1461,6 +1479,10 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 
 - [Steam locomotive: Opus / Astra / Kimi / Blender MCP](https://x.com/Marlenuii/status/2118294863519113631) — @Marlenuii — Same steam-locomotive brief in Blender across Claude Opus 5.5, GPT Astra, Kimi and Blender MCP.
 - [D-Day Omaha Beach: Opus 5.5 vs Sonnet 5.5](https://x.com/GoooSAI/status/2117934895301345758) — @GoooSAI — Same cinematic D-Day / Omaha Beach recreation comparing Claude Opus 5.5 and Sonnet 5.5 with token costs.
+
+- [Cat chef pancake: Opus / Astra / Argon](https://x.com/HavisT83099/status/2118697759473578484) — @HavisT83099 — Same prompt, a cat chef flipping a pancake too hard: Claude Opus 5.5 vs GPT-6 Astra vs Gemini 4 Argon (cost/time noted).
+- [Frog tongue swing: Opus / Astra / Argon](https://x.com/HavisT83099/status/2118836194222264826) — @HavisT83099 — Same prompt, a frog that misses the fly and swings off a reed on its tongue: Claude Opus 5.5 vs GPT-6 Astra vs Gemini 4 Argon.
+
 
 ## Notable X / HN showcases
 
