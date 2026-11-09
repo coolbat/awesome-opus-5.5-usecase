@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1031 entries (last updated 2026-11-08).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1043 entries (last updated 2026-11-09).
 
 ### Motion design & code-drawn animation
 
@@ -464,6 +464,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Addictive motion graphics](https://x.com/nono_ai_archive/status/2119361788810875016) — @nono_ai_archive — Addictive motion graphics made with Claude Opus 5.5 (Korean; sound on).
 - [An inconvenient leap of faith](https://x.com/devteamdrew/status/2119100405892190657) — @devteamdrew — A wireframe diver animation: Claude Opus 5.5 built a simple wireframe, rigged the diver's body, and animated a leap of faith.
 
+- [Paper-texture animation (code motion)](https://x.com/kevin_t_ngo/status/2119436039488156158) — @kevin_t_ngo — An animation where Claude Opus 5.5 wrote all the motion in code; paintings and paper textures came from GPT Image 2.6 via fal.
 ### Explainers & education
 
 - [Interactive camera-focus lens lab](https://x.com/RyanSael/status/2102591147927654847) — @RyanSael — An interactive lens lab explaining camera focus, one-shot by Opus 5.5 in 1 h 26 min for about $25.66 of API cost.
@@ -940,6 +941,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Cozy fantasy kingdom](https://x.com/rewind02/status/2119398119209107493) — @rewind02 — A cozy fantasy kingdom game with a walled town of animal villagers and 9 rideable mounts, built with Opus 5.5 + Tripo + Blender + Unreal.
 - [Roblox Top Gun town (16k parts)](https://x.com/0xKense1/status/2119166588142461207) — @0xKense1 — A Roblox game the author likens to *Top Gun: Maverick* / War Thunder: a 16k-part town where Claude placed every piece, and Opus 5.5 built the houses, boats and planes in Blender from code in less than a day.
 
+- [Cozy fishing game (Unity 6)](https://x.com/neviannn/status/2119538130470457833) — @neviannn — A cozy fishing game built solo with Claude Opus 5.5 + Blender + Tripo + Unity 6: Tripo for models, Opus for Blender setup/animation, Unity for the world and systems.
+- [Zelda-like forest + 28 m titan boss](https://x.com/0xKense1/status/2119547082549744043) — @0xKense1 — A Zelda-like forest game (day 1 concept → day 2 playable → night v2 with a 28 m titan boss; ~11.7k lines of C#/shaders) built with Unity + Claude Code (Opus 5.5) + Tripo + Blender.
+
 ### Real-time 3D, WebGL & shaders
 
 - [Sketch-to-simulation](https://x.com/poolio/status/2102445641205248145) — @poolio — A sketch-to-simulation demo in which Opus 5.5 turns hand drawings into a running simulation.
@@ -1092,6 +1096,13 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Flying-koi Japanese garden (~15,000 voxels)](https://x.com/vib3coded/status/2119146343344070827) — @vib3coded — A tiny Japanese garden on the back of a flying koi (cherry blossoms, a torii gate, a pond overflowing into the clouds) in one Three.js HTML file of about 15,000 voxels, made with Claude Opus 5.5.
 - [Car-line bottleneck (NVIDIA SimReady)](https://x.com/konstantinsaifo/status/2119268851015905627) — @konstantinsaifo — A car assembly line Claude Opus 5.5 built from NVIDIA's free SimReady models, with a guess-the-bottleneck-before-it-runs demo.
 - [House-building robot (1,315 parts)](https://x.com/konstantinsaifo/status/2119123557305524297) — @konstantinsaifo — A house-building robot designed from scratch by Claude Opus 5.5 using Airsup, with 1,315 parts.
+
+- [Unique pure-code scene (20 min / $7.61)](https://x.com/vib3coded/status/2119542001775628299) — @vib3coded — A pure-code scene Claude Opus 5.5 made in about 20 minutes for $7.61 with no coding experience claimed by the author.
+- [Interactive apartment tutorial set (three.js)](https://x.com/MengTo/status/2119746949121495303) — @MengTo — Meng To's apartment turned into a walkable three.js scene for tutorial recording, with lighting and render-style controls; every object coded with Opus 5.5's scoring system.
+- [Xbox 360 controller film (three.js)](https://x.com/chetaslua/status/2119522734598471987) — @chetaslua — A short Xbox 360 controller film made with Claude Opus 5.5 and three.js (no external assets).
+- [Donkey character from one image (all code)](https://x.com/IceKodiaq/status/2119517808815968669) — @IceKodiaq — A donkey cut out, meshed, clay-sculpted, given 21 bones and animated (blink, ears, tail, bell) entirely in code by Claude Opus 5.5 from one image.
+- [Giga Press you can run (Airsup)](https://x.com/konstantinsaifo/status/2119454122437181717) — @konstantinsaifo — A runnable 9,000-ton Giga Press (die fills in 0.12 s; 70 parts become one) that Claude Opus 5.5 built with Airsup.
+- [Mechanical nautilus (2,170 parts)](https://x.com/vib3coded/status/2119748934809567640) — @vib3coded — A mechanical nautilus with 2,170 parts, 196 moving assemblies, animated internals and an exploded view, all geometry in code by Claude Opus 5.5 in 35 minutes for $17.55.
 
 ### Blender & 3D modelling
 
@@ -1500,6 +1511,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 
 - [Cat chef pancake: Opus / Astra / Argon](https://x.com/HavisT83099/status/2118697759473578484) — @HavisT83099 — Same prompt, a cat chef flipping a pancake too hard: Claude Opus 5.5 vs GPT-6 Astra vs Gemini 4 Argon (cost/time noted).
 - [Frog tongue swing: Opus / Astra / Argon](https://x.com/HavisT83099/status/2118836194222264826) — @HavisT83099 — Same prompt, a frog that misses the fly and swings off a reed on its tongue: Claude Opus 5.5 vs GPT-6 Astra vs Gemini 4 Argon.
+- [Pixel 2v2 beach volleyball: Fable 5.1 vs Opus 5.5](https://x.com/vib3coded/status/2119464800661000542) — @vib3coded — Same pixel-style 2v2 beach volleyball task: Fable 5.1 ($28.84) vs Claude Opus 5.5 ($13.36).
+- [Red supercar neon street: Opus vs Veo vs Kling vs Grok](https://x.com/m4lkxx/status/2119463879965081705) — @m4lkxx — Same prompt of a red supercar rolling out of a dark neon street: Opus 5.5 vs Veo 3.1 vs Kling 3.0 Pro vs Grok Imagine (cost/time noted).
+- [Three.js scene: Opus 5.5 vs GPT-6 Astra](https://x.com/EnvolDev/status/2119527377109672111) — @EnvolDev — Same Three.js 3D task: Claude Opus 5.5 ($60.89, 2h 19m) vs GPT-6 Astra ($16.89, 34m), with Opus praised for detail and design.
 
 
 ## Notable X / HN showcases
