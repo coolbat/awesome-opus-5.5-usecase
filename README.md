@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1043 entries (last updated 2026-11-09).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1055 entries (last updated 2026-11-10).
 
 ### Motion design & code-drawn animation
 
@@ -465,6 +465,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [An inconvenient leap of faith](https://x.com/devteamdrew/status/2119100405892190657) — @devteamdrew — A wireframe diver animation: Claude Opus 5.5 built a simple wireframe, rigged the diver's body, and animated a leap of faith.
 
 - [Paper-texture animation (code motion)](https://x.com/kevin_t_ngo/status/2119436039488156158) — @kevin_t_ngo — An animation where Claude Opus 5.5 wrote all the motion in code; paintings and paper textures came from GPT Image 2.6 via fal.
+
+- [Line art animation](https://x.com/dhruvtwt_/status/2119845363058426066) — @dhruvtwt_ — A line-art animation made with Claude Opus 5.5.
+- [Python-coded frames (no 3D assets)](https://x.com/iZeykoai/status/2119848812202369120) — @iZeykoai — A piece the author calls the best thing they have built with Claude Opus 5.5, with every frame written in Python and no 3D assets.
 ### Explainers & education
 
 - [Interactive camera-focus lens lab](https://x.com/RyanSael/status/2102591147927654847) — @RyanSael — An interactive lens lab explaining camera focus, one-shot by Opus 5.5 in 1 h 26 min for about $25.66 of API cost.
@@ -1104,6 +1107,11 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Giga Press you can run (Airsup)](https://x.com/konstantinsaifo/status/2119454122437181717) — @konstantinsaifo — A runnable 9,000-ton Giga Press (die fills in 0.12 s; 70 parts become one) that Claude Opus 5.5 built with Airsup.
 - [Mechanical nautilus (2,170 parts)](https://x.com/vib3coded/status/2119748934809567640) — @vib3coded — A mechanical nautilus with 2,170 parts, 196 moving assemblies, animated internals and an exploded view, all geometry in code by Claude Opus 5.5 in 35 minutes for $17.55.
 
+- [Ferrofluid toggle (one HTML file)](https://x.com/argofowl/status/2119867622108066283) — @argofowl — A ferrofluid toggle made with Claude Opus 5.5 in a single HTML file, with no three.js or libraries, and with sounds generated in the browser.
+- [Realtime MV editor (single HTML)](https://x.com/tapehead_Lab/status/2120122000727220618) — @tapehead_Lab — A feature-rich realtime video editor (single HTML file, live preview, no render wait) that Claude Opus 5.5 built for the author's music video (Japanese).
+- [Landing page with live Lottie 3D card](https://x.com/MengTo/status/2120109458638712924) — @MengTo — A landing page built with Claude Opus 5.5 and Lottie AI: the card, logo and menu icons are Lottie files (the card is 51 KB) and the ring light plays live on the 3D card.
+- [Truck-unloading robot (1,459 parts)](https://x.com/konstantinsaifo/status/2119996244525543498) — @konstantinsaifo — A robot that unloads a 53 ft trailer, designed from scratch by Claude Opus 5.5 using Airsup, with 1,459 parts.
+
 ### Blender & 3D modelling
 
 - [5,112-object Shinkansen in Blender](https://x.com/higgsfield_ai/status/2102507018372436264) — @higgsfield_ai — A Blender Shinkansen model with 5,112 separate objects down to all 430 seats, built by Opus 5.5 with Higgsfield.
@@ -1173,6 +1181,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Steampunk record player (Blender MCP)](https://x.com/rewind02/status/2119090016643100910) — @rewind02 — A steampunk record player in Blender via Claude Opus 5.5 + Blender MCP, prompted for materials that feel used and hand-polished for eighty years, with warm key lighting.
 - [Game character cleanup & rig (Tripo + Blender)](https://x.com/0xKense1/status/2119071023937032420) — @0xKense1 — A game character from one Tripo generation that Claude Opus 5.5 cleaned up and rigged in Blender, including the sword and shield.
 - [Walking video → 3D character (no mocap)](https://x.com/sorenxet/status/2119113877480743096) — @sorenxet — Any walking video retargeted onto a 3D character (parka, fur hood, boots, gloves) with Claude Opus 5.5 + Blender MCP in seven steps and no mocap.
+
+- [Seaside quay (Blender + three.js)](https://x.com/rewind02/status/2120120672890274039) — @rewind02 — A 3D browser scene of a seaside quay with a cherry tree, a lantern and a bench: Claude Opus 5.5 built each prop in Blender with Python, then assembled the scene in three.js.
 
 ### Ads & launch films
 
@@ -1514,6 +1524,12 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Pixel 2v2 beach volleyball: Fable 5.1 vs Opus 5.5](https://x.com/vib3coded/status/2119464800661000542) — @vib3coded — Same pixel-style 2v2 beach volleyball task: Fable 5.1 ($28.84) vs Claude Opus 5.5 ($13.36).
 - [Red supercar neon street: Opus vs Veo vs Kling vs Grok](https://x.com/m4lkxx/status/2119463879965081705) — @m4lkxx — Same prompt of a red supercar rolling out of a dark neon street: Opus 5.5 vs Veo 3.1 vs Kling 3.0 Pro vs Grok Imagine (cost/time noted).
 - [Three.js scene: Opus 5.5 vs GPT-6 Astra](https://x.com/EnvolDev/status/2119527377109672111) — @EnvolDev — Same Three.js 3D task: Claude Opus 5.5 ($60.89, 2h 19m) vs GPT-6 Astra ($16.89, 34m), with Opus praised for detail and design.
+
+- [Cathedral of Ice: Fable 5.2 vs Opus 5.5](https://x.com/EnvolDev/status/2119907318729245180) — @EnvolDev — Same prompt, Cathedral of Ice: Claude Fable 5.2 ($81.10, 1h 56m 52s) vs Claude Opus 5.5 ($45.97, 3h 11m 26s).
+- [Glass Pool: Fable 5.2 vs Opus 5.5](https://x.com/MrTacticalX/status/2119955647542542439) — @MrTacticalX — Same prompt, a glass pool: Claude Fable 5.2 ($57.87, 1h 30m) vs Claude Opus 5.5 ($14.39, 68m).
+- [Rigged game character: Fable 5.2 vs Opus 5.5](https://x.com/0xKense1/status/2119916096098582566) — @0xKense1 — A side-by-side of Fable 5.2 (one prompt in Blender: cleanup, 25 bones, sword and shield, 2 clips, 36 min) against the author's Claude Opus 5.5 hero; each started from one Tripo generation (about $0.60).
+- [Jelly orca: Fable 5.2 vs Opus 5.5](https://x.com/vib3coded/status/2119951060752375827) — @vib3coded — Same jelly-orca task: Claude Fable 5.2 vs Claude Opus 5.5.
+- [Fable 5.2 after replacing Opus 5.5](https://x.com/m4lkxx/status/2119876321740497268) — @m4lkxx — A visual of Claude Fable 5.2 after replacing Claude Opus 5.5.
 
 
 ## Notable X / HN showcases
