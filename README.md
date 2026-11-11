@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1055 entries (last updated 2026-11-10).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1062 entries (last updated 2026-11-11).
 
 ### Motion design & code-drawn animation
 
@@ -671,6 +671,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 
 - [Sam Altman or Ram Altman?](https://x.com/Jtyles/status/2117968380690882900) — @Jtyles — A short comic video ending on a twist, made with Claude Opus 5.5.
 
+- [Film VFX pipeline (Blender, Houdini, Nuke)](https://x.com/AlexPi194641/status/2120248196584648758) — @AlexPi194641 — A film VFX shot from a real pipeline in Blender, Houdini and Nuke: 580+ notes, no generated frames, and no hand edits, directed by talking to Claude Opus 5.5 (WIP).
+
 ### Claude on itself
 
 - ["What do you love?" animated short](https://x.com/kevin_t_ngo/status/2102437977435893771) — @kevin_t_ngo — A short animation, every frame drawn in JavaScript by Opus 5.5, about a girl who sends Claude a question instead of a request.
@@ -947,6 +949,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Cozy fishing game (Unity 6)](https://x.com/neviannn/status/2119538130470457833) — @neviannn — A cozy fishing game built solo with Claude Opus 5.5 + Blender + Tripo + Unity 6: Tripo for models, Opus for Blender setup/animation, Unity for the world and systems.
 - [Zelda-like forest + 28 m titan boss](https://x.com/0xKense1/status/2119547082549744043) — @0xKense1 — A Zelda-like forest game (day 1 concept → day 2 playable → night v2 with a 28 m titan boss; ~11.7k lines of C#/shaders) built with Unity + Claude Code (Opus 5.5) + Tripo + Blender.
 
+- [Super Heavy catch (browser)](https://x.com/konstantinsaifo/status/2120356782690443382) — @konstantinsaifo — A Super Heavy catch you can play in the browser, built by Claude Opus 5.5.
+
 ### Real-time 3D, WebGL & shaders
 
 - [Sketch-to-simulation](https://x.com/poolio/status/2102445641205248145) — @poolio — A sketch-to-simulation demo in which Opus 5.5 turns hand drawings into a running simulation.
@@ -1111,6 +1115,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Realtime MV editor (single HTML)](https://x.com/tapehead_Lab/status/2120122000727220618) — @tapehead_Lab — A feature-rich realtime video editor (single HTML file, live preview, no render wait) that Claude Opus 5.5 built for the author's music video (Japanese).
 - [Landing page with live Lottie 3D card](https://x.com/MengTo/status/2120109458638712924) — @MengTo — A landing page built with Claude Opus 5.5 and Lottie AI: the card, logo and menu icons are Lottie files (the card is 51 KB) and the ring light plays live on the 3D card.
 - [Truck-unloading robot (1,459 parts)](https://x.com/konstantinsaifo/status/2119996244525543498) — @konstantinsaifo — A robot that unloads a 53 ft trailer, designed from scratch by Claude Opus 5.5 using Airsup, with 1,459 parts.
+
+- [Robot-dog teardown (three.js)](https://x.com/0x_fokki/status/2120252886051393868) — @0x_fokki — A robot-dog teardown in three.js made with Claude Opus 5.5 from one picture (using a public skill): the head slides off on five stereo-camera pairs, each leg has three motors (12 in all), and pulling the battery out of the belly drops the step rate to 0.
 
 ### Blender & 3D modelling
 
@@ -1283,6 +1289,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Cache Anything launch film (one-shot)](https://x.com/nikhilbhima/status/2117870909159878746) — @nikhilbhima — A one-shot launch film for cacheanything.com made with Claude Opus 5.5.
 
 - [Remotion before/after edit (local)](https://x.com/0xReso/status/2118688451000401988) — @0xReso — A before/after video edit made locally with Claude Opus 5.5 (medium) + Remotion + ffmpeg + Whisper, no Premiere/After Effects.
+
+- [Openbrief template launch film](https://x.com/MaybeFlorent/status/2120162557868839202) — @MaybeFlorent — A tutorial / launch video for Openbrief, a free Framer consulting template, that the author made entirely with Claude Opus 5.5.
 
 
 ### Comparisons & video-model pipelines
@@ -1530,6 +1538,10 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Rigged game character: Fable 5.2 vs Opus 5.5](https://x.com/0xKense1/status/2119916096098582566) — @0xKense1 — A side-by-side of Fable 5.2 (one prompt in Blender: cleanup, 25 bones, sword and shield, 2 clips, 36 min) against the author's Claude Opus 5.5 hero; each started from one Tripo generation (about $0.60).
 - [Jelly orca: Fable 5.2 vs Opus 5.5](https://x.com/vib3coded/status/2119951060752375827) — @vib3coded — Same jelly-orca task: Claude Fable 5.2 vs Claude Opus 5.5.
 - [Fable 5.2 after replacing Opus 5.5](https://x.com/m4lkxx/status/2119876321740497268) — @m4lkxx — A visual of Claude Fable 5.2 after replacing Claude Opus 5.5.
+
+- [Ruby Ascent: Fable 5.2 vs Opus 5.5](https://x.com/EnvolDev/status/2120191754737455394) — @EnvolDev — Same prompt, Ruby Ascent: Claude Fable 5.2 ($81.32, 2h 14m 25s) vs Claude Opus 5.5 ($49.07, 2h 33m 33s).
+- [Dinosaur obstacle run: four models](https://x.com/ridark_eth/status/2120170486353047588) — @ridark_eth — Same prompt, a dinosaur obstacle run: Claude Fable 5.2 (9.6/10, 45m 12s), Claude Opus 5.5 (8.6/10, 1h 12m 30s), Gemini 4 Carbon (8.3/10, 1h 20m) and GPT-6 Astra.
+- [Flying Turgle Island: Fable 5.2 vs Opus 5.5](https://x.com/JamesMalsawm/status/2120162060869025848) — @JamesMalsawm — Same simple prompt, Flying Turgle Island, on medium: Claude Fable 5.2 ($79.10, 1h 43m) vs Claude Opus 5.5 ($43.97, 3h 15m).
 
 
 ## Notable X / HN showcases
