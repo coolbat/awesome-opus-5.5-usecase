@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1062 entries (last updated 2026-11-11).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1067 entries (last updated 2026-11-12).
 
 ### Motion design & code-drawn animation
 
@@ -950,6 +950,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Zelda-like forest + 28 m titan boss](https://x.com/0xKense1/status/2119547082549744043) — @0xKense1 — A Zelda-like forest game (day 1 concept → day 2 playable → night v2 with a 28 m titan boss; ~11.7k lines of C#/shaders) built with Unity + Claude Code (Opus 5.5) + Tripo + Blender.
 
 - [Super Heavy catch (browser)](https://x.com/konstantinsaifo/status/2120356782690443382) — @konstantinsaifo — A Super Heavy catch you can play in the browser, built by Claude Opus 5.5.
+- [Luminati 2.5D pixel-art engine (city view)](https://x.com/tirthaexe/status/2120518958512321022) — @tirthaexe — A city view from the Luminati 2.5D pixel-art engine, built with Claude Opus 5.5.
 
 ### Real-time 3D, WebGL & shaders
 
@@ -1189,6 +1190,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Walking video → 3D character (no mocap)](https://x.com/sorenxet/status/2119113877480743096) — @sorenxet — Any walking video retargeted onto a 3D character (parka, fur hood, boots, gloves) with Claude Opus 5.5 + Blender MCP in seven steps and no mocap.
 
 - [Seaside quay (Blender + three.js)](https://x.com/rewind02/status/2120120672890274039) — @rewind02 — A 3D browser scene of a seaside quay with a cherry tree, a lantern and a bench: Claude Opus 5.5 built each prop in Blender with Python, then assembled the scene in three.js.
+- [Stylized hero, floral dress and sun hat](https://x.com/rewind02/status/2120846734901367105) — @rewind02 — A stylized hero in a black floral dress and a wide white sun hat, built and animated in Blender with Claude Opus 5.5 (via MCP); the author says the hard part is rigging the cloth, not just the body.
 
 ### Ads & launch films
 
@@ -1543,6 +1545,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Dinosaur obstacle run: four models](https://x.com/ridark_eth/status/2120170486353047588) — @ridark_eth — Same prompt, a dinosaur obstacle run: Claude Fable 5.2 (9.6/10, 45m 12s), Claude Opus 5.5 (8.6/10, 1h 12m 30s), Gemini 4 Carbon (8.3/10, 1h 20m) and GPT-6 Astra.
 - [Flying Turgle Island: Fable 5.2 vs Opus 5.5](https://x.com/JamesMalsawm/status/2120162060869025848) — @JamesMalsawm — Same simple prompt, Flying Turgle Island, on medium: Claude Fable 5.2 ($79.10, 1h 43m) vs Claude Opus 5.5 ($43.97, 3h 15m).
 
+- [Jelly physics: Opus 5.5 vs Fable 5.2](https://x.com/vib3coded/status/2120489288857252235) — @vib3coded — Same jelly-physics task: Claude Opus 5.5 ($4.51) vs Claude Fable 5.2 ($16.97); the author says Opus 5.5 beat Fable 5.2.
+- [Night rocket launch: Fable 5.2 vs Opus 5.5](https://x.com/SamgreyAi/status/2120253192726577503) — @SamgreyAi — Same prompt, a rocket launch at night in 4K, with no edits: Claude Fable 5.2 ($23.45, 32 mins) vs Claude Opus 5.5 ($10.35, 24 mins).
+- [Arctic icebreaker: four models](https://x.com/Lummox_eth/status/2120520207886061679) — @Lummox_eth — Same prompt, an Arctic icebreaker across four AI models: GPT-6 Astra ($98, 24 mins) vs Claude Opus 5.5 ($7, 2 mins), which the author calls cinematic.
 
 ## Notable X / HN showcases
 
