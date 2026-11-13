@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1067 entries (last updated 2026-11-12).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1072 entries (last updated 2026-11-13).
 
 ### Motion design & code-drawn animation
 
@@ -468,6 +468,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 
 - [Line art animation](https://x.com/dhruvtwt_/status/2119845363058426066) — @dhruvtwt_ — A line-art animation made with Claude Opus 5.5.
 - [Python-coded frames (no 3D assets)](https://x.com/iZeykoai/status/2119848812202369120) — @iZeykoai — A piece the author calls the best thing they have built with Claude Opus 5.5, with every frame written in Python and no 3D assets.
+- [Motion effects made with Opus 5.5](https://x.com/csaba_kissi/status/2120855435230187993) — @csaba_kissi — Motion effects that @csaba_kissi says were created with Claude Opus 5.5, after noting that Fable 5.2 is strong at motion.
+- [Eight more components, Opus 5.5 again](https://x.com/csaba_kissi/status/2120919476174827528) — @csaba_kissi — Another set of 8 components made with Claude Opus 5.5.
 ### Explainers & education
 
 - [Interactive camera-focus lens lab](https://x.com/RyanSael/status/2102591147927654847) — @RyanSael — An interactive lens lab explaining camera focus, one-shot by Opus 5.5 in 1 h 26 min for about $25.66 of API cost.
@@ -1548,6 +1550,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Jelly physics: Opus 5.5 vs Fable 5.2](https://x.com/vib3coded/status/2120489288857252235) — @vib3coded — Same jelly-physics task: Claude Opus 5.5 ($4.51) vs Claude Fable 5.2 ($16.97); the author says Opus 5.5 beat Fable 5.2.
 - [Night rocket launch: Fable 5.2 vs Opus 5.5](https://x.com/SamgreyAi/status/2120253192726577503) — @SamgreyAi — Same prompt, a rocket launch at night in 4K, with no edits: Claude Fable 5.2 ($23.45, 32 mins) vs Claude Opus 5.5 ($10.35, 24 mins).
 - [Arctic icebreaker: four models](https://x.com/Lummox_eth/status/2120520207886061679) — @Lummox_eth — Same prompt, an Arctic icebreaker across four AI models: GPT-6 Astra ($98, 24 mins) vs Claude Opus 5.5 ($7, 2 mins), which the author calls cinematic.
+- [Realistic scene: Fable 5.2 vs Opus 5.5](https://x.com/rubenssoto_ai/status/2120862767452414226) — @rubenssoto_ai — Claude Fable 5.2 vs Claude Opus 5.5 on the same scene; @rubenssoto_ai says Fable added more realism in the fire and shadows, and finds the extra $8 worth that detail.
+- [Alpine Gold: Fable 5.2 vs Opus 5.5 vs Astra](https://x.com/EnvolDev/status/2120916530439344392) — @EnvolDev — Same Alpine Gold prompt, a plane: Claude Fable 5.2 ($209.50, 3h 02m 54s, Extra High) vs Claude Opus 5.5 ($31.85, 2h 45m 42s, Extra High) vs GPT-6 Astra ($17.82, 51m 10s, Extra High); the author says Fable built the best plane, while Opus was 6.5× cheaper and 17 minutes faster than Fable.
+- [Gemini Hydrogen vs Opus 5.5](https://x.com/rubenssoto_ai/status/2121068028435791947) — @rubenssoto_ai — Same task: Claude Opus 5.5 ($7.43, 34m) vs Gemini Hydrogen ($1.02, 10m 22s); the author notes Hydrogen was 7.3× cheaper and 3.3× faster.
 
 ## Notable X / HN showcases
 
