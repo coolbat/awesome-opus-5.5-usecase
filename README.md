@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1072 entries (last updated 2026-11-13).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1077 entries (last updated 2026-11-14).
 
 ### Motion design & code-drawn animation
 
@@ -566,6 +566,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Ocean-animal explainer, automated pure code](https://x.com/finnardley/status/2118149077842133334) — @finnardley — A fully code-drawn educational video (prompt shared) made with Claude Opus 5.5 for $0 in AI video gens, built for automated topic/animal explainers.
 
 - [GCSE/IGCSE light and optics lessons](https://x.com/techartist_/status/2119120307458097260) — @techartist_ — An app that teaches light and optics for GCSE and IGCSE Physics (reflection, refraction, lenses, the eye, colour, plus A-level interference), ten lessons, built with Opus 5.5.
+- [Minum jadi urine? (with a child)](https://x.com/AdamPrabata/status/2121451941624713588) — @AdamPrabata — A cartoon explainer (*Perjalanan Setetes Air: Minum jadi urine?*) that @AdamPrabata made with their child using Claude Opus 5.5 and ElevenLabs voice (Indonesian).
 
 ### History & culture
 
@@ -1120,6 +1121,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Truck-unloading robot (1,459 parts)](https://x.com/konstantinsaifo/status/2119996244525543498) — @konstantinsaifo — A robot that unloads a 53 ft trailer, designed from scratch by Claude Opus 5.5 using Airsup, with 1,459 parts.
 
 - [Robot-dog teardown (three.js)](https://x.com/0x_fokki/status/2120252886051393868) — @0x_fokki — A robot-dog teardown in three.js made with Claude Opus 5.5 from one picture (using a public skill): the head slides off on five stereo-camera pairs, each leg has three motors (12 in all), and pulling the battery out of the belly drops the step rate to 0.
+- [Jelly crocodile ($3.08 / 15 min)](https://x.com/vib3coded/status/2121290268779618790) — @vib3coded — A jelly crocodile that Claude Opus 5.5 built in 15 minutes for $3.08, which @vib3coded says took their entire evening to play with.
+- [Launch complex (4,038 coded parts)](https://x.com/0x_Anni/status/2121327589990035501) — @0x_Anni — A 111.5 m rocket and an 18-level service tower (4,038 parts, all written as code, no downloaded models) that Claude Opus 5.5 built after a "build something big" prompt, then ran through a day-to-night countdown and launch.
 
 ### Blender & 3D modelling
 
@@ -1193,6 +1196,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 
 - [Seaside quay (Blender + three.js)](https://x.com/rewind02/status/2120120672890274039) — @rewind02 — A 3D browser scene of a seaside quay with a cherry tree, a lantern and a bench: Claude Opus 5.5 built each prop in Blender with Python, then assembled the scene in three.js.
 - [Stylized hero, floral dress and sun hat](https://x.com/rewind02/status/2120846734901367105) — @rewind02 — A stylized hero in a black floral dress and a wide white sun hat, built and animated in Blender with Claude Opus 5.5 (via MCP); the author says the hard part is rigging the cloth, not just the body.
+- [Shardheart Colossus (79 stone blocks)](https://x.com/theparuchh/status/2121262643566551374) — @theparuchh — *Shardheart Colossus*, a 7 m stone golem boss from EXTRA: Ascension (79 rigid blocks, 109 bones, 11 animations) animated with Claude Opus 5.5 on Max via a custom animator subagent; the stone stays rigid while he tears off his own plates as ammo.
 
 ### Ads & launch films
 
@@ -1295,6 +1299,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Remotion before/after edit (local)](https://x.com/0xReso/status/2118688451000401988) — @0xReso — A before/after video edit made locally with Claude Opus 5.5 (medium) + Remotion + ffmpeg + Whisper, no Premiere/After Effects.
 
 - [Openbrief template launch film](https://x.com/MaybeFlorent/status/2120162557868839202) — @MaybeFlorent — A tutorial / launch video for Openbrief, a free Framer consulting template, that the author made entirely with Claude Opus 5.5.
+- [Whooshly launch / landing film](https://x.com/rutu_3/status/2121245781017698320) — @rutu_3 — A ~49-second video, made with Claude Opus 5.5, of Whooshly, a free motion-design sound-effects site (whooshes, impacts, risers and music beds; no sign-up, no attribution).
 
 
 ### Comparisons & video-model pipelines
