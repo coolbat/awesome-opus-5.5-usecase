@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1077 entries (last updated 2026-11-14).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1088 entries (last updated 2026-11-15).
 
 ### Motion design & code-drawn animation
 
@@ -470,6 +470,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Python-coded frames (no 3D assets)](https://x.com/iZeykoai/status/2119848812202369120) — @iZeykoai — A piece the author calls the best thing they have built with Claude Opus 5.5, with every frame written in Python and no 3D assets.
 - [Motion effects made with Opus 5.5](https://x.com/csaba_kissi/status/2120855435230187993) — @csaba_kissi — Motion effects that @csaba_kissi says were created with Claude Opus 5.5, after noting that Fable 5.2 is strong at motion.
 - [Eight more components, Opus 5.5 again](https://x.com/csaba_kissi/status/2120919476174827528) — @csaba_kissi — Another set of 8 components made with Claude Opus 5.5.
+- [Another iteration of elements](https://x.com/csaba_kissi/status/2121665294875894082) — @csaba_kissi — Another iteration of motion elements that @csaba_kissi says was created with Claude Opus 5.5.
 ### Explainers & education
 
 - [Interactive camera-focus lens lab](https://x.com/RyanSael/status/2102591147927654847) — @RyanSael — An interactive lens lab explaining camera focus, one-shot by Opus 5.5 in 1 h 26 min for about $25.66 of API cost.
@@ -1123,6 +1124,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Robot-dog teardown (three.js)](https://x.com/0x_fokki/status/2120252886051393868) — @0x_fokki — A robot-dog teardown in three.js made with Claude Opus 5.5 from one picture (using a public skill): the head slides off on five stereo-camera pairs, each leg has three motors (12 in all), and pulling the battery out of the belly drops the step rate to 0.
 - [Jelly crocodile ($3.08 / 15 min)](https://x.com/vib3coded/status/2121290268779618790) — @vib3coded — A jelly crocodile that Claude Opus 5.5 built in 15 minutes for $3.08, which @vib3coded says took their entire evening to play with.
 - [Launch complex (4,038 coded parts)](https://x.com/0x_Anni/status/2121327589990035501) — @0x_Anni — A 111.5 m rocket and an 18-level service tower (4,038 parts, all written as code, no downloaded models) that Claude Opus 5.5 built after a "build something big" prompt, then ran through a day-to-night countdown and launch.
+- [3D harbour from one drawing](https://x.com/rewind02/status/2121627795566567577) — @rewind02 — An explorable 3D harbour in the browser, built with Claude Opus 5.5, Blender and Three.js from a single drawing: the pier, stilts and shops are modelled in Blender, then Three.js adds teal water, time-of-day weather, a steerable boat and robots on the piers.
+- [Squishy octopus ($5.22 / 18 min)](https://x.com/vib3coded/status/2121757715881963715) — @vib3coded — A squishy octopus that Claude Opus 5.5 built in 18 minutes for $5.22, which @vib3coded says killed their productivity.
 
 ### Blender & 3D modelling
 
@@ -1197,6 +1200,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Seaside quay (Blender + three.js)](https://x.com/rewind02/status/2120120672890274039) — @rewind02 — A 3D browser scene of a seaside quay with a cherry tree, a lantern and a bench: Claude Opus 5.5 built each prop in Blender with Python, then assembled the scene in three.js.
 - [Stylized hero, floral dress and sun hat](https://x.com/rewind02/status/2120846734901367105) — @rewind02 — A stylized hero in a black floral dress and a wide white sun hat, built and animated in Blender with Claude Opus 5.5 (via MCP); the author says the hard part is rigging the cloth, not just the body.
 - [Shardheart Colossus (79 stone blocks)](https://x.com/theparuchh/status/2121262643566551374) — @theparuchh — *Shardheart Colossus*, a 7 m stone golem boss from EXTRA: Ascension (79 rigid blocks, 109 bones, 11 animations) animated with Claude Opus 5.5 on Max via a custom animator subagent; the stone stays rigid while he tears off his own plates as ammo.
+- [Roan: 16 character animations ($1.20)](https://x.com/theparuchh/status/2121644728886173704) — @theparuchh — A full set of 16 character animations for Roan (from EXTRA: Ascension) made with Claude Opus 5.5 on Max for $1.20, with no Mixamo or mocap: rig and skin from a T-pose, walk/run/boxing, punch combos, and a whip built as its own bone chain so it can coil and wrap.
+- [Cloaked hero, straw hat and painted cloak](https://x.com/rewind02/status/2121933776884269192) — @rewind02 — A stylized cloaked hero with a straw hat and a hand-painted blue cloak, built and animated in Blender with Claude Opus 5.5 (via MCP), including idle and walk cycles in which the cloak bones lag a few frames behind the body so the cloth looks like fabric.
 
 ### Ads & launch films
 
@@ -1558,6 +1563,12 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Realistic scene: Fable 5.2 vs Opus 5.5](https://x.com/rubenssoto_ai/status/2120862767452414226) — @rubenssoto_ai — Claude Fable 5.2 vs Claude Opus 5.5 on the same scene; @rubenssoto_ai says Fable added more realism in the fire and shadows, and finds the extra $8 worth that detail.
 - [Alpine Gold: Fable 5.2 vs Opus 5.5 vs Astra](https://x.com/EnvolDev/status/2120916530439344392) — @EnvolDev — Same Alpine Gold prompt, a plane: Claude Fable 5.2 ($209.50, 3h 02m 54s, Extra High) vs Claude Opus 5.5 ($31.85, 2h 45m 42s, Extra High) vs GPT-6 Astra ($17.82, 51m 10s, Extra High); the author says Fable built the best plane, while Opus was 6.5× cheaper and 17 minutes faster than Fable.
 - [Gemini Hydrogen vs Opus 5.5](https://x.com/rubenssoto_ai/status/2121068028435791947) — @rubenssoto_ai — Same task: Claude Opus 5.5 ($7.43, 34m) vs Gemini Hydrogen ($1.02, 10m 22s); the author notes Hydrogen was 7.3× cheaper and 3.3× faster.
+- [Shipwreck: Opus vs Carbon vs Hydrogen vs Flash](https://x.com/remoteugur/status/2121302956741902451) — @remoteugur — The same shipwreck prompt: Claude Opus 5.5 (37 min, $6.81) vs Gemini 4 Carbon (46 min, $3.65) vs Gemini 4 Hydrogen (8.6 min, $1.16) vs Gemini 3.8 Flash (10.8 min, $1.06); @remoteugur says Opus looks the most realistic, and that Carbon is about half the price until 30 November, when its price doubles.
+- [Fable 5.2 vs Opus 5.5 (save $15)](https://x.com/rubenssoto_ai/status/2121621526902419847) — @rubenssoto_ai — Claude Fable 5.2 vs Claude Opus 5.5 on the same task; @rubenssoto_ai says Fable is not that impressive next to Opus 5.5, and that you can save $15 and still get strong quality.
+- [The Crown of the Reef: Fable 5.2 vs Opus 5.5](https://x.com/EnvolDev/status/2121641306107871500) — @EnvolDev — Same *The Crown of the Reef* prompt at Extra High: Claude Fable 5.2 ($78.45, 3h 15m 05s) vs Claude Opus 5.5 ($54.96, 1h 56m 09s); the author says Fable wins on this one, but it cost $23 more and took 1h 19m longer than Opus.
+- [Jelly orange slice: Fable 5.2 vs Opus 5.5](https://x.com/vib3coded/status/2121646685319221546) — @vib3coded — Same prompt, a jelly orange slice: Claude Fable 5.2 vs Claude Opus 5.5; @vib3coded asks which result you would pick if the names and prices were hidden.
+- [Rio Above the Clouds: Fable vs Hydrogen vs Opus vs Astra](https://x.com/EnvolDev/status/2121701704139956250) — @EnvolDev — Same *Rio Above the Clouds* prompt, all Extra High: Claude Opus 5.5 ($60.89, 2h 19m 35s) vs Claude Fable 5.2 ($76.04, 1h 59m 11s) vs Gemini 4 Hydrogen ($6.21, 1h 33m 48s) vs GPT-6 Astra ($16.89, 34m 06s); the author says Hydrogen was the least good, while Astra cost $10.68 more than Hydrogen, finished almost an hour faster, and made a better film.
+- [Opus 5.5 vs GPT-6 Astra (nearly the same cost)](https://x.com/rubenssoto_ai/status/2121792804301209874) — @rubenssoto_ai — Claude Opus 5.5 vs GPT-6 Astra on the same task; @rubenssoto_ai says both look strong, the costs are almost the same, and Opus still delivers more detail.
 
 ## Notable X / HN showcases
 
