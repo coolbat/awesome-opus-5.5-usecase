@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1088 entries (last updated 2026-11-15).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1100 entries (last updated 2026-11-16).
 
 ### Motion design & code-drawn animation
 
@@ -471,6 +471,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Motion effects made with Opus 5.5](https://x.com/csaba_kissi/status/2120855435230187993) — @csaba_kissi — Motion effects that @csaba_kissi says were created with Claude Opus 5.5, after noting that Fable 5.2 is strong at motion.
 - [Eight more components, Opus 5.5 again](https://x.com/csaba_kissi/status/2120919476174827528) — @csaba_kissi — Another set of 8 components made with Claude Opus 5.5.
 - [Another iteration of elements](https://x.com/csaba_kissi/status/2121665294875894082) — @csaba_kissi — Another iteration of motion elements that @csaba_kissi says was created with Claude Opus 5.5.
+- [More chart, timeline, gauge and flow elements](https://x.com/csaba_kissi/status/2122006586268745841) — @csaba_kissi — More chart, timeline, gauge and flow motion elements that @csaba_kissi made with Claude Opus 5.5.
 ### Explainers & education
 
 - [Interactive camera-focus lens lab](https://x.com/RyanSael/status/2102591147927654847) — @RyanSael — An interactive lens lab explaining camera focus, one-shot by Opus 5.5 in 1 h 26 min for about $25.66 of API cost.
@@ -568,6 +569,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 
 - [GCSE/IGCSE light and optics lessons](https://x.com/techartist_/status/2119120307458097260) — @techartist_ — An app that teaches light and optics for GCSE and IGCSE Physics (reflection, refraction, lenses, the eye, colour, plus A-level interference), ten lessons, built with Opus 5.5.
 - [Minum jadi urine? (with a child)](https://x.com/AdamPrabata/status/2121451941624713588) — @AdamPrabata — A cartoon explainer (*Perjalanan Setetes Air: Minum jadi urine?*) that @AdamPrabata made with their child using Claude Opus 5.5 and ElevenLabs voice (Indonesian).
+- [Airbus A320 flight, ten interactive lessons](https://x.com/techartist_/status/2122020634322723038) — @techartist_ — A 3D web app that teaches how a 78-tonne Airbus A320 stays up on moving air, in ten interactive lessons, built with Claude Opus 5.5 using Blender and Three.js.
 
 ### History & culture
 
@@ -955,6 +957,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 
 - [Super Heavy catch (browser)](https://x.com/konstantinsaifo/status/2120356782690443382) — @konstantinsaifo — A Super Heavy catch you can play in the browser, built by Claude Opus 5.5.
 - [Luminati 2.5D pixel-art engine (city view)](https://x.com/tirthaexe/status/2120518958512321022) — @tirthaexe — A city view from the Luminati 2.5D pixel-art engine, built with Claude Opus 5.5.
+- [Jet-ski mini-game (4 hours)](https://x.com/maxt3chno/status/2122305000479052022) — @maxt3chno — A browser jet-ski mini-game with tricks, monster-wave mechanics, physics, a HUD and sound, that Claude Fable 5.2 planned in seven stages and Claude Opus 5.5 executed, in 4 hours; @maxt3chno says the only 3D model is the rider and that the run used about 5% of a weekly Max quota.
 
 ### Real-time 3D, WebGL & shaders
 
@@ -1126,6 +1129,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Launch complex (4,038 coded parts)](https://x.com/0x_Anni/status/2121327589990035501) — @0x_Anni — A 111.5 m rocket and an 18-level service tower (4,038 parts, all written as code, no downloaded models) that Claude Opus 5.5 built after a "build something big" prompt, then ran through a day-to-night countdown and launch.
 - [3D harbour from one drawing](https://x.com/rewind02/status/2121627795566567577) — @rewind02 — An explorable 3D harbour in the browser, built with Claude Opus 5.5, Blender and Three.js from a single drawing: the pier, stilts and shops are modelled in Blender, then Three.js adds teal water, time-of-day weather, a steerable boat and robots on the piers.
 - [Squishy octopus ($5.22 / 18 min)](https://x.com/vib3coded/status/2121757715881963715) — @vib3coded — A squishy octopus that Claude Opus 5.5 built in 18 minutes for $5.22, which @vib3coded says killed their productivity.
+- [Painted 3D walk: gouache by day, oil at sunset](https://x.com/rewind02/status/2121991760825995575) — @rewind02 — An explorable painted 3D world in the browser, built with Claude Opus 5.5 and Three.js: a walk from a forest path to an open hill and a sunset over the sea, with no downloaded models; a paint post-pass turns every frame into brushstrokes that shift from gouache by day to oil at sunset.
+- [Satisfying slider ($4.55)](https://x.com/vib3coded/status/2122003848923353480) — @vib3coded — A ridiculously satisfying slider that Claude Opus 5.5 built for $4.55.
 
 ### Blender & 3D modelling
 
@@ -1202,6 +1207,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Shardheart Colossus (79 stone blocks)](https://x.com/theparuchh/status/2121262643566551374) — @theparuchh — *Shardheart Colossus*, a 7 m stone golem boss from EXTRA: Ascension (79 rigid blocks, 109 bones, 11 animations) animated with Claude Opus 5.5 on Max via a custom animator subagent; the stone stays rigid while he tears off his own plates as ammo.
 - [Roan: 16 character animations ($1.20)](https://x.com/theparuchh/status/2121644728886173704) — @theparuchh — A full set of 16 character animations for Roan (from EXTRA: Ascension) made with Claude Opus 5.5 on Max for $1.20, with no Mixamo or mocap: rig and skin from a T-pose, walk/run/boxing, punch combos, and a whip built as its own bone chain so it can coil and wrap.
 - [Cloaked hero, straw hat and painted cloak](https://x.com/rewind02/status/2121933776884269192) — @rewind02 — A stylized cloaked hero with a straw hat and a hand-painted blue cloak, built and animated in Blender with Claude Opus 5.5 (via MCP), including idle and walk cycles in which the cloak bones lag a few frames behind the body so the cloth looks like fabric.
+- [Turbocharger: 44-part separation and reassembly](https://x.com/AmirMushich/status/2121982602122760352) — @AmirMushich — A Blender cinematic of a turbocharger that Claude Opus 5.5 built from a prompt plus 9 revisions in Claude Code: a technical HUD tracks 44 parts as they separate and reassemble; @AmirMushich shares the prompt as reusable with any [OBJECT].
+- [Roblox character: mesh, rig and animation](https://x.com/hiyouwhatsapp/status/2122077126711181465) — @hiyouwhatsapp — A Roblox character that @hiyouwhatsapp built in a mixed pipeline: ChatGPT made the reference image, Tripo made a rough 3D model, Claude Opus 5.5 used GPT 6.1 Sol as a sub-agent to recreate the mesh, then Opus 5.5 rigged and animated it.
 
 ### Ads & launch films
 
@@ -1305,6 +1312,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 
 - [Openbrief template launch film](https://x.com/MaybeFlorent/status/2120162557868839202) — @MaybeFlorent — A tutorial / launch video for Openbrief, a free Framer consulting template, that the author made entirely with Claude Opus 5.5.
 - [Whooshly launch / landing film](https://x.com/rutu_3/status/2121245781017698320) — @rutu_3 — A ~49-second video, made with Claude Opus 5.5, of Whooshly, a free motion-design sound-effects site (whooshes, impacts, risers and music beds; no sign-up, no attribution).
+- [BEANS coffee-subscription ad (15s)](https://x.com/Toarukanshiin/status/2122163779471569261) — @Toarukanshiin — A 15-second web-ad motion graphic for a fictional coffee subscription, *BEANS*, made with Claude Opus 5.5 and Blender: beans fall one by one, the roast deepens, they land in a monthly box, pass through a filter and pour as a cup of coffee (Japanese).
 
 
 ### Comparisons & video-model pipelines
@@ -1569,6 +1577,10 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Jelly orange slice: Fable 5.2 vs Opus 5.5](https://x.com/vib3coded/status/2121646685319221546) — @vib3coded — Same prompt, a jelly orange slice: Claude Fable 5.2 vs Claude Opus 5.5; @vib3coded asks which result you would pick if the names and prices were hidden.
 - [Rio Above the Clouds: Fable vs Hydrogen vs Opus vs Astra](https://x.com/EnvolDev/status/2121701704139956250) — @EnvolDev — Same *Rio Above the Clouds* prompt, all Extra High: Claude Opus 5.5 ($60.89, 2h 19m 35s) vs Claude Fable 5.2 ($76.04, 1h 59m 11s) vs Gemini 4 Hydrogen ($6.21, 1h 33m 48s) vs GPT-6 Astra ($16.89, 34m 06s); the author says Hydrogen was the least good, while Astra cost $10.68 more than Hydrogen, finished almost an hour faster, and made a better film.
 - [Opus 5.5 vs GPT-6 Astra (nearly the same cost)](https://x.com/rubenssoto_ai/status/2121792804301209874) — @rubenssoto_ai — Claude Opus 5.5 vs GPT-6 Astra on the same task; @rubenssoto_ai says both look strong, the costs are almost the same, and Opus still delivers more detail.
+- [Humanoid worm swarm: Fable 5.2 vs Opus 5.5](https://x.com/AiBattle_/status/2121989497252438473) — @AiBattle_ — Same prompt, a humanoid creature made of hundreds of living worms that fly off, crawl back and rebuild the body when shot, in Unreal Engine and Blender: Claude Fable 5.2 High ($49.68, 1h 27m) vs Claude Opus 5.5 High ($30.08, 1h 2m).
+- [Stormbreak Lighthouse: Fable 5.2 vs Opus 5.5](https://x.com/EnvolDev/status/2122033893071352207) — @EnvolDev — Same *Stormbreak Lighthouse* prompt, both Extra High: Claude Fable 5.2 ($71.09, 2h 00m 30s) vs Claude Opus 5.5 ($53.57, 2h 44m 34s); @EnvolDev prefers Fable on the lighthouse and is less sure about the sky and ocean.
+- [Jelly kiwi slice: Opus 5.5 vs Fable 5.2](https://x.com/vib3coded/status/2122080643899146249) — @vib3coded — Same prompt, a jelly kiwi slice: Claude Opus 5.5 vs Claude Fable 5.2; @vib3coded asks which jelly-physics result wins.
+- [Rain-night pelican delivery: Opus 5.5 vs GPT-6.2 Sol vs Qwen4-Max](https://x.com/Stargridcompass/status/2122184571269853307) — @Stargridcompass — Same prompt, a pelican cycling a delivery through rain at night: Claude Opus 5.5 vs GPT-6.2 Sol vs Qwen4-Max; @Stargridcompass ranks Opus first, then Sol, then Qwen4-Max (Chinese).
 
 ## Notable X / HN showcases
 
