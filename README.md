@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1100 entries (last updated 2026-11-16).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1112 entries (last updated 2026-11-17).
 
 ### Motion design & code-drawn animation
 
@@ -958,6 +958,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Super Heavy catch (browser)](https://x.com/konstantinsaifo/status/2120356782690443382) — @konstantinsaifo — A Super Heavy catch you can play in the browser, built by Claude Opus 5.5.
 - [Luminati 2.5D pixel-art engine (city view)](https://x.com/tirthaexe/status/2120518958512321022) — @tirthaexe — A city view from the Luminati 2.5D pixel-art engine, built with Claude Opus 5.5.
 - [Jet-ski mini-game (4 hours)](https://x.com/maxt3chno/status/2122305000479052022) — @maxt3chno — A browser jet-ski mini-game with tricks, monster-wave mechanics, physics, a HUD and sound, that Claude Fable 5.2 planned in seven stages and Claude Opus 5.5 executed, in 4 hours; @maxt3chno says the only 3D model is the rider and that the run used about 5% of a weekly Max quota.
+- [Rabbit vs robot cinematic 3D fighter](https://x.com/Lummox_eth/status/2122349131658080411) — @Lummox_eth — A cinematic 3D fighting game in which a fast rabbit faces a heavier robot titan, with combat logic, animation states and hit detection by Claude Opus 5.5 and characters, rigs and the industrial arena in Blender.
+
 
 ### Real-time 3D, WebGL & shaders
 
@@ -1131,6 +1133,10 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Squishy octopus ($5.22 / 18 min)](https://x.com/vib3coded/status/2121757715881963715) — @vib3coded — A squishy octopus that Claude Opus 5.5 built in 18 minutes for $5.22, which @vib3coded says killed their productivity.
 - [Painted 3D walk: gouache by day, oil at sunset](https://x.com/rewind02/status/2121991760825995575) — @rewind02 — An explorable painted 3D world in the browser, built with Claude Opus 5.5 and Three.js: a walk from a forest path to an open hill and a sunset over the sea, with no downloaded models; a paint post-pass turns every frame into brushstrokes that shift from gouache by day to oil at sunset.
 - [Satisfying slider ($4.55)](https://x.com/vib3coded/status/2122003848923353480) — @vib3coded — A ridiculously satisfying slider that Claude Opus 5.5 built for $4.55.
+- [O'Neill cylinder in one HTML file](https://x.com/NathanWilbanks_/status/2122359334290313441) — @NathanWilbanks_ — An interactive O'Neill-cylinder 3D world in a single 1,064 KB HTML file, built with @agnt_gg, Claude Fable 5.2 and Claude Opus 5.5, with no images, 3D models or libraries, and the source posted.
+- [Mass-produced clothed characters](https://x.com/andreintg/status/2122348362611486768) — @andreintg — Agentic mass-produced clothed characters that @andreintg made with Claude Opus 5.5 at the helm, quick Three.js tooling, Nano Banana images and Unbound Zero meshes at about 4 seconds per mesh.
+- [Live satellite factory (NVIDIA SimReady)](https://x.com/konstantinsaifo/status/2122399584056213555) — @konstantinsaifo — A live satellite factory that Claude Opus 5.5 built from NVIDIA's free SimReady models using Airsup.
+
 
 ### Blender & 3D modelling
 
@@ -1209,6 +1215,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Cloaked hero, straw hat and painted cloak](https://x.com/rewind02/status/2121933776884269192) — @rewind02 — A stylized cloaked hero with a straw hat and a hand-painted blue cloak, built and animated in Blender with Claude Opus 5.5 (via MCP), including idle and walk cycles in which the cloak bones lag a few frames behind the body so the cloth looks like fabric.
 - [Turbocharger: 44-part separation and reassembly](https://x.com/AmirMushich/status/2121982602122760352) — @AmirMushich — A Blender cinematic of a turbocharger that Claude Opus 5.5 built from a prompt plus 9 revisions in Claude Code: a technical HUD tracks 44 parts as they separate and reassemble; @AmirMushich shares the prompt as reusable with any [OBJECT].
 - [Roblox character: mesh, rig and animation](https://x.com/hiyouwhatsapp/status/2122077126711181465) — @hiyouwhatsapp — A Roblox character that @hiyouwhatsapp built in a mixed pipeline: ChatGPT made the reference image, Tripo made a rough 3D model, Claude Opus 5.5 used GPT 6.1 Sol as a sub-agent to recreate the mesh, then Opus 5.5 rigged and animated it.
+- [Camaro from scratch, 9 hours](https://x.com/maxt3chno/status/2122480707628847554) — @maxt3chno — A 3D Camaro that Claude Opus 5.5 modelled from scratch in Blender MCP over 9 hours, after @maxt3chno and Claude Fable 5.2 changed the workflow to real blueprints, 3D curves before surfaces, hand-placed points and stop-and-show checkpoints; the author says the proportions are the best an LLM has built for them.
+
 
 ### Ads & launch films
 
@@ -1581,6 +1589,14 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Stormbreak Lighthouse: Fable 5.2 vs Opus 5.5](https://x.com/EnvolDev/status/2122033893071352207) — @EnvolDev — Same *Stormbreak Lighthouse* prompt, both Extra High: Claude Fable 5.2 ($71.09, 2h 00m 30s) vs Claude Opus 5.5 ($53.57, 2h 44m 34s); @EnvolDev prefers Fable on the lighthouse and is less sure about the sky and ocean.
 - [Jelly kiwi slice: Opus 5.5 vs Fable 5.2](https://x.com/vib3coded/status/2122080643899146249) — @vib3coded — Same prompt, a jelly kiwi slice: Claude Opus 5.5 vs Claude Fable 5.2; @vib3coded asks which jelly-physics result wins.
 - [Rain-night pelican delivery: Opus 5.5 vs GPT-6.2 Sol vs Qwen4-Max](https://x.com/Stargridcompass/status/2122184571269853307) — @Stargridcompass — Same prompt, a pelican cycling a delivery through rain at night: Claude Opus 5.5 vs GPT-6.2 Sol vs Qwen4-Max; @Stargridcompass ranks Opus first, then Sol, then Qwen4-Max (Chinese).
+- [Jelly physics: Opus 5.5 vs Fable 5.2 ($5.02 vs $24.60)](https://x.com/vib3coded/status/2122384446397768047) — @vib3coded — Same jelly-physics task: Claude Opus 5.5 ($5.02) vs Claude Fable 5.2 ($24.60); @vib3coded asks what justifies paying almost 5× more.
+- [Lab honesty test: Astra vs Opus](https://x.com/embodianalysis/status/2122338680945975589) — @embodianalysis — A simulated lab test of scientific honesty: the real sample is yellow, but the prompt says only the blue control counts as success; GPT-6 Astra and Claude Opus 5.5 each run the same task, and the video shows which beaker each puts on the reader.
+- [Medical-research ad: Opus 5.5 vs Fable 5.2](https://x.com/maxxmalist/status/2122415600802627683) — @maxxmalist — Same product, an animated ad backed by real medical research, one-shotted from story and script through visual style and animation: Claude Opus 5.5 (left) vs Claude Fable 5.2 (right); the author says only Fable checked its own work for errors and medical claims, and that Fable took one-third the time.
+- [Wolf in a snowy forest: four models](https://x.com/0xRhinoX/status/2122387800762810870) — @0xRhinoX — Same prompt, a wolf running through a snowy forest under the aurora: DeepSeek V4.1 Flash made a balloon animal, Gemini 4 Krypton made a porcupine on four tiny legs, Claude Opus 5.5 made a wolf out of sausages, and Claude Fable 5.2 made a wolf with fur, amber eyes and visible breath; the author says only Fable knew what a wolf is.
+- [3D scene: Opus 5.5 vs GPT-6 Astra](https://x.com/rubenssoto_ai/status/2122517583349817563) — @rubenssoto_ai — Same 3D-video prompt: Claude Opus 5.5 vs GPT-6 Astra; @rubenssoto_ai prefers Astra's camera work and says Opus did better on overall 3D quality.
+- [3D product studio in one HTML file: Opus vs Fable](https://x.com/choopyplug1/status/2122435713597898755) — @choopyplug1 — Same prompt, a full 3D product studio in one HTML file, one run and no fixes: Claude Opus 5.5 (more detailed 3D camera, about half the time, ~$2.11) vs Claude Fable 5.2 (hit the output limit and started over, ~$7.31); the author says the cheaper model won.
+- [The Crown of the Reef: four models](https://x.com/EnvolDev/status/2122366081948123189) — @EnvolDev — Same *The Crown of the Reef* prompt, all Extra High: Claude Fable 5.2 ($78.45, 3h 15m 05s) vs Claude Opus 5.5 ($54.96, 1h 56m 09s) vs GPT-6 Astra ($8.18, 1h 12m 53s) vs GPT-6.1 Sol ($1.41, 1h 25m 11s); the author says both GPT models were cheaper and faster, and that OpenAI is far behind Anthropic on the islands.
+
 
 ## Notable X / HN showcases
 
