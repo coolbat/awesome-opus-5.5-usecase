@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1112 entries (last updated 2026-11-17).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1120 entries (last updated 2026-11-18).
 
 ### Motion design & code-drawn animation
 
@@ -570,6 +570,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [GCSE/IGCSE light and optics lessons](https://x.com/techartist_/status/2119120307458097260) — @techartist_ — An app that teaches light and optics for GCSE and IGCSE Physics (reflection, refraction, lenses, the eye, colour, plus A-level interference), ten lessons, built with Opus 5.5.
 - [Minum jadi urine? (with a child)](https://x.com/AdamPrabata/status/2121451941624713588) — @AdamPrabata — A cartoon explainer (*Perjalanan Setetes Air: Minum jadi urine?*) that @AdamPrabata made with their child using Claude Opus 5.5 and ElevenLabs voice (Indonesian).
 - [Airbus A320 flight, ten interactive lessons](https://x.com/techartist_/status/2122020634322723038) — @techartist_ — A 3D web app that teaches how a 78-tonne Airbus A320 stays up on moving air, in ten interactive lessons, built with Claude Opus 5.5 using Blender and Three.js.
+- [Colorado Springs house, full MEP routing](https://x.com/Solvaix/status/2122759994672120184) — @Solvaix — A 1,792 sq ft house in Colorado Springs for which Claude Opus 5.5 routed every MEP system from scratch (1,784 parts: supply, PEX, drains, 19 circuits, gas), then checked the model against 2021 IRC/IPC/IFGC and 2023 NEC; the author says the first pass had 26 clashes, all rerouted, and a later review caught and fixed 8 of its own code mistakes.
 
 ### History & culture
 
@@ -1136,6 +1137,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [O'Neill cylinder in one HTML file](https://x.com/NathanWilbanks_/status/2122359334290313441) — @NathanWilbanks_ — An interactive O'Neill-cylinder 3D world in a single 1,064 KB HTML file, built with @agnt_gg, Claude Fable 5.2 and Claude Opus 5.5, with no images, 3D models or libraries, and the source posted.
 - [Mass-produced clothed characters](https://x.com/andreintg/status/2122348362611486768) — @andreintg — Agentic mass-produced clothed characters that @andreintg made with Claude Opus 5.5 at the helm, quick Three.js tooling, Nano Banana images and Unbound Zero meshes at about 4 seconds per mesh.
 - [Live satellite factory (NVIDIA SimReady)](https://x.com/konstantinsaifo/status/2122399584056213555) — @konstantinsaifo — A live satellite factory that Claude Opus 5.5 built from NVIDIA's free SimReady models using Airsup.
+- [Papertrails papercraft world](https://x.com/xikhar/status/2122682962647122403) — @xikhar — *Papertrails*, an endless papercraft world that pops up around you in the browser with three.js, built with Claude Fable 5.2 and Claude Opus 5.5; @xikhar shares the prompt and workflow.
 
 
 ### Blender & 3D modelling
@@ -1596,6 +1598,12 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [3D scene: Opus 5.5 vs GPT-6 Astra](https://x.com/rubenssoto_ai/status/2122517583349817563) — @rubenssoto_ai — Same 3D-video prompt: Claude Opus 5.5 vs GPT-6 Astra; @rubenssoto_ai prefers Astra's camera work and says Opus did better on overall 3D quality.
 - [3D product studio in one HTML file: Opus vs Fable](https://x.com/choopyplug1/status/2122435713597898755) — @choopyplug1 — Same prompt, a full 3D product studio in one HTML file, one run and no fixes: Claude Opus 5.5 (more detailed 3D camera, about half the time, ~$2.11) vs Claude Fable 5.2 (hit the output limit and started over, ~$7.31); the author says the cheaper model won.
 - [The Crown of the Reef: four models](https://x.com/EnvolDev/status/2122366081948123189) — @EnvolDev — Same *The Crown of the Reef* prompt, all Extra High: Claude Fable 5.2 ($78.45, 3h 15m 05s) vs Claude Opus 5.5 ($54.96, 1h 56m 09s) vs GPT-6 Astra ($8.18, 1h 12m 53s) vs GPT-6.1 Sol ($1.41, 1h 25m 11s); the author says both GPT models were cheaper and faster, and that OpenAI is far behind Anthropic on the islands.
+- [Jelly avocado: Opus 5.5 vs Fable 5.2](https://x.com/vib3coded/status/2122720048020087223) — @vib3coded — A same-prompt jelly avocado: Claude Opus 5.5 ($11.29) vs Claude Fable 5.2 ($22.02); the author asks whether Fable's avocado looks twice as good at almost twice the price.
+- [Van Gogh Gaussian-splat world: GPT-6.2 Sol vs Opus 5.5](https://x.com/sshayahmet/status/2122778769597554693) — @sshayahmet — The same Van Gogh-inspired Gaussian splat world: GPT-6.2 Sol (~1 hour, ~$5.45) vs Claude Opus 5.5 (53 min, ~$12.14); @sshayahmet says Sol took a little longer, cost less than half as much, and did a great job, and posts live links to both.
+- [The Up House: four models](https://x.com/noclipepe/status/2122787081252753482) — @noclipepe — Same *The Up House* test: GPT-6.2 Astra (15m 57s, $2.54) vs GPT-6.2 Sol (10m 52s, $0.67) vs Claude Fable 5.2 (45m 44s, $19.10) vs Claude Opus 5.5 (36m 46s, $4.20); the author says Astra built a better house than Fable, 3× faster and 7.5× cheaper, and that Sol is the only one with real balloon-and-house physics.
+- [Alpine Gold: GPT-6.2 Sol vs Opus 5.5](https://x.com/EnvolDev/status/2122788867694858629) — @EnvolDev — Same Alpine Gold prompt, a plane: GPT-6.2 Sol ($2.07, 30m 47s) vs Claude Opus 5.5 ($31.85, 2h 45m 42s); the author says Sol is over 15× cheaper and over 5× faster, and that this one is hard to judge.
+- [Vegetation and fire: GPT-6.2 Astra vs Fable 5.2 vs Opus 5.5](https://x.com/rubenssoto_ai/status/2122879969420566740) — @rubenssoto_ai — GPT-6.2 Astra vs Claude Fable 5.2 vs Claude Opus 5.5 on the same 3D scene; the author says Astra is 3× cheaper than Fable and 2× cheaper than Opus, that Fable looks more realistic overall, and that Astra's vegetation and fire looked better than Opus's.
+- [Storm lighthouse: GPT-6.2 Astra vs Opus 5.5](https://x.com/PawelJLisowski/status/2122977741993660867) — @PawelJLisowski — Same prompt, a lighthouse on a rocky coast in a violent storm at night, 10 seconds, one Python script and no assets: GPT-6.2 Astra vs Claude Opus 5.5, both writing 1,000+ lines of Blender code from a single prompt.
 
 
 ## Notable X / HN showcases
