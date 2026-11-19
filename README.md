@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1120 entries (last updated 2026-11-18).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1130 entries (last updated 2026-11-19).
 
 ### Motion design & code-drawn animation
 
@@ -960,6 +960,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Luminati 2.5D pixel-art engine (city view)](https://x.com/tirthaexe/status/2120518958512321022) — @tirthaexe — A city view from the Luminati 2.5D pixel-art engine, built with Claude Opus 5.5.
 - [Jet-ski mini-game (4 hours)](https://x.com/maxt3chno/status/2122305000479052022) — @maxt3chno — A browser jet-ski mini-game with tricks, monster-wave mechanics, physics, a HUD and sound, that Claude Fable 5.2 planned in seven stages and Claude Opus 5.5 executed, in 4 hours; @maxt3chno says the only 3D model is the rider and that the run used about 5% of a weekly Max quota.
 - [Rabbit vs robot cinematic 3D fighter](https://x.com/Lummox_eth/status/2122349131658080411) — @Lummox_eth — A cinematic 3D fighting game in which a fast rabbit faces a heavier robot titan, with combat logic, animation states and hit detection by Claude Opus 5.5 and characters, rigs and the industrial arena in Blender.
+- [Warships mini-game (2 hours)](https://x.com/maxt3chno/status/2123064075802296326) — @maxt3chno — A playable browser warships mini-game with no external 3D models, that @maxt3chno says Claude Opus 5.5 and GPT-6.2 built in parallel in 2 hours; Opus 5.5 made the procedural ship, custom water and sky shaders, ship physics and shooting mechanics.
+- [GTA 6-style driving scene](https://x.com/Mr_Salio/status/2123056752870494303) — @Mr_Salio — A GTA 6-style driving scene that @Mr_Salio says Claude Opus 5.5 recreated in 40 minutes for $3, set beside the claim that GTA 6 took 13 years and $1.5 billion.
 
 
 ### Real-time 3D, WebGL & shaders
@@ -1138,6 +1140,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Mass-produced clothed characters](https://x.com/andreintg/status/2122348362611486768) — @andreintg — Agentic mass-produced clothed characters that @andreintg made with Claude Opus 5.5 at the helm, quick Three.js tooling, Nano Banana images and Unbound Zero meshes at about 4 seconds per mesh.
 - [Live satellite factory (NVIDIA SimReady)](https://x.com/konstantinsaifo/status/2122399584056213555) — @konstantinsaifo — A live satellite factory that Claude Opus 5.5 built from NVIDIA's free SimReady models using Airsup.
 - [Papertrails papercraft world](https://x.com/xikhar/status/2122682962647122403) — @xikhar — *Papertrails*, an endless papercraft world that pops up around you in the browser with three.js, built with Claude Fable 5.2 and Claude Opus 5.5; @xikhar shares the prompt and workflow.
+- [Trading-card pack: three WebGL rip-open effects](https://x.com/Ayoubka_/status/2123075696717074493) — @Ayoubka_ — Three live WebGL ways to rip open the same pack (crystal shatters, a storm, and pixels rebuilding the card), designed in Figma and built in code by Claude Opus 5.5, with no prerendered video.
 
 
 ### Blender & 3D modelling
@@ -1218,6 +1221,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Turbocharger: 44-part separation and reassembly](https://x.com/AmirMushich/status/2121982602122760352) — @AmirMushich — A Blender cinematic of a turbocharger that Claude Opus 5.5 built from a prompt plus 9 revisions in Claude Code: a technical HUD tracks 44 parts as they separate and reassemble; @AmirMushich shares the prompt as reusable with any [OBJECT].
 - [Roblox character: mesh, rig and animation](https://x.com/hiyouwhatsapp/status/2122077126711181465) — @hiyouwhatsapp — A Roblox character that @hiyouwhatsapp built in a mixed pipeline: ChatGPT made the reference image, Tripo made a rough 3D model, Claude Opus 5.5 used GPT 6.1 Sol as a sub-agent to recreate the mesh, then Opus 5.5 rigged and animated it.
 - [Camaro from scratch, 9 hours](https://x.com/maxt3chno/status/2122480707628847554) — @maxt3chno — A 3D Camaro that Claude Opus 5.5 modelled from scratch in Blender MCP over 9 hours, after @maxt3chno and Claude Fable 5.2 changed the workflow to real blueprints, 3D curves before surfaces, hand-placed points and stop-and-show checkpoints; the author says the proportions are the best an LLM has built for them.
+- [Forest elf, 9 animations](https://x.com/theparuchh/status/2123078869829697920) — @theparuchh — Nine Blender animations for a forest elf, made with Claude Opus 5.5 Max in 9 hours; the author says they have no Blender experience and never touched the app, and shares tips such as giving the hero her own light.
 
 
 ### Ads & launch films
@@ -1604,6 +1608,12 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Alpine Gold: GPT-6.2 Sol vs Opus 5.5](https://x.com/EnvolDev/status/2122788867694858629) — @EnvolDev — Same Alpine Gold prompt, a plane: GPT-6.2 Sol ($2.07, 30m 47s) vs Claude Opus 5.5 ($31.85, 2h 45m 42s); the author says Sol is over 15× cheaper and over 5× faster, and that this one is hard to judge.
 - [Vegetation and fire: GPT-6.2 Astra vs Fable 5.2 vs Opus 5.5](https://x.com/rubenssoto_ai/status/2122879969420566740) — @rubenssoto_ai — GPT-6.2 Astra vs Claude Fable 5.2 vs Claude Opus 5.5 on the same 3D scene; the author says Astra is 3× cheaper than Fable and 2× cheaper than Opus, that Fable looks more realistic overall, and that Astra's vegetation and fire looked better than Opus's.
 - [Storm lighthouse: GPT-6.2 Astra vs Opus 5.5](https://x.com/PawelJLisowski/status/2122977741993660867) — @PawelJLisowski — Same prompt, a lighthouse on a rocky coast in a violent storm at night, 10 seconds, one Python script and no assets: GPT-6.2 Astra vs Claude Opus 5.5, both writing 1,000+ lines of Blender code from a single prompt.
+- [Ice strawberry melt: four models](https://x.com/lemomo_ai/status/2123305001804333337) — @lemomo_ai — The same iced-strawberry melting prompt at High, compared across Gemini 4 Neon, Claude Fable 5.2, Claude Opus 5.5 and GPT-6.2 Astra.
+- [Miniature fishing harbor in a sunshower: four models](https://x.com/monkeys_im/status/2123115364552986689) — @monkeys_im — Same prompt, a miniature fishing harbor in a sunshower in 3D with a slowly orbiting camera: GPT-6.2 Sol vs GPT-6.1 Sol vs Gemini 4 Carbon vs Claude Opus 5.5; the author says costs ran from $0.28 to $7.72 and that this is 1 of 6 jobs in a public eval.
+- [Stormbreak Lighthouse: four models](https://x.com/EnvolDev/status/2123091774520623462) — @EnvolDev — Same Stormbreak Lighthouse prompt: GPT-6.2 Astra ($8.11, 49m 51s) vs GPT-6.2 Sol ($1.47, 25m 04s) vs Claude Fable 5.2 ($71.09, 2h 00m 30s) vs Claude Opus 5.5 ($53.57, 2h 44m 34s); the author praises Astra and Sol for lighthouse detail, and Fable and Opus for the ocean, and notes both GPT models beat Opus 5.5 on cost and time.
+- [Cyberpunk glass sphere: Opus 5.5 vs Astra 6.2](https://x.com/YxzRainy/status/2123090720072650988) — @YxzRainy — The same code-generated cyberpunk glass sphere: Claude Opus 5.5 vs GPT-6.2 Astra; the author says Opus fills the scene with neon and Astra looks more restrained.
+- [Jelly watermelon slice: Astra 6.2 vs Opus 5.5](https://x.com/vib3coded/status/2123083433744425116) — @vib3coded — Same prompt, a jelly watermelon slice: GPT-6.2 Astra vs Claude Opus 5.5; @vib3coded asks which result nailed the wobble on the first bounce.
+- [Snowy Tokyo Station: four models](https://x.com/muku_sns/status/2123350518856597619) — @muku_sns — Same prompt, a snowy Tokyo Station in a single Three.js HTML file, one shot with no manual edits: Gemini 4 Neon (202s) vs Gemini 4 Carbon (587s) vs Claude Opus 5.5 (200s) vs GPT-6.1 Sol (101s).
 
 
 ## Notable X / HN showcases
