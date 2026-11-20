@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1130 entries (last updated 2026-11-19).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1149 entries (last updated 2026-11-20).
 
 ### Motion design & code-drawn animation
 
@@ -571,6 +571,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Minum jadi urine? (with a child)](https://x.com/AdamPrabata/status/2121451941624713588) — @AdamPrabata — A cartoon explainer (*Perjalanan Setetes Air: Minum jadi urine?*) that @AdamPrabata made with their child using Claude Opus 5.5 and ElevenLabs voice (Indonesian).
 - [Airbus A320 flight, ten interactive lessons](https://x.com/techartist_/status/2122020634322723038) — @techartist_ — A 3D web app that teaches how a 78-tonne Airbus A320 stays up on moving air, in ten interactive lessons, built with Claude Opus 5.5 using Blender and Three.js.
 - [Colorado Springs house, full MEP routing](https://x.com/Solvaix/status/2122759994672120184) — @Solvaix — A 1,792 sq ft house in Colorado Springs for which Claude Opus 5.5 routed every MEP system from scratch (1,784 parts: supply, PEX, drains, 19 circuits, gas), then checked the model against 2021 IRC/IPC/IFGC and 2023 NEC; the author says the first pass had 26 clashes, all rerouted, and a later review caught and fixed 8 of its own code mistakes.
+- [One house, five city codes](https://x.com/Solvaix/status/2123504541005926841) — @Solvaix — Claude Opus 5.5 tried to make one 1,440 sf house, with MEP built to Houston code, legal in Los Angeles, Miami, Buffalo and Chicago; every city found something, and the author cites Los Angeles issues including no fire sprinklers, no rooftop solar, and a gas furnace.
 
 ### History & culture
 
@@ -679,6 +680,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Sam Altman or Ram Altman?](https://x.com/Jtyles/status/2117968380690882900) — @Jtyles — A short comic video ending on a twist, made with Claude Opus 5.5.
 
 - [Film VFX pipeline (Blender, Houdini, Nuke)](https://x.com/AlexPi194641/status/2120248196584648758) — @AlexPi194641 — A film VFX shot from a real pipeline in Blender, Houdini and Nuke: 580+ notes, no generated frames, and no hand edits, directed by talking to Claude Opus 5.5 (WIP).
+- [Viking fleet in a backyard](https://x.com/Linus_K_AI/status/2123007811722326104) — @Linus_K_AI — An 80-second short in which three boys with cardboard boxes and a garden hose imagine a viking fleet fighting a sea serpent, made with Claude Opus 5.5 running in omp with a fal agent; the author says every image, shot and sound was generated on fal.
+- [Own-character short](https://x.com/naxweb3/status/2123385665425641846) — @naxweb3 — A short with the author's own character, made with Claude Opus 5.5, Blender on Windows and ElevenLabs; the author says the result is not yet very good and that they will share the breakdown if it gets views.
 
 ### Claude on itself
 
@@ -962,6 +965,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Rabbit vs robot cinematic 3D fighter](https://x.com/Lummox_eth/status/2122349131658080411) — @Lummox_eth — A cinematic 3D fighting game in which a fast rabbit faces a heavier robot titan, with combat logic, animation states and hit detection by Claude Opus 5.5 and characters, rigs and the industrial arena in Blender.
 - [Warships mini-game (2 hours)](https://x.com/maxt3chno/status/2123064075802296326) — @maxt3chno — A playable browser warships mini-game with no external 3D models, that @maxt3chno says Claude Opus 5.5 and GPT-6.2 built in parallel in 2 hours; Opus 5.5 made the procedural ship, custom water and sky shaders, ship physics and shooting mechanics.
 - [GTA 6-style driving scene](https://x.com/Mr_Salio/status/2123056752870494303) — @Mr_Salio — A GTA 6-style driving scene that @Mr_Salio says Claude Opus 5.5 recreated in 40 minutes for $3, set beside the claim that GTA 6 took 13 years and $1.5 billion.
+- [Night mode, Day 3](https://x.com/camperaigg/status/2122999485232271706) — @camperaigg — Day 3 of an AI game-dev log: with Fable 5.2 no longer on a $20 plan, the author built features with Claude Opus 5.5 Xhigh, adding night mode, a space shuttle, and a navigation torch on the rifle for night and deeper exploration.
+- [Three.js driving simulator](https://x.com/korinVR/status/2123432180827508995) — @korinVR — A Three.js driving simulator that the author has been building with Claude Opus 5.5 for about two weeks; they say the handling is still not right and there is a long way to go.
 
 
 ### Real-time 3D, WebGL & shaders
@@ -1141,6 +1146,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Live satellite factory (NVIDIA SimReady)](https://x.com/konstantinsaifo/status/2122399584056213555) — @konstantinsaifo — A live satellite factory that Claude Opus 5.5 built from NVIDIA's free SimReady models using Airsup.
 - [Papertrails papercraft world](https://x.com/xikhar/status/2122682962647122403) — @xikhar — *Papertrails*, an endless papercraft world that pops up around you in the browser with three.js, built with Claude Fable 5.2 and Claude Opus 5.5; @xikhar shares the prompt and workflow.
 - [Trading-card pack: three WebGL rip-open effects](https://x.com/Ayoubka_/status/2123075696717074493) — @Ayoubka_ — Three live WebGL ways to rip open the same pack (crystal shatters, a storm, and pixels rebuilding the card), designed in Figma and built in code by Claude Opus 5.5, with no prerendered video.
+- [AAA look in the browser](https://x.com/rewind02/status/2123745767286276410) — @rewind02 — Game environments in the browser that aim for an AAA look with Claude Opus 5.5 and three.js, using a PBR rendering pipeline built from papers, talks and Unreal's published material rather than image generation, and tuned with math instead of gut feeling.
+- [The Hall of Midas](https://x.com/scottstts/status/2123446954541666717) — @scottstts — *The Hall of Midas*, a three.js scene made with Claude Fable 5.2 and Claude Opus 5.5, whose decorations and sculpted carvings are procedural and, the author says, essentially just math.
 
 
 ### Blender & 3D modelling
@@ -1222,6 +1229,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Roblox character: mesh, rig and animation](https://x.com/hiyouwhatsapp/status/2122077126711181465) — @hiyouwhatsapp — A Roblox character that @hiyouwhatsapp built in a mixed pipeline: ChatGPT made the reference image, Tripo made a rough 3D model, Claude Opus 5.5 used GPT 6.1 Sol as a sub-agent to recreate the mesh, then Opus 5.5 rigged and animated it.
 - [Camaro from scratch, 9 hours](https://x.com/maxt3chno/status/2122480707628847554) — @maxt3chno — A 3D Camaro that Claude Opus 5.5 modelled from scratch in Blender MCP over 9 hours, after @maxt3chno and Claude Fable 5.2 changed the workflow to real blueprints, 3D curves before surfaces, hand-placed points and stop-and-show checkpoints; the author says the proportions are the best an LLM has built for them.
 - [Forest elf, 9 animations](https://x.com/theparuchh/status/2123078869829697920) — @theparuchh — Nine Blender animations for a forest elf, made with Claude Opus 5.5 Max in 9 hours; the author says they have no Blender experience and never touched the app, and shares tips such as giving the hero her own light.
+- [Mechanical emu, part-by-part](https://x.com/rewind02/status/2123385691530813632) — @rewind02 — A mechanical emu modelled in Blender with Claude Opus 5.5, built from repeated parts rather than one mesh: an egg-shaped body, a neck of duplicated rings, hard-surface legs, a bone-chain neck and IK bird legs, then idle and walk cycles checked against concept art in a review scene.
+- [Daruma-chan, ~10k tris](https://x.com/fe_yukichi/status/2123613656009392338) — @fe_yukichi — A roughly 10,000-triangle *daruma-chan* (だる魔ちゃん) character modelled in Blender with Claude Opus 5.5; the author says the workflow has improved and they plan to share more of it.
+- [Tripo character cleaned in Blender](https://x.com/0xKense1/status/2123416266132058376) — @0xKense1 — A character for an open-world Miami scene: three A-pose views went into Tripo (99,040 tris), then Claude Opus 5.5 cleaned the mesh in Blender to 1.80 m and 75,000 tris with three lighter LODs, 2K textures and 86 Unreal-named bones; the author then added 120 mocap moves and a rifle in Unreal.
 
 
 ### Ads & launch films
@@ -1614,6 +1624,15 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Cyberpunk glass sphere: Opus 5.5 vs Astra 6.2](https://x.com/YxzRainy/status/2123090720072650988) — @YxzRainy — The same code-generated cyberpunk glass sphere: Claude Opus 5.5 vs GPT-6.2 Astra; the author says Opus fills the scene with neon and Astra looks more restrained.
 - [Jelly watermelon slice: Astra 6.2 vs Opus 5.5](https://x.com/vib3coded/status/2123083433744425116) — @vib3coded — Same prompt, a jelly watermelon slice: GPT-6.2 Astra vs Claude Opus 5.5; @vib3coded asks which result nailed the wobble on the first bounce.
 - [Snowy Tokyo Station: four models](https://x.com/muku_sns/status/2123350518856597619) — @muku_sns — Same prompt, a snowy Tokyo Station in a single Three.js HTML file, one shot with no manual edits: Gemini 4 Neon (202s) vs Gemini 4 Carbon (587s) vs Claude Opus 5.5 (200s) vs GPT-6.1 Sol (101s).
+- [Mediterranean cottage: Opus 5.5 vs Neon](https://x.com/TypingMindApp/status/2123370252482572447) — @TypingMindApp — The same photoreal Mediterranean cottage under an olive tree, every pixel drawn in code: Claude Opus 5.5 (~$8.24 for the whole chat) vs Gemini 4 Neon (~$2.06); the author says Neon is 4× cheaper but Opus 5.5 still looks better.
+- [Peacock test: Neon vs Opus 5.5](https://x.com/SahilPanhotra/status/2123353722256597004) — @SahilPanhotra — The same peacock test as SVG code in a single HTML file: Gemini 4 Neon vs Claude Opus 5.5; the author says Neon beat Opus 5.5, calls this their best peacock yet, and cites a run of 7.7M tokens and $8.12 in API costs.
+- [One-shot short cartoon: three models](https://x.com/riffydays/status/2123334046797410563) — @riffydays — The same one-shot prompt for a short cartoon, directed by Claude Opus 5.5 vs Gemini Neon, plus GPT-6.2 Astra.
+- [Alpine Gold: Neon vs Sol vs Opus 5.5](https://x.com/EnvolDev/status/2123513643463815333) — @EnvolDev — The same Alpine Gold prompt: Gemini 4 Neon ($11.84, 1h 31m 11s) vs GPT-6.2 Sol ($2.07, 30m 47s) vs Claude Opus 5.5 ($31.85, 2h 45m 42s); the author says Sol was over 15× cheaper and over 5× faster than Opus 5.5.
+- [Code-only 3D scene: three models](https://x.com/ivanainai/status/2123507543544680797) — @ivanainai — The same prompt, a 3D scene built in code with no premade assets: Claude Opus 5.5 ($0.50) vs Gemini 4 Neon ($0.32) vs GPT-6.2 Astra ($0.20).
+- [Vice City voxel hotel: Neon vs Opus 5.5](https://x.com/vib3coded/status/2123555390486872443) — @vib3coded — The same voxel hotel in a GTA 6 Vice City style: Gemini 4 Neon at $0.27 vs Claude Opus 5.5 at $6.98; the author would pick Opus on looks alone and asks whether those details are worth almost 26× the cost.
+- [Ruby Ascent: four models](https://x.com/EnvolDev/status/2123453245548794030) — @EnvolDev — The same Ruby Ascent prompt: GPT-6.2 Astra ($8.87, 41m 09s) vs GPT-6.2 Sol ($3.01, 48m 27s) vs Claude Opus 5.5 ($46.81, 2h 02m 12s) vs Claude Fable 5.2 ($78.68, 2h 12m 58s); the author says both GPT models finished in under 50 minutes and both Claude models took over 2 hours, with Sol over 26× cheaper than Fable 5.2.
+- [Mechanical watch: Neon vs Opus 5.5](https://x.com/remoteugur/status/2123416610794848660) — @remoteugur — The same prompt, a working mechanical wristwatch that comes apart: Claude Opus 5.5 (44 minutes, $10) vs Gemini 4 Neon (22 minutes, about $4); Opus on the left, Neon on the right.
+- [Jelly whale: Opus 5.5 vs Astra](https://x.com/vib3coded/status/2123714042451694073) — @vib3coded — The same jelly-whale wobble prompt: Claude Opus 5.5 vs GPT-6.2 Astra; the author hides the price tags and asks which whale you would poke first.
 
 
 ## Notable X / HN showcases
