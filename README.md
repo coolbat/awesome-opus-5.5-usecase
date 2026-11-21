@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1149 entries (last updated 2026-11-20).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1162 entries (last updated 2026-11-21).
 
 ### Motion design & code-drawn animation
 
@@ -472,6 +472,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Eight more components, Opus 5.5 again](https://x.com/csaba_kissi/status/2120919476174827528) — @csaba_kissi — Another set of 8 components made with Claude Opus 5.5.
 - [Another iteration of elements](https://x.com/csaba_kissi/status/2121665294875894082) — @csaba_kissi — Another iteration of motion elements that @csaba_kissi says was created with Claude Opus 5.5.
 - [More chart, timeline, gauge and flow elements](https://x.com/csaba_kissi/status/2122006586268745841) — @csaba_kissi — More chart, timeline, gauge and flow motion elements that @csaba_kissi made with Claude Opus 5.5.
+- [Video editor built with Opus 5.5](https://x.com/nerikeshi_k/status/2123783641088327940) — @nerikeshi_k — A video-editing tool that the author is building together with Claude Opus 5.5; they say it may be looking better than before (Japanese).
 ### Explainers & education
 
 - [Interactive camera-focus lens lab](https://x.com/RyanSael/status/2102591147927654847) — @RyanSael — An interactive lens lab explaining camera focus, one-shot by Opus 5.5 in 1 h 26 min for about $25.66 of API cost.
@@ -760,6 +761,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 
 - ["FOR YOU" five-movement piece](https://x.com/aug5thmusic/status/2117612012314439957) — @aug5thmusic — *FOR YOU*, about 5½ minutes in five movements: Opus 5.5 created the music and visuals and wrote a program note on its feelings for humanity.
 - [Kasane / 襲 (guitar + glass plates)](https://x.com/Charlotteqozf/status/2117540979007983848) — @Charlotteqozf — *Kasane*: Opus 5.5's guitar track visualized as stacked glass plates (ink / gold foil / line / watercolor) that merge into one picture (Japanese).
+- [Weather-grown plant synth](https://x.com/parhelion318/status/2123982460090503626) — @parhelion318 — A slow bio-inspired synth: a simulated plant that grows from location, time and weather simulation and produces unique sounds over days, made with Claude Fable 5.2 and Claude Opus 5.5.
+- [Agentic DAW album](https://x.com/hraness/status/2123790017440964622) — @hraness — After 15 years of producing electronic music in Ableton, the author asked Claude to make a song from scratch: they built a fully agentic DAW, a library of synthesized instruments and effects, and a vocal synth, then iterated for a month on an album (pointers included Hannah Diamond, A. G. Cook, Casey MQ, Greg Egan's *Permutation City* and *The Metamorphosis of Prime Intellect*). They say they mostly used Claude Opus 5.5, with some Fable 5.2 at the end.
 
 ### Games & gameplay
 
@@ -967,6 +970,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [GTA 6-style driving scene](https://x.com/Mr_Salio/status/2123056752870494303) — @Mr_Salio — A GTA 6-style driving scene that @Mr_Salio says Claude Opus 5.5 recreated in 40 minutes for $3, set beside the claim that GTA 6 took 13 years and $1.5 billion.
 - [Night mode, Day 3](https://x.com/camperaigg/status/2122999485232271706) — @camperaigg — Day 3 of an AI game-dev log: with Fable 5.2 no longer on a $20 plan, the author built features with Claude Opus 5.5 Xhigh, adding night mode, a space shuttle, and a navigation torch on the rifle for night and deeper exploration.
 - [Three.js driving simulator](https://x.com/korinVR/status/2123432180827508995) — @korinVR — A Three.js driving simulator that the author has been building with Claude Opus 5.5 for about two weeks; they say the handling is still not right and there is a long way to go.
+- [Playable box-garden slice](https://x.com/ZacharyZhang/status/2123568706877788638) — @ZacharyZhang — A playable pseudo-3D box-garden game (箱庭世界) with a limited camera, built in Cindy collaborative mode: Claude Opus 5.5 wrote the code, Gemini 4 Carbon wrote the copy, and Kimi K3.1 Pro reviewed and handled art, using Tiled Map Editor, Aseprite and Godot. The author says this 15-minute slice is part of a planned ~5-hour story (Chinese).
 
 
 ### Real-time 3D, WebGL & shaders
@@ -1148,6 +1152,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Trading-card pack: three WebGL rip-open effects](https://x.com/Ayoubka_/status/2123075696717074493) — @Ayoubka_ — Three live WebGL ways to rip open the same pack (crystal shatters, a storm, and pixels rebuilding the card), designed in Figma and built in code by Claude Opus 5.5, with no prerendered video.
 - [AAA look in the browser](https://x.com/rewind02/status/2123745767286276410) — @rewind02 — Game environments in the browser that aim for an AAA look with Claude Opus 5.5 and three.js, using a PBR rendering pipeline built from papers, talks and Unreal's published material rather than image generation, and tuned with math instead of gut feeling.
 - [The Hall of Midas](https://x.com/scottstts/status/2123446954541666717) — @scottstts — *The Hall of Midas*, a three.js scene made with Claude Fable 5.2 and Claude Opus 5.5, whose decorations and sculpted carvings are procedural and, the author says, essentially just math.
+- [Cat's-eye world (single HTML file)](https://x.com/NathanWilbanks_/status/2123540831302979764) — @NathanWilbanks_ — An interactive cat's-eye world in a single HTML file, with no images, 3D models or libraries, built using @agnt_gg with Claude Fable 5.2 and Claude Opus 5.5; the author shares the full source.
 
 
 ### Blender & 3D modelling
@@ -1232,6 +1237,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Mechanical emu, part-by-part](https://x.com/rewind02/status/2123385691530813632) — @rewind02 — A mechanical emu modelled in Blender with Claude Opus 5.5, built from repeated parts rather than one mesh: an egg-shaped body, a neck of duplicated rings, hard-surface legs, a bone-chain neck and IK bird legs, then idle and walk cycles checked against concept art in a review scene.
 - [Daruma-chan, ~10k tris](https://x.com/fe_yukichi/status/2123613656009392338) — @fe_yukichi — A roughly 10,000-triangle *daruma-chan* (だる魔ちゃん) character modelled in Blender with Claude Opus 5.5; the author says the workflow has improved and they plan to share more of it.
 - [Tripo character cleaned in Blender](https://x.com/0xKense1/status/2123416266132058376) — @0xKense1 — A character for an open-world Miami scene: three A-pose views went into Tripo (99,040 tris), then Claude Opus 5.5 cleaned the mesh in Blender to 1.80 m and 75,000 tris with three lighter LODs, 2K textures and 86 Unreal-named bones; the author then added 120 mocap moves and a rifle in Unreal.
+- [F-16C over a 1:1 Earth](https://x.com/SamGCoder/status/2123566118329786593) — @SamGCoder — Claude Opus 5.5 built an F-16C in Blender from reference drawings; the author then added flight physics, afterburners, vapour cones, contrails and shock waves that distort the light, all hardware ray-traced in Rust + Vulkan, with PS5 controller support, on a 1:1-scale Earth renderer.
 
 
 ### Ads & launch films
@@ -1633,6 +1639,13 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Ruby Ascent: four models](https://x.com/EnvolDev/status/2123453245548794030) — @EnvolDev — The same Ruby Ascent prompt: GPT-6.2 Astra ($8.87, 41m 09s) vs GPT-6.2 Sol ($3.01, 48m 27s) vs Claude Opus 5.5 ($46.81, 2h 02m 12s) vs Claude Fable 5.2 ($78.68, 2h 12m 58s); the author says both GPT models finished in under 50 minutes and both Claude models took over 2 hours, with Sol over 26× cheaper than Fable 5.2.
 - [Mechanical watch: Neon vs Opus 5.5](https://x.com/remoteugur/status/2123416610794848660) — @remoteugur — The same prompt, a working mechanical wristwatch that comes apart: Claude Opus 5.5 (44 minutes, $10) vs Gemini 4 Neon (22 minutes, about $4); Opus on the left, Neon on the right.
 - [Jelly whale: Opus 5.5 vs Astra](https://x.com/vib3coded/status/2123714042451694073) — @vib3coded — The same jelly-whale wobble prompt: Claude Opus 5.5 vs GPT-6.2 Astra; the author hides the price tags and asks which whale you would poke first.
+- [Voxel dragon and pagoda: Neon vs Opus 5.5](https://x.com/marcthecreatorr/status/2123772997328576587) — @marcthecreatorr — The same prompt, an interactive 3D voxel dragon and pagoda diorama with zero external assets: Gemini 4 Neon (11 minutes, 3.1M tokens, about $1.6) vs Claude Opus 5.5 (50 minutes, 7M tokens, about $7). The author says Opus did better on the dragon itself, and they liked Neon's pagoda and night lighting.
+- [Mechanical stingray: Opus 5.5 vs Blender](https://x.com/Lummox_eth/status/2123500296420958487) — @Lummox_eth — The same robotic stingray, with metallic wings and a segmented tail: Claude Opus 5.5 ($28.14, 3m 53s) vs Blender ($15.53, 2m 37s). The author says the Blender run finished 76 seconds faster and cost less, and that the hard part is getting both wings to move together.
+- [Blind 3D hammer test (Blender MCP)](https://x.com/maxt3chno/status/2123911052832190818) — @maxt3chno — A blind Blender MCP test with no image references, no web search and no assets: the same simple prompt for a 3D hammer, run on GPT Astra 6.2 (8 minutes, 7%), Gemini 4 Neon (19 minutes, 3%) and Claude Opus 5.5 (32 minutes, ~5%). The author asks which one nailed it.
+- [Cable car: Astra vs Sol vs Fable vs Opus 5.5](https://x.com/EnvolDev/status/2123876031346200772) — @EnvolDev — The same cable-car prompt across GPT-6.2 Astra, GPT-6.2 Sol, Claude Fable 5.2 and Claude Opus 5.5. The author says Astra leads on cabin detail and color, Fable 5.2 gets the background mountains and the river cascade, and Astra is over 13× cheaper.
+- [Night takeoff: Opus 5.5 vs Astra vs Neon](https://x.com/SamgreyAi/status/2123898746329071698) — @SamgreyAi — The same prompt, an airplane taking off at night, in three workflows: Claude Opus 5.5 (warm airport lights, a control tower and glowing engines), GPT-6.2 Astra (a bright dusk sky and a clear plane, but a steep climb), and Gemini 4 Neon (a dark plane on a dark runway with little detail).
+- [Two ships: Blender vs Three.js (Opus 5.5 High)](https://x.com/shmopixbzn/status/2123902537937866974) — @shmopixbzn — The same task, twice with Claude Opus 5.5 High: a Blender run (2 hours) vs a Three.js run (28 minutes). The author shows both ships and asks which one wins.
+- [Seaplane over Bora Bora (OutputBench)](https://x.com/eliadele/status/2123878763624857693) — @eliadele — The same one-sentence prompt on OutputBench, an ultra-realistic seaplane flying over Bora Bora, landing on the water and letting passengers off, given to 4 frontier models. The author says Claude Opus 5.5 "completely lost its mind and ran for 12 hours 53" (the post text is truncated there).
 
 
 ## Notable X / HN showcases
