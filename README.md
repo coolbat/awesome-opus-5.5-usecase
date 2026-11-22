@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1162 entries (last updated 2026-11-21).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1169 entries (last updated 2026-11-22).
 
 ### Motion design & code-drawn animation
 
@@ -473,6 +473,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Another iteration of elements](https://x.com/csaba_kissi/status/2121665294875894082) — @csaba_kissi — Another iteration of motion elements that @csaba_kissi says was created with Claude Opus 5.5.
 - [More chart, timeline, gauge and flow elements](https://x.com/csaba_kissi/status/2122006586268745841) — @csaba_kissi — More chart, timeline, gauge and flow motion elements that @csaba_kissi made with Claude Opus 5.5.
 - [Video editor built with Opus 5.5](https://x.com/nerikeshi_k/status/2123783641088327940) — @nerikeshi_k — A video-editing tool that the author is building together with Claude Opus 5.5; they say it may be looking better than before (Japanese).
+- [Car brand design from one graphic motif](https://x.com/nono_ai_archive/status/2124450317836407098) — @nono_ai_archive — A car-brand design piece that starts from a single graphic motif; the motion was made with Claude Opus 5.5 (the post also credits GPT; Korean).
 ### Explainers & education
 
 - [Interactive camera-focus lens lab](https://x.com/RyanSael/status/2102591147927654847) — @RyanSael — An interactive lens lab explaining camera focus, one-shot by Opus 5.5 in 1 h 26 min for about $25.66 of API cost.
@@ -573,6 +574,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Airbus A320 flight, ten interactive lessons](https://x.com/techartist_/status/2122020634322723038) — @techartist_ — A 3D web app that teaches how a 78-tonne Airbus A320 stays up on moving air, in ten interactive lessons, built with Claude Opus 5.5 using Blender and Three.js.
 - [Colorado Springs house, full MEP routing](https://x.com/Solvaix/status/2122759994672120184) — @Solvaix — A 1,792 sq ft house in Colorado Springs for which Claude Opus 5.5 routed every MEP system from scratch (1,784 parts: supply, PEX, drains, 19 circuits, gas), then checked the model against 2021 IRC/IPC/IFGC and 2023 NEC; the author says the first pass had 26 clashes, all rerouted, and a later review caught and fixed 8 of its own code mistakes.
 - [One house, five city codes](https://x.com/Solvaix/status/2123504541005926841) — @Solvaix — Claude Opus 5.5 tried to make one 1,440 sf house, with MEP built to Houston code, legal in Los Angeles, Miami, Buffalo and Chicago; every city found something, and the author cites Los Angeles issues including no fire sprinklers, no rooftop solar, and a gas furnace.
+- [House-design saboteur test](https://x.com/Solvaix/status/2124239591893057934) — @Solvaix — Six Claude Opus 5.5 agents (architect, structural, HVAC, plumbing, electrical and gas) designed one house together, with one secret saboteur planting three code violations. The author ran it six times (each agent was the saboteur once): 30 honest votes were all correct, and the team plus a blind AI examiner caught all 17 real violations, while one mistake slipped through.
 
 ### History & culture
 
@@ -702,6 +704,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - ["Film a self-portrait of yourself"](https://x.com/staley_leo/status/2104078579017650242) — @staley_leo — A cinematic self-portrait film, nearly three minutes long, that Opus 5.5 made from the single instruction "film a self-portrait of yourself" (Chinese).
 - [Opus 5.5 sings through a robot buzzer](https://x.com/oliviazzzu/status/2109574182199591023) — @oliviazzzu — A clip of @oliviazzzu's embodied Claude playing, through its buzzer, a cheerful song that Opus 5.5 wrote.
 - [A video for a failed Claude account appeal](https://x.com/LufzzLiz/status/2111659007564026121) — @LufzzLiz — A three-minute story video that @LufzzLiz made with Opus 5.5 after a Claude account appeal failed; they say three days of Codex versions lost to one afternoon with Opus 5.5 (Chinese).
+- [A film about how it sees the world](https://x.com/Olyvia_Tweets/status/2124452590880760081) — @Olyvia_Tweets — The author asked Claude Opus 5.5 to make a film about how it sees the world.
 
 ### Music videos
 
@@ -971,6 +974,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Night mode, Day 3](https://x.com/camperaigg/status/2122999485232271706) — @camperaigg — Day 3 of an AI game-dev log: with Fable 5.2 no longer on a $20 plan, the author built features with Claude Opus 5.5 Xhigh, adding night mode, a space shuttle, and a navigation torch on the rifle for night and deeper exploration.
 - [Three.js driving simulator](https://x.com/korinVR/status/2123432180827508995) — @korinVR — A Three.js driving simulator that the author has been building with Claude Opus 5.5 for about two weeks; they say the handling is still not right and there is a long way to go.
 - [Playable box-garden slice](https://x.com/ZacharyZhang/status/2123568706877788638) — @ZacharyZhang — A playable pseudo-3D box-garden game (箱庭世界) with a limited camera, built in Cindy collaborative mode: Claude Opus 5.5 wrote the code, Gemini 4 Carbon wrote the copy, and Kimi K3.1 Pro reviewed and handled art, using Tiled Map Editor, Aseprite and Godot. The author says this 15-minute slice is part of a planned ~5-hour story (Chinese).
+- [Age of Dragon](https://x.com/M__Houser/status/2124153573718307003) — @M__Houser — *AOD - Age of Dragon*, a game the author built solo in a few days with Claude Opus 5.5 and Claude Fable 5.2 after quitting their job to make games with AI; they say the reveal response was strong and they are now profitable enough to keep making games.
+- [San Francisco driving game (browser)](https://x.com/rewind02/status/2124152598148087954) — @rewind02 — A GTA 6-style city driving game in the browser with real San Francisco streets and a full HUD, made with Claude Opus 5.5, Blender and Three.js; Opus planned an SF district with real street names, hills, intersections and mission spots, then worked in Blender via MCP.
 
 
 ### Real-time 3D, WebGL & shaders
@@ -1153,6 +1158,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [AAA look in the browser](https://x.com/rewind02/status/2123745767286276410) — @rewind02 — Game environments in the browser that aim for an AAA look with Claude Opus 5.5 and three.js, using a PBR rendering pipeline built from papers, talks and Unreal's published material rather than image generation, and tuned with math instead of gut feeling.
 - [The Hall of Midas](https://x.com/scottstts/status/2123446954541666717) — @scottstts — *The Hall of Midas*, a three.js scene made with Claude Fable 5.2 and Claude Opus 5.5, whose decorations and sculpted carvings are procedural and, the author says, essentially just math.
 - [Cat's-eye world (single HTML file)](https://x.com/NathanWilbanks_/status/2123540831302979764) — @NathanWilbanks_ — An interactive cat's-eye world in a single HTML file, with no images, 3D models or libraries, built using @agnt_gg with Claude Fable 5.2 and Claude Opus 5.5; the author shares the full source.
+- [Realtime path tracing of armies](https://x.com/wizardbrainz/status/2123935773561094149) — @wizardbrainz — Realtime path tracing of massive armies (64,000 characters, 4K at 60+ fps on an RTX 5090, Nvidia DLSS-RR, clustered LOD) in a custom Vulkan renderer; the author says Claude Opus 5.5 is great for quick experiments and that the project is not fully optimised yet.
 
 
 ### Blender & 3D modelling
@@ -1646,6 +1652,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Night takeoff: Opus 5.5 vs Astra vs Neon](https://x.com/SamgreyAi/status/2123898746329071698) — @SamgreyAi — The same prompt, an airplane taking off at night, in three workflows: Claude Opus 5.5 (warm airport lights, a control tower and glowing engines), GPT-6.2 Astra (a bright dusk sky and a clear plane, but a steep climb), and Gemini 4 Neon (a dark plane on a dark runway with little detail).
 - [Two ships: Blender vs Three.js (Opus 5.5 High)](https://x.com/shmopixbzn/status/2123902537937866974) — @shmopixbzn — The same task, twice with Claude Opus 5.5 High: a Blender run (2 hours) vs a Three.js run (28 minutes). The author shows both ships and asks which one wins.
 - [Seaplane over Bora Bora (OutputBench)](https://x.com/eliadele/status/2123878763624857693) — @eliadele — The same one-sentence prompt on OutputBench, an ultra-realistic seaplane flying over Bora Bora, landing on the water and letting passengers off, given to 4 frontier models. The author says Claude Opus 5.5 "completely lost its mind and ran for 12 hours 53" (the post text is truncated there).
+- [Eiffel Tower in Three.js (four models)](https://x.com/Bhavani_00007/status/2124203254011854973) — @Bhavani_00007 — The same prompt, build the Eiffel Tower in Three.js, given to Gemini 4 Neon, GPT-6.2 Astra, GPT-6.2 Sol and Claude Opus 5.5; the author asks which one did it best.
 
 
 ## Notable X / HN showcases
