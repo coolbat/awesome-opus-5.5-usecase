@@ -349,7 +349,7 @@ Third-party evals, launch-day benches, and model-vs-model writeups.
 
 ## Videos (from X)
 
-Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1184 entries (last updated 2026-11-23).
+Video works made with Claude Opus 5.5, each linked to the creator's original X post (`@author`). Every post was checked to exist, mention Opus 5.5, and carry a video. Reposts of the same video are listed once under the original creator. 1194 entries (last updated 2026-11-24).
 
 ### Motion design & code-drawn animation
 
@@ -475,6 +475,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Video editor built with Opus 5.5](https://x.com/nerikeshi_k/status/2123783641088327940) — @nerikeshi_k — A video-editing tool that the author is building together with Claude Opus 5.5; they say it may be looking better than before (Japanese).
 - [Car brand design from one graphic motif](https://x.com/nono_ai_archive/status/2124450317836407098) — @nono_ai_archive — A car-brand design piece that starts from a single graphic motif; the motion was made with Claude Opus 5.5 (the post also credits GPT; Korean).
 - [Reasoning animation in Hermes](https://x.com/aymanemsi/status/2124540239716773940) — @aymanemsi — A reasoning animation made with Claude Opus 5.5 inside the Hermes agent desktop app.
+- [Prelude typeface](https://x.com/nono_ai_archive/status/2125159997424148690) — @nono_ai_archive — *Prelude* (프렐류드체), a typeface made with Claude Opus 5.5.
+- [Zombie animation in the browser (ActionForge)](https://x.com/maxt3chno/status/2124902808591704448) — @maxt3chno — A custom 3D zombie animation made in 17 minutes in the browser, with no Blender and no video reference: the author opened the open-source tool ActionForge in Claude's browser, asked Claude Opus 5.5 to read the docs, uploaded a zombie mesh from Tripo (H2.5, free), had Opus 5.5 rig it in ActionForge, then described the motion in words and got a usable animation after 3 iterations.
 ### Explainers & education
 
 - [Interactive camera-focus lens lab](https://x.com/RyanSael/status/2102591147927654847) — @RyanSael — An interactive lens lab explaining camera focus, one-shot by Opus 5.5 in 1 h 26 min for about $25.66 of API cost.
@@ -688,6 +690,8 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Viking fleet in a backyard](https://x.com/Linus_K_AI/status/2123007811722326104) — @Linus_K_AI — An 80-second short in which three boys with cardboard boxes and a garden hose imagine a viking fleet fighting a sea serpent, made with Claude Opus 5.5 running in omp with a fal agent; the author says every image, shot and sound was generated on fal.
 - [Own-character short](https://x.com/naxweb3/status/2123385665425641846) — @naxweb3 — A short with the author's own character, made with Claude Opus 5.5, Blender on Windows and ElevenLabs; the author says the result is not yet very good and that they will share the breakdown if it gets views.
 - [SHADE](https://x.com/MystiqueMide/status/2124533385242575022) — @MystiqueMide — *SHADE*, the author's first AI video: in a drought-stricken African savannah, a starving widower protects the giant baobab tree and shade his late wife left him from a developer who wants to tear it down. Directed by the author and Claude Opus 5.5, with Seedance 2.5 on Higgsfield for the video and ElevenLabs for the audio.
+- [Long-tailed tit (20s)](https://x.com/aburacadabra_/status/2124912566266925411) — @aburacadabra_ — A 20-second film of a long-tailed tit (오목눈이), made with no video-generation model: one concept still and one motion reference went to Claude Code (Opus 5.5). 3D was rendered in Blender 5.3 via Python (Cycles, 600 frames, about 1 hour on a Mac GPU); typography and UI motion were built in HTML with HyperFrames and GSAP; sound (marimba, water drops, acorns falling) was synthesized in numpy with no audio files.
+- [Dragon fire on a castle](https://x.com/rewind02/status/2124877629966709080) — @rewind02 — A 26-second cinematic of a textured dragon walking through ruins, taking off, flying, and breathing fire at a castle keep. Tripo supplied the models, textures, retopology and starting rig; Claude Opus 5.5 with Blender MCP repaired skin weights and wing deformation, then animated the walk, takeoff, flight and jaw; Unity URP handled materials, cameras, fire and the final cut.
 
 ### Claude on itself
 
@@ -769,6 +773,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Kasane / 襲 (guitar + glass plates)](https://x.com/Charlotteqozf/status/2117540979007983848) — @Charlotteqozf — *Kasane*: Opus 5.5's guitar track visualized as stacked glass plates (ink / gold foil / line / watercolor) that merge into one picture (Japanese).
 - [Weather-grown plant synth](https://x.com/parhelion318/status/2123982460090503626) — @parhelion318 — A slow bio-inspired synth: a simulated plant that grows from location, time and weather simulation and produces unique sounds over days, made with Claude Fable 5.2 and Claude Opus 5.5.
 - [Agentic DAW album](https://x.com/hraness/status/2123790017440964622) — @hraness — After 15 years of producing electronic music in Ableton, the author asked Claude to make a song from scratch: they built a fully agentic DAW, a library of synthesized instruments and effects, and a vocal synth, then iterated for a month on an album (pointers included Hannah Diamond, A. G. Cook, Casey MQ, Greg Egan's *Permutation City* and *The Metamorphosis of Prime Intellect*). They say they mostly used Claude Opus 5.5, with some Fable 5.2 at the end.
+- [Daisy Bell, sung in code](https://x.com/RJasonHA/status/2124813049760772144) — @RJasonHA — The author asked Claude Opus 5.5 to pick a song and perform it using only code, with no external assets. It chose *Daisy Bell*, because that was the first song a computer sang, on an IBM 7094 at Bell Labs in 1961.
 
 ### Games & gameplay
 
@@ -981,6 +986,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [San Francisco driving game (browser)](https://x.com/rewind02/status/2124152598148087954) — @rewind02 — A GTA 6-style city driving game in the browser with real San Francisco streets and a full HUD, made with Claude Opus 5.5, Blender and Three.js; Opus planned an SF district with real street names, hills, intersections and mission spots, then worked in Blender via MCP.
 - [The Time Keeper (AOD)](https://x.com/M__Houser/status/2124585579430224024) — @M__Houser — *The Time Keeper*, a new character for *AOD - Age of Dragon*, made with Claude Opus 5.5, Blender and Tripo; the author says they created it just by chatting, in fewer than 4 prompts.
 - [Age of Vibe Coders](https://x.com/Linus_K_AI/status/2124790912618545223) — @Linus_K_AI — *Age of Vibe Coders*, a browser RTS prototype inspired by *Age of Empires II*, built with omp, Claude Opus 5.5, fal and Three.js; the author had never built a game before, and wants players to generate their own units and nations with AI and then battle friends, with no pay-to-win.
+- [PENGBALL](https://x.com/nowon_wtf/status/2124924059381272727) — @nowon_wtf — *PENGBALL*, a 4v4 penguin snowball game published on Keyfine: the team that paints the snow its own color wins. The author finished it when Claude Opus 5.5 first launched and had set it aside until this release.
 
 
 ### Real-time 3D, WebGL & shaders
@@ -1165,6 +1171,7 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Cat's-eye world (single HTML file)](https://x.com/NathanWilbanks_/status/2123540831302979764) — @NathanWilbanks_ — An interactive cat's-eye world in a single HTML file, with no images, 3D models or libraries, built using @agnt_gg with Claude Fable 5.2 and Claude Opus 5.5; the author shares the full source.
 - [Realtime path tracing of armies](https://x.com/wizardbrainz/status/2123935773561094149) — @wizardbrainz — Realtime path tracing of massive armies (64,000 characters, 4K at 60+ fps on an RTX 5090, Nvidia DLSS-RR, clustered LOD) in a custom Vulkan renderer; the author says Claude Opus 5.5 is great for quick experiments and that the project is not fully optimised yet.
 - [Earth-sized procedural planet](https://x.com/rewind02/status/2124525186988839409) — @rewind02 — An earth-sized procedural planet with no hand-painted textures, built with Claude Opus 5.5, Blender and Unity 6: a GPU cube-sphere with 32×32 quadtree tiles, 25 octaves of 3D noise, camera-at-origin positioning in doubles, Hillaire 2020 atmosphere, volumetric clouds, rain that places biomes, and trees and rocks grown in Blender via MCP and scattered as impostors.
+- [Interactive sketchbook from old doodles](https://x.com/reneedusigns/status/2125020059764666709) — @reneedusigns — An interactive sketchbook made from the author's old doodles, built with Claude Opus 5.5.
 
 
 ### Blender & 3D modelling
@@ -1668,6 +1675,9 @@ Video works made with Claude Opus 5.5, each linked to the creator's original X p
 - [Pirate ship sinking: Neon vs Opus 5.5](https://x.com/remoteugur/status/2124532412340228234) — @remoteugur — The same prompt, an old pirate ship setting sail, turning the helm, furling the sails, then hitting rocks and sinking step by step, with the same camera angles: Gemini 4 Neon (left) vs Claude Opus 5.5 (right). The author says Neon has caught up with Opus and asks which you prefer.
 - [Peacock SVG: Opus 5.5 vs GLM 5.4](https://x.com/SahilPanhotra/status/2124798575809077306) — @SahilPanhotra — The same peacock SVG test in a single HTML file: Claude Opus 5.5 vs GLM 5.4. The author asks if you can see what they see.
 - [Jedi vs Sith (three models, Max)](https://x.com/DanielZambrini/status/2123088844832804873) — @DanielZambrini — The same fight, a Jedi against a Sith: Claude Fable 5.2 Max vs GPT-6.2 Astra Max vs Claude Opus 5.5 Max. The author says Astra wins on character details (clothes, hoodies and hair) but feels sluggish, while Opus and Fable excel on choreography (including a Force push, the Sith breaking rocks, and the Jedi jumping over the Sith and cutting a double lightsaber in two); on finished quality they would take the Opus result.
+- [Tropical island (four models)](https://x.com/insomnia_vip/status/2124803897151676742) — @insomnia_vip — The same challenge, turn a tropical island into a fully realized 3D environment, with turquoise water, green mountains, sandy beaches and overwater villas: Claude Fable 5.2 ($78.45, 1h 31m) vs Claude Opus 5.5 ($54.96, 1h 56m) vs GPT-5.4 ($8.18, 1h 12m) vs GPT-5.1-mini ($1.41, 1h 25m). The author says Fable produced a polished, detailed scene, while the cheaper OpenAI models are a different trade-off.
+- [Lighthouse and giant octopus (four workflows)](https://x.com/Lummox_eth/status/2124831684952523057) — @Lummox_eth — The same lighthouse and giant octopus, with tentacles wrapping the lighthouse while the ocean, camera and lighting stay consistent: GPT-6 Astra ($9, 34 min) vs GPT-6.2 Astra ($25, 27 min) vs Claude Fable 5.2 ($87, 77 min) vs Claude Opus 5.5 ($114, 121 min). The author says 6.2 Astra was faster and more detailed, and that the most expensive octopus looks like the one that needs rescuing.
+- [Chess: Opus 5.5 vs Fable 5.2](https://x.com/kinderlayer/status/2124918219341230407) — @kinderlayer — A full chess game of Claude Opus 5.5 vs Claude Fable 5.2, with every move scored by Stockfish. Both held about 95%+ accuracy for 60 moves, then the game came down to a king and a single rook.
 
 
 ## Notable X / HN showcases
